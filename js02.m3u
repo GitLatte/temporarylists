@@ -1,21 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-country="TR" tvg-logo="http://assets.tvcdn.net/2a1808ad-733e-4223-a8b3-34be18ef21f9.png" group-title="Ekonomi",Bloomberg HT
-http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
-#EXTINF:-1 tvg-id="Ekoturk.tr" tvg-country="TR" tvg-logo="http://assets.tvcdn.net/99155348-56d9-49c6-a0be-50ec0ae790ec.png" group-title="Ekonomi",EkotÃ¼rk
-http://stream.tvcdn.net/ekonomi/ekoturk.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="TR" tvg-logo="http://assets.tvcdn.net/4e98253f-f791-42da-8497-51e821dde886.png" group-title="Ekonomi",Finans TÃ¼rk
-http://stream.tvcdn.net/ekonomi/finans-turk.m3u8
-#EXTINF:-1 tvg-id="CNBCe.tr" tvg-country="TR" tvg-logo="http://assets.tvcdn.net/4371c426-66c5-4452-ba3e-439a0718a997.png" group-title="Ekonomi",CNBC-e
-http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
-#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-country="TR" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png" group-title="Spor",TRT Spor
-http://stream.tvcdn.net/spor/trt-spor.m3u8
-#EXTINF:-1 tvg-id="A&E" tvg-country="USA" tvg-logo="http://assets.tvcdn.net/2a1808ad-733e-4223-a8b3-34be18ef21f9.png" group-title="Test Kategorisi",A&E USA
-https://faptok.site/streamcast/stream.m3u8?id=302
+#EXTINF:-1,ABC USA
+https://faptok.site/streamcast/stream.m3u8?id=51
 #EXTINF:-1,A&E USA
 https://faptok.site/streamcast/stream.m3u8?id=302
 #EXTINF:-1,AMC USA
 https://faptok.site/streamcast/stream.m3u8?id=303
-#EXTINF:-1 tvg-id="animalplanet" ,Animal Planet
+#EXTINF:-1,Animal Planet
 https://faptok.site/streamcast/stream.m3u8?id=304
 #EXTINF:-1,Astro SuperSport 1
 https://faptok.site/streamcast/stream.m3u8?id=123
