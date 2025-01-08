@@ -1,3 +1,52 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TR28>BEIN SPORTS 1 VIP+<" tvg-logo="http://72register34.com/logos/oval/tr/spor/superlig.png" group-title="| RD BEIN-SPORTS |",TR28>BEIN SPORTS 1 VIP+<
+http://191.96.100.120:80/live/abdulrezak49tlf/01102022aa/201242.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR28>BEIN SPORTS 1 (Yedek1)<" tvg-logo="http://72register34.com/logos/bein1yedek.png" group-title="| RD BEIN-SPORTS |",TR28>BEIN SPORTS 1 (Yedek1)<
+http://191.96.100.120:80/live/abdulrezak49tlf/01102022aa/201243.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR28>BEIN SPORTS 1 (Yedek2)<" tvg-logo="http://72register34.com/logos/bein1yedek.png" group-title="| RD BEIN-SPORTS |",TR28>BEIN SPORTS 1 (Yedek2)<
+http://191.96.100.120:80/live/abdulrezak49tlf/01102022aa/201244.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR28>BEIN SPORTS 1 (Yedek3)<" tvg-logo="http://72register34.com/logos/bein1yedek.png" group-title="| RD BEIN-SPORTS |",TR28>BEIN SPORTS 1 (Yedek3)<
+http://191.96.100.120:80/live/abdulrezak49tlf/01102022aa/201245.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR28>BEIN SPORTS 1 (Yedek4)<" tvg-logo="http://72register34.com/logos/bein1yedek.png" group-title="| RD BEIN-SPORTS |",TR28>BEIN SPORTS 1 (Yedek4)<
+http://191.96.100.120:80/live/abdulrezak49tlf/01102022aa/201246.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR28>BEIN SPORTS 1 SD (TTNET)<" tvg-logo="http://72register34.com/logos/bein1-ttnet.png" group-title="| RD BEIN-SPORTS |",TR28>BEIN SPORTS 1 SD (TTNET)<
+http://191.96.100.120:80/live/abdulrezak49tlf/01102022aa/201247.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR28>BEIN SPORTS 1 SD  (TR DUSUK NET)<" tvg-logo="http://72register34.com/logos/bein1-sd.png" group-title="| RD BEIN-SPORTS |",TR28>BEIN SPORTS 1 SD  (TR DUSUK NET)<
+http://191.96.100.120:80/live/abdulrezak49tlf/01102022aa/201248.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR28>BEIN SPORTS 1 HD  (TURKIYE)<" tvg-logo="http://72register34.com/logos/bein1-hd.png" group-title="| RD BEIN-SPORTS |",TR28>BEIN SPORTS 1 HD  (TURKIYE)<
+http://191.96.100.120:80/live/abdulrezak49tlf/01102022aa/201249.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR28>BEIN SPORTS 1 HD  (TURKIYE2)<" tvg-logo="http://72register34.com/logos/bein1-hd.png" group-title="| RD BEIN-SPORTS |",TR28>BEIN SPORTS 1 HD  (TURKIYE2)<
+http://191.96.100.120:80/live/abdulrezak49tlf/01102022aa/201250.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR28>BEIN SPORTS 1 HD  (EUROPA)<" tvg-logo="http://72register34.com/logos/bein1-fhd.png" group-title="| RD BEIN-SPORTS |",TR28>BEIN SPORTS 1 HD  (EUROPA)<
+http://191.96.100.120:80/live/abdulrezak49tlf/01102022aa/201251.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR28>BEIN SPORTS 1 4K (HEVC-265)<" tvg-logo="http://72register34.com/logos/bein1-4k.png" group-title="| RD BEIN-SPORTS |",TR28>BEIN SPORTS 1 4K (HEVC-265)<
+http://191.96.100.120:80/live/abdulrezak49tlf/01102022aa/201252.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR28>BEIN SPORTS 2 SD (TTNET)<" tvg-logo="http://72register34.com/logos/beins2ttnet.png" group-title="| RD BEIN-SPORTS |",TR28>BEIN SPORTS 2 SD (TTNET)<
+http://191.96.100.120:80/live/abdulrezak49tlf/01102022aa/201253.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR28>BEIN SPORTS 2 HD<" tvg-logo="http://72register34.com/logos/beins2hd.png" group-title="| RD BEIN-SPORTS |",TR28>BEIN SPORTS 2 HD<
+http://191.96.100.120:80/live/abdulrezak49tlf/01102022aa/201254.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR28>BEIN SPORTS 2 FHD<" tvg-logo="http://72register34.com/logos/beins2fhd.png" group-title="| RD BEIN-SPORTS |",TR28>BEIN SPORTS 2 FHD<
+http://191.96.100.120:80/live/abdulrezak49tlf/01102022aa/201255.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR28>BEIN SPORTS 3 SD (TTNET)<" tvg-logo="http://72register34.com/logos/bein3ttnet.png" group-title="| RD BEIN-SPORTS |",TR28>BEIN SPORTS 3 SD (TTNET)<
+http://191.96.100.120:80/live/abdulrezak49tlf/01102022aa/201256.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR28>BEIN SPORTS 3 HD<" tvg-logo="http://72register34.com/logos/bein3hd.png" group-title="| RD BEIN-SPORTS |",TR28>BEIN SPORTS 3 HD<
+http://191.96.100.120:80/live/abdulrezak49tlf/01102022aa/201257.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR28>BEIN SPORTS 3 FHD<" tvg-logo="http://72register34.com/logos/bein3fhd.png" group-title="| RD BEIN-SPORTS |",TR28>BEIN SPORTS 3 FHD<
+http://191.96.100.120:80/live/abdulrezak49tlf/01102022aa/201258.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR28>BEIN SPORTS 4 HD<" tvg-logo="http://72register34.com/logos/bein4hd.png" group-title="| RD BEIN-SPORTS |",TR28>BEIN SPORTS 4 HD<
+http://191.96.100.120:80/live/abdulrezak49tlf/01102022aa/201259.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR28>BEIN SPORTS 4 FHD<" tvg-logo="http://72register34.com/logos/bein4fhd.png" group-title="| RD BEIN-SPORTS |",TR28>BEIN SPORTS 4 FHD<
+http://191.96.100.120:80/live/abdulrezak49tlf/01102022aa/201260.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR28>BEIN SPORTS 5 HD<" tvg-logo="http://72register34.com/logos/bein5hd.png" group-title="| RD BEIN-SPORTS |",TR28>BEIN SPORTS 5 HD<
+http://191.96.100.120:80/live/abdulrezak49tlf/01102022aa/201261.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR28>BEIN SPORTS 5 FHD<" tvg-logo="http://72register34.com/logos/bein5hd.png" group-title="| RD BEIN-SPORTS |",TR28>BEIN SPORTS 5 FHD<
+http://191.96.100.120:80/live/abdulrezak49tlf/01102022aa/201262.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR28>BEIN SPORTS MAX 1 FHD<" tvg-logo="http://72register34.com/logos/beinmax1fhd.png" group-title="| RD BEIN-SPORTS |",TR28>BEIN SPORTS MAX 1 FHD<
+http://191.96.100.120:80/live/abdulrezak49tlf/01102022aa/201263.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR28>BEIN SPORTS MAX 2 FHD<" tvg-logo="http://72register34.com/logos/beinmax2fhd.png" group-title="| RD BEIN-SPORTS |",TR28>BEIN SPORTS MAX 2 FHD<
+http://191.96.100.120:80/live/abdulrezak49tlf/01102022aa/201264.ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="TR:EXXEN SPOR 1 SD" tvg-logo="http://72register34.com/logos/oval/tr/spor/exxenspor1sd.png" group-title="TR EXXEN SPORTS",TR:EXXEN SPOR 1 SD
 http://191.96.100.120:80/live/abdulrezak49tlf/01102022aa/179978.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR:EXXEN SPOR 1 HD" tvg-logo="http://72register34.com/logos/oval/tr/spor/exxenspor1hd.png" group-title="TR EXXEN SPORTS",TR:EXXEN SPOR 1 HD
