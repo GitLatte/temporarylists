@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TR28>BEIN SPORTS 1 VIP+<" tvg-logo="http://72register34.com/logos/oval/tr/spor/superlig.png" group-title="| RD BEIN-SPORTS |",TR28>BEIN SPORTS 1 VIP+<
-http://191.96.100.120:80/live/abdulrezak49tlf/01102022aa/201242.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR:TIVIBU SPOR 1 HD" tvg-logo="http://72register34.com/logos/tivibuspor1hd.png" group-title="TR SPOR",TR:TIVIBU SPOR 1 HD
+http://191.96.100.120:80/live/abdulrezak49tlf/01102022aa/180011.ts
 #EXTINF:-1,ABC USA
 https://faptok.site/streamcast/stream.m3u8?id=51
 #EXTINF:-1,A&E USA
