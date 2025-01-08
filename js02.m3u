@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TR:TIVIBU SPOR 1 HD" tvg-logo="http://72register34.com/logos/tivibuspor1hd.png" group-title="TR SPOR",TR:TIVIBU SPOR 1 HD
 http://191.96.100.120:80/live/abdulrezak49tlf/01102022aa/180011.ts
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-country="TR" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png" group-title="Spor",TRT Spor
+http://stream.tvcdn.net/spor/trt-spor.m3u8
 #EXTINF:-1,ABC USA
 https://faptok.site/streamcast/stream.m3u8?id=51
 #EXTINF:-1,A&E USA
