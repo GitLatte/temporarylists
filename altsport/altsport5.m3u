@@ -1,0 +1,339 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="::.:: TR SPOR TV ::.::" tvg-logo="https://webteve.de/Logolar/tr/yerel/tr.png" group-title="TR - SPOR TV",::.:: TR SPOR TV ::.::
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/62083
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="TR: A SPOR HD" tvg-logo="https://webteve.de/Logolar/tr/spor/asporhd.png" group-title="TR - SPOR TV",TR: A SPOR HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/62069
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="TR: A SPOR FHD" tvg-logo="https://webteve.de/Logolar/tr/spor/asportfhd.png" group-title="TR - SPOR TV",TR: A SPOR FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/62068
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR HD" tvg-logo="https://webteve.de/Logolar/tr/spor/trtsporhd.png" group-title="TR - SPOR TV",TR: TRT SPOR HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/62070
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR FHD" tvg-logo="https://webteve.de/Logolar/tr/spor/trtsporfhd.png" group-title="TR - SPOR TV",TR: TRT SPOR FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/62071
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR: TRT SPOR YILDIZ HD" tvg-logo="https://webteve.de/Logolar/tr/spor/trtspor2hd.png" group-title="TR - SPOR TV",TR: TRT SPOR YILDIZ HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/61949
+#EXTINF:-1 tvg-id="trtsporyildiz.tr" tvg-name="TR: TRT SPOR YILDIZ FHD" tvg-logo="https://webteve.de/Logolar/tr/spor/trtsporfhd.png" group-title="TR - SPOR TV",TR: TRT SPOR YILDIZ FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/166501
+#EXTINF:-1 tvg-id="" tvg-name="TR: HT SPOR HD" tvg-logo="http://portal.bylr-tv.com:8080/images/68d0351347ab4cddfefa6a301a0e7862.png" group-title="TR - SPOR TV",TR: HT SPOR HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/185947
+#EXTINF:-1 tvg-id="fbtv.tr" tvg-name="TR: FB TV HD" tvg-logo="https://webteve.de/Logolar/tr/spor/fbtv.png" group-title="TR - SPOR TV",TR: FB TV HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/62072
+#EXTINF:-1 tvg-id="gstv.tr" tvg-name="TR: GS TV HD" tvg-logo="https://webteve.de/Logolar/tr/spor/gstv.png" group-title="TR - SPOR TV",TR: GS TV HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/62074
+#EXTINF:-1 tvg-id="eurosport1.tr" tvg-name="TR: EUROSPORT 1 HD" tvg-logo="https://webteve.de/Logolar/tr/spor/eurosport1hd.png" group-title="TR - SPOR TV",TR: EUROSPORT 1 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/62076
+#EXTINF:-1 tvg-id="eurosport2.tr" tvg-name="TR: EUROSPORT 2 HD" tvg-logo="https://webteve.de/Logolar/tr/spor/eurosport2hd.png" group-title="TR - SPOR TV",TR: EUROSPORT 2 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/62075
+#EXTINF:-1 tvg-id="sportstv.tr" tvg-name="TR: SPORTS TV" tvg-logo="https://webteve.de/Logolar/tr/spor/sportstv.png" group-title="TR - SPOR TV",TR: SPORTS TV
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/62066
+#EXTINF:-1 tvg-id="" tvg-name="TR: FIGHT BOX TV FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/d1cf08a0349e704c3ec7c269069aabbc.png" group-title="TR - SPOR TV",TR: FIGHT BOX TV FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/139512
+#EXTINF:-1 tvg-id="nbatv.tr" tvg-name="TR: NBA TV HD" tvg-logo="https://webteve.de/Logolar/tr/spor/nbatvhd.png" group-title="TR - SPOR TV",TR: NBA TV HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/62059
+#EXTINF:-1 tvg-id="nbatv.tr" tvg-name="TR: NBA TV FHD" tvg-logo="https://webteve.de/Logolar/tr/spor/nbatvfhd.png" group-title="TR - SPOR TV",TR: NBA TV FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/62058
+#EXTINF:-1 tvg-id="beIN MOVIES FANTASTIC HD-TR" tvg-name="TR: TJK TV" tvg-logo="https://webteve.de/Logolar/tr/spor/tjktv.png" group-title="TR - SPOR TV",TR: TJK TV
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/62067
+#EXTINF:-1 tvg-id="TJK TV-TR" tvg-name="TR: T.A.Y TV" tvg-logo="https://webteve.de/Logolar/tr/spor/taytv.png" group-title="TR - SPOR TV",TR: T.A.Y TV
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/80110
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="TR: b-SPORTS HABER HD" tvg-logo="https://webteve.de/Logolar/tr/spor/bsporthaberfhd.png" group-title="TR - b-SPORTS",TR: b-SPORTS HABER HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/187971
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: b-SPORTS 1 SD" tvg-logo="https://webteve.de/Logolar/tr/spor/b1-sd.png" group-title="TR - b-SPORTS",TR: b-SPORTS 1 SD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/189106
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: b-SPORTS 1 HD" tvg-logo="https://webteve.de/Logolar/tr/spor/b1-hd.png" group-title="TR - b-SPORTS",TR: b-SPORTS 1 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/189107
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: b-SPORTS 1 HD+" tvg-logo="https://webteve.de/Logolar/tr/spor/b1-hd2.png" group-title="TR - b-SPORTS",TR: b-SPORTS 1 HD+
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/189108
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: b-SPORTS 1 FHD" tvg-logo="https://webteve.de/Logolar/tr/spor/b1-fhd.png" group-title="TR - b-SPORTS",TR: b-SPORTS 1 FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/189109
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: b-SPORTS 1 FHD+" tvg-logo="https://webteve.de/Logolar/tr/spor/b1-fhd2.png" group-title="TR - b-SPORTS",TR: b-SPORTS 1 FHD+
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/189110
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: b-SPORTS FEED" tvg-logo="https://webteve.de/Logolar/tr/spor/b1-feed.png" group-title="TR - b-SPORTS",TR: b-SPORTS FEED
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/189111
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: b-SPORTS 2 HD" tvg-logo="https://webteve.de/Logolar/tr/spor/b2hd.png" group-title="TR - b-SPORTS",TR: b-SPORTS 2 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/189104
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: b-SPORTS 2 FHD" tvg-logo="https://webteve.de/Logolar/tr/spor/b2fhd.png" group-title="TR - b-SPORTS",TR: b-SPORTS 2 FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/189105
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: b-SPORTS 3 HD" tvg-logo="https://webteve.de/Logolar/tr/spor/b3hd.png" group-title="TR - b-SPORTS",TR: b-SPORTS 3 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/189102
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: b-SPORTS 3 FHD" tvg-logo="https://webteve.de/Logolar/tr/spor/b3fhd.png" group-title="TR - b-SPORTS",TR: b-SPORTS 3 FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/189103
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: b-SPORTS 4 HD" tvg-logo="https://webteve.de/Logolar/tr/spor/b4hd.png" group-title="TR - b-SPORTS",TR: b-SPORTS 4 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/189100
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: b-SPORTS 4 FHD" tvg-logo="https://webteve.de/Logolar/tr/spor/b4fhd.png" group-title="TR - b-SPORTS",TR: b-SPORTS 4 FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/189101
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: b-SPORTS 5 HD" tvg-logo="https://webteve.de/Logolar/tr/spor/b5hd.png" group-title="TR - b-SPORTS",TR: b-SPORTS 5 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/189098
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: b-SPORTS 5 FHD" tvg-logo="https://webteve.de/Logolar/tr/spor/b5fhd.png" group-title="TR - b-SPORTS",TR: b-SPORTS 5 FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/189099
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: b-SPORTS MAX 1 HD" tvg-logo="https://webteve.de/Logolar/tr/spor/bmax1hd.png" group-title="TR - b-SPORTS",TR: b-SPORTS MAX 1 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/189094
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: b-SPORTS MAX 1 FHD" tvg-logo="https://webteve.de/Logolar/tr/spor/bmax1fhd.png" group-title="TR - b-SPORTS",TR: b-SPORTS MAX 1 FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/189095
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: b-SPORTS MAX 2 HD" tvg-logo="https://webteve.de/Logolar/tr/spor/bmax2hd.png" group-title="TR - b-SPORTS",TR: b-SPORTS MAX 2 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/189096
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="TR: b-SPORTS MAX 2 FHD" tvg-logo="https://webteve.de/Logolar/tr/spor/bmax2fhd.png" group-title="TR - b-SPORTS",TR: b-SPORTS MAX 2 FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/189097
+#EXTINF:-1 tvg-id="" tvg-name="TR: b-CONNECT 1" tvg-logo="https://webteve.de/Logolar/tr/spor/bcon.png" group-title="TR - b-SPORTS",TR: b-CONNECT 1
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/189088
+#EXTINF:-1 tvg-id="" tvg-name="TR: b-CONNECT 2" tvg-logo="https://webteve.de/Logolar/tr/spor/bcon.png" group-title="TR - b-SPORTS",TR: b-CONNECT 2
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/189089
+#EXTINF:-1 tvg-id="" tvg-name="TR: b-CONNECT 3" tvg-logo="https://webteve.de/Logolar/tr/spor/bcon.png" group-title="TR - b-SPORTS",TR: b-CONNECT 3
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/189090
+#EXTINF:-1 tvg-id="" tvg-name="TR: b-CONNECT 4" tvg-logo="https://webteve.de/Logolar/tr/spor/bcon.png" group-title="TR - b-SPORTS",TR: b-CONNECT 4
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/189091
+#EXTINF:-1 tvg-id="" tvg-name="TR: b-CONNECT 5" tvg-logo="https://webteve.de/Logolar/tr/spor/bcon.png" group-title="TR - b-SPORTS",TR: b-CONNECT 5
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/189092
+#EXTINF:-1 tvg-id="" tvg-name="TR: b-CONNECT 6" tvg-logo="https://webteve.de/Logolar/tr/spor/bcon.png" group-title="TR - b-SPORTS",TR: b-CONNECT 6
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/189093
+#EXTINF:-1 tvg-id="" tvg-name="::.:: TABII SPOR ::.::" tvg-logo="http://portal.bylr-tv.com:8080/images/1178d2cdc5af560c1d40c28efe8cc888.png" group-title="TR - TABII SPORTS",::.:: TABII SPOR ::.::
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/179742
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPOR HD" tvg-logo="https://webteve.de/Logolar/tr/spor/tbspr.png" group-title="TR - TABII SPORTS",TR: TABII SPOR HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/187006
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPOR 1 FHD" tvg-logo="https://webteve.de/Logolar/tr/spor/tbspr.png" group-title="TR - TABII SPORTS",TR: TABII SPOR 1 FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/179743
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPOR 2 FHD" tvg-logo="https://webteve.de/Logolar/tr/spor/tbspr.png" group-title="TR - TABII SPORTS",TR: TABII SPOR 2 FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/179744
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPOR 3 FHD" tvg-logo="https://webteve.de/Logolar/tr/spor/tbspr.png" group-title="TR - TABII SPORTS",TR: TABII SPOR 3 FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/179745
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPOR 4 FHD" tvg-logo="https://webteve.de/Logolar/tr/spor/tbspr.png" group-title="TR - TABII SPORTS",TR: TABII SPOR 4 FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/179746
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPOR 5 FHD" tvg-logo="https://webteve.de/Logolar/tr/spor/tbspr.png" group-title="TR - TABII SPORTS",TR: TABII SPOR 5 FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/179747
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPOR 6 FHD" tvg-logo="https://webteve.de/Logolar/tr/spor/tbspr.png" group-title="TR - TABII SPORTS",TR: TABII SPOR 6 FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/179748
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S SPORT 1 HD" tvg-logo="https://webteve.de/Logolar/tr/spor/ssport1hd.png" group-title="TR - S SPORT",TR: S SPORT 1 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/62079
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S SPORT 1 FHD" tvg-logo="https://webteve.de/Logolar/tr/spor/ssport1fhd.png" group-title="TR - S SPORT",TR: S SPORT 1 FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/62078
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="TR: S SPORT  2 HD" tvg-logo="https://webteve.de/Logolar/tr/spor/ssport2hd.png" group-title="TR - S SPORT",TR: S SPORT  2 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/62547
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="TR: S SPORT 2 FHD" tvg-logo="https://webteve.de/Logolar/tr/spor/ssport2fhd.png" group-title="TR - S SPORT",TR: S SPORT 2 FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/166495
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT+ 1 HD" tvg-logo="https://webteve.de/Logolar/tr/spor/ssportplus1.png" group-title="TR - S SPORT",TR: S SPORT+ 1 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/112275
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT+ 2 HD" tvg-logo="https://webteve.de/Logolar/tr/spor/ssportplus2.png" group-title="TR - S SPORT",TR: S SPORT+ 2 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/112276
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT+ 3 HD" tvg-logo="https://webteve.de/Logolar/tr/spor/ssportplus3.png" group-title="TR - S SPORT",TR: S SPORT+ 3 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/112277
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT+ 4 HD" tvg-logo="https://webteve.de/Logolar/tr/spor/ssportplus4.png" group-title="TR - S SPORT",TR: S SPORT+ 4 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/112278
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT+ 5 HD" tvg-logo="https://webteve.de/Logolar/tr/spor/ssportplus5.png" group-title="TR - S SPORT",TR: S SPORT+ 5 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/112279
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR: SPOR SMART 1 HD" tvg-logo="https://webteve.de/Logolar/tr/spor/sporsmarthd.png" group-title="TR - D-SMART - TIVIBU",TR: SPOR SMART 1 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/62082
+#EXTINF:-1 tvg-id="sporsmart.tr" tvg-name="TR: SPOR SMART 1 FHD" tvg-logo="https://webteve.de/Logolar/tr/spor/sporsmarfhd.png" group-title="TR - D-SMART - TIVIBU",TR: SPOR SMART 1 FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/62081
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR: SPOR SMART 2 HD" tvg-logo="https://webteve.de/Logolar/tr/spor/sporsmart2hd.png" group-title="TR - D-SMART - TIVIBU",TR: SPOR SMART 2 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/90126
+#EXTINF:-1 tvg-id="sporsmart.tr" tvg-name="TR: SPOR SMART 2 FHD" tvg-logo="https://webteve.de/Logolar/tr/spor/sporsmartvip.png" group-title="TR - D-SMART - TIVIBU",TR: SPOR SMART 2 FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/166496
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 1" tvg-logo="https://webteve.de/Logolar/tr/spor/Exxen.png" group-title="TR - EXXEN SPORTS",TR: EXXEN SPOR 1
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/113315
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 1 HD" tvg-logo="https://webteve.de/Logolar/tr/spor/Exxen.png" group-title="TR - EXXEN SPORTS",TR: EXXEN SPOR 1 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/112159
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 1 HD+" tvg-logo="https://webteve.de/Logolar/tr/spor/Exxen.png" group-title="TR - EXXEN SPORTS",TR: EXXEN SPOR 1 HD+
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/113405
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 1 FHD" tvg-logo="https://webteve.de/Logolar/tr/spor/Exxen.png" group-title="TR - EXXEN SPORTS",TR: EXXEN SPOR 1 FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/114092
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 2 HD" tvg-logo="https://webteve.de/Logolar/tr/spor/Exxen.png" group-title="TR - EXXEN SPORTS",TR: EXXEN SPOR 2 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/112273
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 3 HD" tvg-logo="https://webteve.de/Logolar/tr/spor/Exxen.png" group-title="TR - EXXEN SPORTS",TR: EXXEN SPOR 3 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/112274
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 4 HD" tvg-logo="https://webteve.de/Logolar/tr/spor/Exxen.png" group-title="TR - EXXEN SPORTS",TR: EXXEN SPOR 4 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/113310
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 5 HD" tvg-logo="https://webteve.de/Logolar/tr/spor/Exxen.png" group-title="TR - EXXEN SPORTS",TR: EXXEN SPOR 5 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/113311
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 6 HD" tvg-logo="https://webteve.de/Logolar/tr/spor/Exxen.png" group-title="TR - EXXEN SPORTS",TR: EXXEN SPOR 6 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/113312
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 7 HD" tvg-logo="https://webteve.de/Logolar/tr/spor/Exxen.png" group-title="TR - EXXEN SPORTS",TR: EXXEN SPOR 7 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/113313
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 8 HD" tvg-logo="https://webteve.de/Logolar/tr/spor/Exxen.png" group-title="TR - EXXEN SPORTS",TR: EXXEN SPOR 8 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/113314
+#EXTINF:-1 tvg-id="Tivibu Spor-TR" tvg-name="TR: TIVIBUSPOR HD" tvg-logo="https://webteve.de/Logolar/tr/spor/tivibusporhd.png" group-title="TR - D-SMART - TIVIBU",TR: TIVIBUSPOR HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/62065
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TIVIBUSPOR 1 HD" tvg-logo="https://webteve.de/Logolar/tr/spor/tivibuspor1hd.png" group-title="TR - D-SMART - TIVIBU",TR: TIVIBUSPOR 1 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/62064
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 1 FHD" tvg-logo="https://webteve.de/Logolar/tr/spor/tivibuspor1fhd.png" group-title="TR - D-SMART - TIVIBU",TR: TIVIBUSPOR 1 FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/166497
+#EXTINF:-1 tvg-id="EBA TV ilkokul-TR" tvg-name="TR: TIVIBUSPOR 2 HD" tvg-logo="https://webteve.de/Logolar/tr/spor/tivibuspor2hd.png" group-title="TR - D-SMART - TIVIBU",TR: TIVIBUSPOR 2 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/62063
+#EXTINF:-1 tvg-id="EBA TV ilkokul-TR" tvg-name="TR: TIVIBUSPOR 2 FHD" tvg-logo="https://webteve.de/Logolar/tr/spor/tivibuspor2fhd.png" group-title="TR - D-SMART - TIVIBU",TR: TIVIBUSPOR 2 FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/62062
+#EXTINF:-1 tvg-id="EBA TV ilkokul-TR" tvg-name="TR: TIVIBUSPOR 3 HD" tvg-logo="https://webteve.de/Logolar/tr/spor/tivibuspor3hd.png" group-title="TR - D-SMART - TIVIBU",TR: TIVIBUSPOR 3 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/62061
+#EXTINF:-1 tvg-id="EBA TV ilkokul-TR" tvg-name="TR: TIVIBUSPOR 3 FHD" tvg-logo="https://webteve.de/Logolar/tr/spor/tivibuspor3fhd.png" group-title="TR - D-SMART - TIVIBU",TR: TIVIBUSPOR 3 FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/62060
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 4 HD" tvg-logo="https://webteve.de/Logolar/tr/spor/tivibuspor4web.png" group-title="TR - D-SMART - TIVIBU",TR: TIVIBUSPOR 4 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/109946
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 4 FHD" tvg-logo="https://webteve.de/Logolar/tr/spor/tivibuspor4web.png" group-title="TR - D-SMART - TIVIBU",TR: TIVIBUSPOR 4 FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/121470
+#EXTINF:-1 tvg-id="" tvg-name="::.:: 2. & 3. LIG MACLAR ::.::" tvg-logo="http://portal.bylr-tv.com:8080/images/a27b7b9f728d4b9109f95e8ee1040c68.png" group-title="TR - FIL SPOR",::.:: 2. & 3. LIG MACLAR ::.::
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/178424
+#EXTINF:-1 tvg-id="" tvg-name="TR: FIL SPOR 1" tvg-logo="http://portal.bylr-tv.com:8080/images/a27b7b9f728d4b9109f95e8ee1040c68.png" group-title="TR - FIL SPOR",TR: FIL SPOR 1
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/178425
+#EXTINF:-1 tvg-id="" tvg-name="TR: FIL SPOR 2" tvg-logo="http://portal.bylr-tv.com:8080/images/a27b7b9f728d4b9109f95e8ee1040c68.png" group-title="TR - FIL SPOR",TR: FIL SPOR 2
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/178426
+#EXTINF:-1 tvg-id="" tvg-name="TR: FIL SPOR 3" tvg-logo="http://portal.bylr-tv.com:8080/images/a27b7b9f728d4b9109f95e8ee1040c68.png" group-title="TR - FIL SPOR",TR: FIL SPOR 3
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/178427
+#EXTINF:-1 tvg-id="" tvg-name="TR: FIL SPOR 4" tvg-logo="http://portal.bylr-tv.com:8080/images/a27b7b9f728d4b9109f95e8ee1040c68.png" group-title="TR - FIL SPOR",TR: FIL SPOR 4
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/178428
+#EXTINF:-1 tvg-id="" tvg-name="TR: FIL SPOR 5" tvg-logo="http://portal.bylr-tv.com:8080/images/a27b7b9f728d4b9109f95e8ee1040c68.png" group-title="TR - FIL SPOR",TR: FIL SPOR 5
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/178429
+#EXTINF:-1 tvg-id="" tvg-name="TR: FIL SPOR 6" tvg-logo="http://portal.bylr-tv.com:8080/images/a27b7b9f728d4b9109f95e8ee1040c68.png" group-title="TR - FIL SPOR",TR: FIL SPOR 6
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/178430
+#EXTINF:-1 tvg-id="" tvg-name="::.:: ULUSAL ::.::" tvg-logo="https://webteve.de/Logolar/tr/ulusal/tr.png" group-title="TR - ULUSAL",::.:: ULUSAL ::.::
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/7841
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 HD" tvg-logo="https://webteve.de/Logolar/tr/ulusal/trt1hd.png" group-title="TR - ULUSAL",TR: TRT 1 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/61735
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 FHD" tvg-logo="https://webteve.de/Logolar/tr/ulusal/trt1fhd.png" group-title="TR - ULUSAL",TR: TRT 1 FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/61736
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV HD" tvg-logo="https://webteve.de/Logolar/tr/ulusal/atvhd.png" group-title="TR - ULUSAL",TR: ATV HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/61757
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV FHD" tvg-logo="https://webteve.de/Logolar/tr/ulusal/atvfhd.png" group-title="TR - ULUSAL",TR: ATV FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/61758
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: KANAL D HD" tvg-logo="https://webteve.de/Logolar/tr/ulusal/kanaldhd.png" group-title="TR - ULUSAL",TR: KANAL D HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/61749
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: KANAL D FHD" tvg-logo="https://webteve.de/Logolar/tr/ulusal/kanaldfhd.png" group-title="TR - ULUSAL",TR: KANAL D FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/61750
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TV HD" tvg-logo="https://webteve.de/Logolar/tr/ulusal/showtvhd.png" group-title="TR - ULUSAL",TR: SHOW TV HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/61751
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TV FHD" tvg-logo="https://webteve.de/Logolar/tr/ulusal/showtvfhd.png" group-title="TR - ULUSAL",TR: SHOW TV FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/61752
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: STAR TV HD" tvg-logo="https://webteve.de/Logolar/tr/ulusal/startvhd.png" group-title="TR - ULUSAL",TR: STAR TV HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/61754
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: STAR TV FHD" tvg-logo="https://webteve.de/Logolar/tr/ulusal/startvfhd.png" group-title="TR - ULUSAL",TR: STAR TV FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/61755
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: NOW TV HD" tvg-logo="https://webteve.de/Logolar/tr/ulusal/nowtvhd.png" group-title="TR - ULUSAL",TR: NOW TV HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/61747
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: NOW TV FHD" tvg-logo="https://webteve.de/Logolar/tr/ulusal/nowtvfhd.png" group-title="TR - ULUSAL",TR: NOW TV FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/61748
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR: TV8 HD" tvg-logo="https://webteve.de/Logolar/tr/ulusal/tv8hd.png" group-title="TR - ULUSAL",TR: TV8 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/61745
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR: TV8 FHD" tvg-logo="https://webteve.de/Logolar/tr/ulusal/tv8fhd.png" group-title="TR - ULUSAL",TR: TV8 FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/61746
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR: TV 8.5 HD" tvg-logo="https://webteve.de/Logolar/tr/ulusal/tv8bucukhd.png" group-title="TR - ULUSAL",TR: TV 8.5 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/61743
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR: TV 8.5 FHD" tvg-logo="https://webteve.de/Logolar/tr/ulusal/tv8bucukfhd.png" group-title="TR - ULUSAL",TR: TV 8.5 FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/61744
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR: BEYAZ TV HD" tvg-logo="https://webteve.de/Logolar/tr/ulusal/beyaztvhd.png" group-title="TR - ULUSAL",TR: BEYAZ TV HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/61741
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR: BEYAZ TV FHD" tvg-logo="https://webteve.de/Logolar/tr/ulusal/beyaztvfhd.png" group-title="TR - ULUSAL",TR: BEYAZ TV FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/61742
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL 7 HD" tvg-logo="https://webteve.de/Logolar/tr/ulusal/kanal7hd.png" group-title="TR - ULUSAL",TR: KANAL 7 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/61737
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL 7 FHD" tvg-logo="https://webteve.de/Logolar/tr/ulusal/kanal7fhd.png" group-title="TR - ULUSAL",TR: KANAL 7 FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/61738
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR: 360 HD" tvg-logo="https://webteve.de/Logolar/tr/ulusal/360tvhd.png" group-title="TR - ULUSAL",TR: 360 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/61731
+#EXTINF:-1 tvg-id="trt2.tr" tvg-name="TR: TRT 2 HD" tvg-logo="https://webteve.de/Logolar/tr/ulusal/trt2hd.png" group-title="TR - ULUSAL",TR: TRT 2 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/61763
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="TR: A2 HD" tvg-logo="https://webteve.de/Logolar/tr/ulusal/a2hd.png" group-title="TR - ULUSAL",TR: A2 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/61733
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TR: TEVE 2 HD" tvg-logo="https://webteve.de/Logolar/tr/ulusal/teve2hd.png" group-title="TR - ULUSAL",TR: TEVE 2 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/61739
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TR: TEVE 2 FHD" tvg-logo="https://webteve.de/Logolar/tr/ulusal/teve2fhd.png" group-title="TR - ULUSAL",TR: TEVE 2 FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/61740
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: EURO STAR" tvg-logo="https://webteve.de/Logolar/tr/ulusal/eurostarhd.png" group-title="TR - ULUSAL",TR: EURO STAR
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/80044
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TURK" tvg-logo="https://webteve.de/Logolar/tr/ulusal/showturkhd.png" group-title="TR - ULUSAL",TR: SHOW TURK
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/80042
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR: TV8 INT" tvg-logo="https://webteve.de/Logolar/tr/ulusal/tv8int.png" group-title="TR - ULUSAL",TR: TV8 INT
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/80045
+#EXTINF:-1 tvg-id="" tvg-name="TR: EURO D" tvg-logo="https://webteve.de/Logolar/tr/ulusal/eurodhd.png" group-title="TR - ULUSAL",TR: EURO D
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/149225
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV AVRUPA HD" tvg-logo="https://webteve.de/Logolar/tr/ulusal/atvavrupahd.png" group-title="TR - ULUSAL",TR: ATV AVRUPA HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/149226
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7 AVRUPA FHD" tvg-logo="https://webteve.de/Logolar/tr/ulusal/kanal7avrupahd.png" group-title="TR - ULUSAL",TR: KANAL 7 AVRUPA FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/149227
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV4 FHD" tvg-logo="https://webteve.de/Logolar/tr/cocuk/tv4hd.png" group-title="TR - ULUSAL",TR: TV4 FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/149228
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT EU" tvg-logo="https://webteve.de/Logolar/tr/haber/tgrteuhd.png" group-title="TR - ULUSAL",TR: TGRT EU
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/149229
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL AVRUPA" tvg-logo="https://webteve.de/Logolar/tr/ulusal/kanalavrupahd.png" group-title="TR - YEREL",TR: KANAL AVRUPA
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/80089
+#EXTINF:-1 tvg-id="" tvg-name="::.:: HABER ::.::" tvg-logo="https://webteve.de/Logolar/tr/ulusal/tr.png" group-title="TR - HABER",::.:: HABER ::.::
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/8138
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="TR: A HABER HD" tvg-logo="https://webteve.de/Logolar/tr/haber/ahaberhd.png" group-title="TR - HABER",TR: A HABER HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/80193
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="TR: A HABER FHD" tvg-logo="https://webteve.de/Logolar/tr/haber/ahaberfhd.png" group-title="TR - HABER",TR: A HABER FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/80207
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="TR: CNN TURK HD" tvg-logo="https://webteve.de/Logolar/tr/haber/cnnturkhd.png" group-title="TR - HABER",TR: CNN TURK HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/80195
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="TR: CNN TURK FHD" tvg-logo="https://webteve.de/Logolar/tr/haber/cnnturkfhd.png" group-title="TR - HABER",TR: CNN TURK FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/80208
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="TR: HABER TURK HD" tvg-logo="https://webteve.de/Logolar/tr/haber/haberturkhd.png" group-title="TR - HABER",TR: HABER TURK HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/80196
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="TR: HABER TURK FHD" tvg-logo="https://webteve.de/Logolar/tr/haber/haberturkfhd.png" group-title="TR - HABER",TR: HABER TURK FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/80209
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TR: TRT HABER HD" tvg-logo="https://webteve.de/Logolar/tr/haber/trthaberhd.png" group-title="TR - HABER",TR: TRT HABER HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/80205
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TR: TRT HABER FHD" tvg-logo="https://webteve.de/Logolar/tr/haber/trthaberfhd.png" group-title="TR - HABER",TR: TRT HABER FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/80189
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="TR: NTV HD" tvg-logo="https://webteve.de/Logolar/tr/haber/ntvhd.png" group-title="TR - HABER",TR: NTV HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/80197
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="TR: NTV FHD" tvg-logo="https://webteve.de/Logolar/tr/haber/ntvfhd.png" group-title="TR - HABER",TR: NTV FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/80206
+#EXTINF:-1 tvg-id="ulketv.tr" tvg-name="TR: ÜLKE TV HD" tvg-logo="https://webteve.de/Logolar/tr/haber/ulketvhd.png" group-title="TR - HABER",TR: ÜLKE TV HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/80202
+#EXTINF:-1 tvg-id="ulketv.tr" tvg-name="TR: ÜLKE TV FHD" tvg-logo="https://webteve.de/Logolar/tr/haber/ulketvfhd.png" group-title="TR - HABER",TR: ÜLKE TV FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/80186
+#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-name="TR: TGRT HABER HD" tvg-logo="https://webteve.de/Logolar/tr/haber/tgrthaberhd.png" group-title="TR - HABER",TR: TGRT HABER HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/80198
+#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-name="TR: TGRT HABER FHD" tvg-logo="https://webteve.de/Logolar/tr/haber/tgrthaberfhd.png" group-title="TR - HABER",TR: TGRT HABER FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/166507
+#EXTINF:-1 tvg-id="" tvg-name="TR: SZC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="TR - HABER",TR: SZC HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/164180
+#EXTINF:-1 tvg-id="" tvg-name="TR: SZC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="TR - HABER",TR: SZC FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/166502
+#EXTINF:-1 tvg-id="halk.tr" tvg-name="TR: HALK TV HD" tvg-logo="https://webteve.de/Logolar/tr/haber/halktvhd.png" group-title="TR - HABER",TR: HALK TV HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/80187
+#EXTINF:-1 tvg-id="halk.tr" tvg-name="TR: HALK TV FHD" tvg-logo="https://webteve.de/Logolar/tr/haber/halktvfhd.png" group-title="TR - HABER",TR: HALK TV FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/166503
+#EXTINF:-1 tvg-id="" tvg-name="TR: FLASH TV HD" tvg-logo="https://flashtv.com.tr/wp-content/uploads/2021/11/flashtv-logo.png" group-title="TR - HABER",TR: FLASH TV HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/113536
+#EXTINF:-1 tvg-id="" tvg-name="TR: FLASH TV FHD" tvg-logo="https://flashtv.com.tr/wp-content/uploads/2021/11/flashtv-logo.png" group-title="TR - HABER",TR: FLASH TV FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/166504
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: 24 TV HD" tvg-logo="https://webteve.de/Logolar/tr/haber/kanal24hd.png" group-title="TR - HABER",TR: 24 TV HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/80199
+#EXTINF:-1 tvg-id="" tvg-name="TR: 24 TV FHD" tvg-logo="https://webteve.de/Logolar/tr/haber/kanal24fhd.png" group-title="TR - HABER",TR: 24 TV FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/166505
+#EXTINF:-1 tvg-id="" tvg-name="TR: EKOL TV " tvg-logo="http://portal.bylr-tv.com:8080/images/5c9f6478d7667987f4e079a1fcdaccd6.png" group-title="TR - HABER",TR: EKOL TV 
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/182219
+#EXTINF:-1 tvg-id="TELE 1-TR" tvg-name="TR: TELE 1 HD" tvg-logo="https://webteve.de/Logolar/tr/haber/tele1hd.png" group-title="TR - HABER",TR: TELE 1 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/80053
+#EXTINF:-1 tvg-id="" tvg-name="TR: KRT TV HD" tvg-logo="https://webteve.de/Logolar/tr/haber/krthd.png" group-title="TR - HABER",TR: KRT TV HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/166506
+#EXTINF:-1 tvg-id="KRT TV HD-TR" tvg-name="TR: KRT TV FHD" tvg-logo="https://webteve.de/Logolar/tr/haber/krtfhd.png" group-title="TR - HABER",TR: KRT TV FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/80188
+#EXTINF:-1 tvg-id="haberglobal.tr" tvg-name="TR: HABER GLOBAL HD" tvg-logo="https://webteve.de/Logolar/tr/haber/haberglobalhd.png" group-title="TR - HABER",TR: HABER GLOBAL HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/80194
+#EXTINF:-1 tvg-id="haberglobal.tr" tvg-name="TR: HABER GLOBAL FHD" tvg-logo="https://webteve.de/Logolar/tr/haber/haberglobalfhd.png" group-title="TR - HABER",TR: HABER GLOBAL FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/80203
+#EXTINF:-1 tvg-id="" tvg-name="TR: TH TURKHABER HD" tvg-logo="https://webteve.de/Logolar/tr/haber/thturkhaberhd.png" group-title="TR - HABER",TR: TH TURKHABER HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/121471
+#EXTINF:-1 tvg-id="" tvg-name="TR: BENGUTURK HD" tvg-logo="https://webteve.de/Logolar/tr/haber/benguturkhd.png" group-title="TR - HABER",TR: BENGUTURK HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/121472
+#EXTINF:-1 tvg-id="" tvg-name="TR: AKIT TV HD" tvg-logo="https://webteve.de/Logolar/tr/haber/akittvhd.png" group-title="TR - HABER",TR: AKIT TV HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/80098
+#EXTINF:-1 tvg-id="tvnet.tr" tvg-name="TR: TVNET HD" tvg-logo="https://webteve.de/Logolar/tr/haber/tvnethd.png" group-title="TR - HABER",TR: TVNET HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/80185
+#EXTINF:-1 tvg-id="TV 100-TR" tvg-name="TR: TV100 HD" tvg-logo="https://webteve.de/Logolar/tr/haber/tv100hd.png" group-title="TR - HABER",TR: TV100 HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/80184
+#EXTINF:-1 tvg-id="" tvg-name="TR: UZAY HABER" tvg-logo="https://webteve.de/Logolar/tr/haber/uzayhaberhd.png" group-title="TR - HABER",TR: UZAY HABER
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/80183
+#EXTINF:-1 tvg-id="ekoturk.tr" tvg-name="TR: EKO TURK HD" tvg-logo="https://webteve.de/Logolar/tr/haber/ekoturkhd.png" group-title="TR - HABER",TR: EKO TURK HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/80190
+#EXTINF:-1 tvg-id="bloomberght.tr" tvg-name="TR: BLOOMBERG HT HD" tvg-logo="https://webteve.de/Logolar/tr/haber/bloomberghthd.png" group-title="TR - HABER",TR: BLOOMBERG HT HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/80191
+#EXTINF:-1 tvg-id="bloomberght.tr" tvg-name="TR: BLOOMBERG HT FHD" tvg-logo="https://webteve.de/Logolar/tr/haber/bloomberghtfhd.png" group-title="TR - HABER",TR: BLOOMBERG HT FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/80200
+#EXTINF:-1 tvg-id="liderhaber.tv" tvg-name="TR: LIDER HABER HD" tvg-logo="https://webteve.de/Logolar/tr/haber/lider.png" group-title="TR - HABER",TR: LIDER HABER HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/174782
+#EXTINF:-1 tvg-id="A Para HD-TR" tvg-name="TR: A PARA HD" tvg-logo="https://webteve.de/Logolar/tr/haber/aparahd.png" group-title="TR - HABER",TR: A PARA HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/80192
+#EXTINF:-1 tvg-id="A Para HD-TR" tvg-name="TR: A PARA FHD" tvg-logo="https://webteve.de/Logolar/tr/haber/aparahd.png" group-title="TR - HABER",TR: A PARA FHD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/80204
+#EXTINF:-1 tvg-id="A News HD-TR" tvg-name="TR: A NEWS HD" tvg-logo="https://webteve.de/Logolar/tr/haber/anewshd.png" group-title="TR - HABER",TR: A NEWS HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/80201
+#EXTINF:-1 tvg-id="" tvg-name="TR: CNBC-E HD" tvg-logo="http://portal.bylr-tv.com:8080/images/0ffc0d0900b06cb8aba9115e43de754c.png" group-title="TR - HABER",TR: CNBC-E HD
+http://trendtv.xyz:8080/bestxx1x/4545eWfeWRsG1xIxIl/178988
