@@ -35,8 +35,8 @@ func generateM3U(group, name, logo, tvgID, url string) (string, string) {
     // Ensure no double .m3u8.m3u8 in URLs
     url = strings.Replace(url, ".m3u8.m3u8", ".m3u8", -1)
 
-    // Replace vavoo.to URL with your GitHub Pages URL
-    url = strings.Replace(url, "https://vavoo.to/play/", "https://gitlatte.github.io/temporarylists/", 1)
+    // Replace vavoo.to URL with GitLatte GitHub Pages URL and use redirect.html
+    url = strings.Replace(url, "https://vavoo.to/play/", "https://gitlatte.github.io/temporarylists/redirect.html/vavoo/", 1)
     url = strings.Replace(url, "/index.m3u8", ".m3u8", 1)
 
     return fmt.Sprintf("#EXTINF:-1 tvg-id=\"%s\" tvg-name=\"%s\" tvg-logo=\"%s\" group-title=\"%s\" http-user-agent=\"VAVOO/1.0\" http-referrer=\"https://vavoo.to/\",%s\n"+
