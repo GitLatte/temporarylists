@@ -20,24 +20,11 @@ type Item struct {
 
 // generateM3U generates M3U content for a single item
 func generateM3U(group, name, logo, tvgID, url string) (string, string) {
-    // Replace .ts with /index.m3u8 and /live2/play with /play
-    url = strings.Replace(url, ".ts", "/index.m3u8", -1)
-    url = strings.Replace(url, "/live2/play", "/play", -1)
-
-    // Additional check to ensure no .ts links remain and correct URL format
-    if strings.Contains(url, ".ts") {
-        url = strings.Replace(url, ".ts", "/index.m3u8", -1)
-    }
-    if !strings.HasSuffix(url, "/index.m3u8") {
-        url = url + "/index.m3u8"
-    }
-
     // Ensure no double .m3u8.m3u8 in URLs
     url = strings.Replace(url, ".m3u8.m3u8", ".m3u8", -1)
 
     // Replace vavoo.to URL with GitLatte GitHub Pages URL
     url = strings.Replace(url, "https://vavoo.to/play/", "https://gitlatte.github.io/temporarylists/", 1)
-    url = strings.Replace(url, "/index.m3u8", ".m3u8", 1)
 
     return fmt.Sprintf("#EXTINF:-1 tvg-id=\"%s\" tvg-name=\"%s\" tvg-logo=\"%s\" group-title=\"%s\" http-user-agent=\"VAVOO/1.0\" http-referrer=\"https://vavoo.to/\",%s\n"+
         "#EXTVLCOPT:http-user-agent=VAVOO/1.0\n"+
