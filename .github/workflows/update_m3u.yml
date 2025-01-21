@@ -21,7 +21,7 @@ jobs:
       run: curl -o source_playlist.m3u https://raw.githubusercontent.com/joaquinito2070/VAVOO-IPTV/refs/heads/main/index_Turkey.m3u
 
     - name: Create empty local m3u file if not exists
-      run: touch dizin_adi/vavoo_latte.m3u
+      run: touch altsport/vavoo_latte.m3u
 
     - name: Update local m3u file if needed
       run: |
@@ -29,7 +29,7 @@ jobs:
           cp source_playlist.m3u altsport/vavoo_latte.m3u
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
-          git add dizin_adi/vavoo_latte.m3u
+          git add altsport/vavoo_latte.m3u
           git commit -m "Update playlist from source"
           git pull --rebase origin main
           git push origin main
