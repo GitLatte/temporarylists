@@ -2,7 +2,7 @@ name: Update M3U File
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # yarım saatte bir kontrol et
+    - cron: '0 * * * *' # saat başı kontrol et
   push:
     branches:
       - main
