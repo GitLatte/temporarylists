@@ -1,0 +1,46 @@
+name: Generate and Publish M3U Files
+
+on:
+  schedule:
+    - cron: '0 */2 * * *' # Her 2 saatte bir çalışacak şekilde ayarlandı
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+
+    - name: Set up Go
+      uses: actions/setup-go@v2
+      with:
+        go-version: '1.16'
+
+    - name: Run main.go
+      run: go run scripts/main.go
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add .
+        git commit -m 'Automated update of files'
+        git pull --rebase origin main
+        git push origin main
+
+    - name: Deploy to gh-pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./ # Publish the entire repository except .github and scripts
+        publish_branch: gh-pages
+        force_orphan: true
+        exclude: |
+          .github
+          scripts
