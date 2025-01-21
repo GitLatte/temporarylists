@@ -12,7 +12,7 @@ if ($id && in_array($id, $ids)) {
     // Set CORS headers
     header('Access-Control-Allow-Origin: *');
     header('Access-Control-Allow-Methods: GET, OPTIONS');
-    header('Access-Control-Allow-Headers: Origin, Content-Type, Accept, Authorization, X-Request-ID, X-Joaquinito02-Trace');
+    header('Access-Control-Allow-Headers: Origin, Content-Type, Accept, Authorization, X-Request-ID, X-GitLatte-Trace');
 
     // Set custom headers
     header('X-Request-ID: ' . uniqid());
