@@ -18,7 +18,7 @@ jobs:
         fetch-depth: 0
 
     - name: Fetch m3u file from source
-      run: curl -o source_playlist.m3u https://raw.githubusercontent.com/joaquinito2070/VAVOO-IPTV/refs/heads/main/index_Turkey.m3u
+      run: curl -o source_playlist.m3u https://raw.githubusercontent.com/joaquinito2070/VAVOO-IPTV/main/index_Turkey.m3u
 
     - name: Create empty local m3u file if not exists
       run: touch altsport/vavoo_latte.m3u
@@ -32,7 +32,7 @@ jobs:
           git add altsport/vavoo_latte.m3u
           git commit -m "Update playlist from source"
           git pull --rebase origin main
-          git push origin main
+          git push https://$ACTIONS_SECRET_TOKEN@github.com/GitLatte/temporarylists.git
         fi
 
     - name: Commit and push changes
@@ -42,4 +42,4 @@ jobs:
         git add .
         git commit -m 'Automated update of files'
         git pull --rebase origin main
-        git push origin main
+        git push https://$ACTIONS_SECRET_TOKEN@github.com/GitLatte/temporarylists.git
