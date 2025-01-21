@@ -1,0 +1,42 @@
+name: Update M3U File
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Her saat çalışacak şekilde ayarlandı
+  push:
+    branches:
+      - main
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+
+    - name: Fetch m3u file from source
+      run: curl -o source_playlist.m3u https://raw.githubusercontent.com/joaquinito2070/VAVOO-IPTV/main/index_Turkey.m3u
+
+    - name: Update local m3u file if needed
+      run: |
+        if ! diff -q source_playlist.m3u vavoo_latte.m3u > /dev/null; then
+          cp source_playlist.m3u altsport/vavoo_latte.m3u
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add vavoo_latte.m3u
+          git commit -m "Update playlist from source"
+          git pull --rebase origin main
+          git push origin main
+        fi
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add .
+        git commit -m 'Automated update of files'
+        git pull --rebase origin main
+        git push origin main
