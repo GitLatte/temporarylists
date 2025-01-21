@@ -1,0 +1,20 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="Alternatif1", Bein-sports-1
+#EXTVLCOPT:http-referrer=https://www.xyzsports218.xyz/
+https://alpha.cf-worker-c4d6a2ea181de1b9.workers.dev/live/bein-sports-1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="|TR| BEINSPORT- 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="Alternatif2",|TR| BEINSPORT- 1 HD
+https://deathless-sporting-iptv.tiiny.io/?ID=bein-sports-1-turkey/158
+
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="Alternatif2",TR:BEINSPORTS 1 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein1/601/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" tvg-logo="http://72register34.com/logos/bein1-hd.png" group-title="🇹🇷SPOR KANALLARI🇹🇷",BEIN SPORTS 1
+https://nove.29d0b51b213115a0.click/i/izlemac6250.sbs/601/playlist.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="KEKİK SPOR",beIN SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1097.xyz/
+https://k0.b4c8d3e9f1a2b7c5d5.cfd/yayinzirve.m3u8
