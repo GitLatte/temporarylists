@@ -1,1153 +1,1153 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="24" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",24
+#EXTINF:-1 tvg-name="24" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",24
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1702937932/index.m3u8
-#EXTINF:-1 tvg-name="24 KITCHEN" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",24 KITCHEN
+#EXTINF:-1 tvg-name="24 KITCHEN" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",24 KITCHEN
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3329504843/index.m3u8
-#EXTINF:-1 tvg-name="360" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",360
+#EXTINF:-1 tvg-name="360" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",360
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1651455199/index.m3u8
-#EXTINF:-1 tvg-name="360 PLUS" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",360 PLUS
+#EXTINF:-1 tvg-name="360 PLUS" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",360 PLUS
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1893598000/index.m3u8
-#EXTINF:-1 tvg-name="A HABER" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",A HABER
+#EXTINF:-1 tvg-name="A HABER" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",A HABER
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1174108535/index.m3u8
-#EXTINF:-1 tvg-name="A NEWS" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",A NEWS
+#EXTINF:-1 tvg-name="A NEWS" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",A NEWS
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1571071214/index.m3u8
-#EXTINF:-1 tvg-name="A PARA" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",A PARA
+#EXTINF:-1 tvg-name="A PARA" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",A PARA
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2318923445/index.m3u8
-#EXTINF:-1 tvg-name="A SPOR" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",A SPOR
+#EXTINF:-1 tvg-name="A SPOR" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",A SPOR
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1561958971/index.m3u8
-#EXTINF:-1 tvg-name="A2" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",A2
+#EXTINF:-1 tvg-name="A2" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",A2
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1735806851/index.m3u8
-#EXTINF:-1 tvg-name="AFYON TURK" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",AFYON TURK
+#EXTINF:-1 tvg-name="AFYON TURK" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",AFYON TURK
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1782534194/index.m3u8
-#EXTINF:-1 tvg-name="AKILLI TAVSAN MOMO" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",AKILLI TAVSAN MOMO
+#EXTINF:-1 tvg-name="AKILLI TAVSAN MOMO" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",AKILLI TAVSAN MOMO
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/4093001640/index.m3u8
-#EXTINF:-1 tvg-name="AKIT TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",AKIT TV
+#EXTINF:-1 tvg-name="AKIT TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",AKIT TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1862240206/index.m3u8
-#EXTINF:-1 tvg-name="AKLILI TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",AKLILI TV
+#EXTINF:-1 tvg-name="AKLILI TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",AKLILI TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3737299250/index.m3u8
-#EXTINF:-1 tvg-name="AKSU TV K MARAS" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",AKSU TV K MARAS
+#EXTINF:-1 tvg-name="AKSU TV K MARAS" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",AKSU TV K MARAS
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2914289476/index.m3u8
-#EXTINF:-1 tvg-name="ALTAS TV ORDU" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ALTAS TV ORDU
+#EXTINF:-1 tvg-name="ALTAS TV ORDU" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ALTAS TV ORDU
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/730257349/index.m3u8
-#EXTINF:-1 tvg-name="ANADOLU DERNEK" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ANADOLU DERNEK
+#EXTINF:-1 tvg-name="ANADOLU DERNEK" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ANADOLU DERNEK
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1468389014/index.m3u8
-#EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ANIMAL PLANET
+#EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ANIMAL PLANET
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2110161355/index.m3u8
-#EXTINF:-1 tvg-name="ARTI TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ARTI TV
+#EXTINF:-1 tvg-name="ARTI TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ARTI TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/259370032/index.m3u8
-#EXTINF:-1 tvg-name="AS TV BURSA" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",AS TV BURSA
+#EXTINF:-1 tvg-name="AS TV BURSA" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",AS TV BURSA
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2084587437/index.m3u8
-#EXTINF:-1 tvg-name="ATV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ATV
+#EXTINF:-1 tvg-name="ATV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ATV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1255594337/index.m3u8
-#EXTINF:-1 tvg-name="AUTOMOTO (FR)" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",AUTOMOTO (FR)
+#EXTINF:-1 tvg-name="AUTOMOTO (FR)" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",AUTOMOTO (FR)
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3033512963/index.m3u8
-#EXTINF:-1 tvg-name="AV TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",AV TV
+#EXTINF:-1 tvg-name="AV TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",AV TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3343230691/index.m3u8
-#EXTINF:-1 tvg-name="BABY TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BABY TV
+#EXTINF:-1 tvg-name="BABY TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BABY TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/4184865290/index.m3u8
-#EXTINF:-1 tvg-name="BBC CBEEBIES TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BBC CBEEBIES TV
+#EXTINF:-1 tvg-name="BBC CBEEBIES TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BBC CBEEBIES TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/58015509/index.m3u8
-#EXTINF:-1 tvg-name="BBC EARTH" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BBC EARTH
+#EXTINF:-1 tvg-name="BBC EARTH" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BBC EARTH
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2613731614/index.m3u8
-#EXTINF:-1 tvg-name="BEIN BOX OFFICE 1" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN BOX OFFICE 1
+#EXTINF:-1 tvg-name="BEIN BOX OFFICE 1" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN BOX OFFICE 1
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1320363850/index.m3u8
-#EXTINF:-1 tvg-name="BEIN BOX OFFICE 2" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN BOX OFFICE 2
+#EXTINF:-1 tvg-name="BEIN BOX OFFICE 2" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN BOX OFFICE 2
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/152264090/index.m3u8
-#EXTINF:-1 tvg-name="BEIN BOX OFFICE 3" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN BOX OFFICE 3
+#EXTINF:-1 tvg-name="BEIN BOX OFFICE 3" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN BOX OFFICE 3
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/879981610/index.m3u8
-#EXTINF:-1 tvg-name="BEIN GURME" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN GURME
+#EXTINF:-1 tvg-name="BEIN GURME" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN GURME
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3583230858/index.m3u8
-#EXTINF:-1 tvg-name="BEIN IZ TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN IZ TV
+#EXTINF:-1 tvg-name="BEIN IZ TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN IZ TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3156178359/index.m3u8
-#EXTINF:-1 tvg-name="BEIN MOVIES ACTION" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN MOVIES ACTION
+#EXTINF:-1 tvg-name="BEIN MOVIES ACTION" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN MOVIES ACTION
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3041245607/index.m3u8
-#EXTINF:-1 tvg-name="BEIN MOVIES ACTION 2" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN MOVIES ACTION 2
+#EXTINF:-1 tvg-name="BEIN MOVIES ACTION 2" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN MOVIES ACTION 2
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/650851542/index.m3u8
-#EXTINF:-1 tvg-name="BEIN MOVIES FAMILY" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN MOVIES FAMILY
+#EXTINF:-1 tvg-name="BEIN MOVIES FAMILY" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN MOVIES FAMILY
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1322228068/index.m3u8
-#EXTINF:-1 tvg-name="BEIN MOVIES PREMIERE" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN MOVIES PREMIERE
+#EXTINF:-1 tvg-name="BEIN MOVIES PREMIERE" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN MOVIES PREMIERE
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2197747964/index.m3u8
-#EXTINF:-1 tvg-name="BEIN MOVIES PREMIERE 2" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN MOVIES PREMIERE 2
+#EXTINF:-1 tvg-name="BEIN MOVIES PREMIERE 2" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN MOVIES PREMIERE 2
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2120218356/index.m3u8
-#EXTINF:-1 tvg-name="BEIN MOVIES STARS" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN MOVIES STARS
+#EXTINF:-1 tvg-name="BEIN MOVIES STARS" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN MOVIES STARS
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1963748784/index.m3u8
-#EXTINF:-1 tvg-name="BEIN MOVIES TURK" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN MOVIES TURK
+#EXTINF:-1 tvg-name="BEIN MOVIES TURK" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN MOVIES TURK
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1835579025/index.m3u8
-#EXTINF:-1 tvg-name="BEIN SERIES COMEDY" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN SERIES COMEDY
+#EXTINF:-1 tvg-name="BEIN SERIES COMEDY" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN SERIES COMEDY
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1668144911/index.m3u8
-#EXTINF:-1 tvg-name="BEIN SERIES DRAMA" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN SERIES DRAMA
+#EXTINF:-1 tvg-name="BEIN SERIES DRAMA" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN SERIES DRAMA
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/727975195/index.m3u8
-#EXTINF:-1 tvg-name="BEIN SERIES SCI-FI" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN SERIES SCI-FI
+#EXTINF:-1 tvg-name="BEIN SERIES SCI-FI" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN SERIES SCI-FI
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3016529666/index.m3u8
-#EXTINF:-1 tvg-name="BEIN SERIES VICE" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN SERIES VICE
+#EXTINF:-1 tvg-name="BEIN SERIES VICE" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN SERIES VICE
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1125523262/index.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORTS 1 [LIVE DURING EVENTS ONLY]" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN SPORTS 1 [LIVE DURING EVENTS ONLY]
+#EXTINF:-1 tvg-name="BEIN SPORTS 1 [LIVE DURING EVENTS ONLY]" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN SPORTS 1 [LIVE DURING EVENTS ONLY]
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3428984703/index.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORTS 2" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN SPORTS 2
+#EXTINF:-1 tvg-name="BEIN SPORTS 2" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN SPORTS 2
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2509466191/index.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORTS 3" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN SPORTS 3
+#EXTINF:-1 tvg-name="BEIN SPORTS 3" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN SPORTS 3
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2834514943/index.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORTS 4" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN SPORTS 4
+#EXTINF:-1 tvg-name="BEIN SPORTS 4" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN SPORTS 4
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/450076655/index.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORTS 5 (MATCH TIME)" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN SPORTS 5 (MATCH TIME)
+#EXTINF:-1 tvg-name="BEIN SPORTS 5 (MATCH TIME)" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN SPORTS 5 (MATCH TIME)
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1230448192/index.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORTS HABER" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN SPORTS HABER
+#EXTINF:-1 tvg-name="BEIN SPORTS HABER" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN SPORTS HABER
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2806079612/index.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX 1" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN SPORTS MAX 1
+#EXTINF:-1 tvg-name="BEIN SPORTS MAX 1" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN SPORTS MAX 1
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2832430535/index.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX 2" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN SPORTS MAX 2
+#EXTINF:-1 tvg-name="BEIN SPORTS MAX 2" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEIN SPORTS MAX 2
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/4017295127/index.m3u8
-#EXTINF:-1 tvg-name="BENGUTURK" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BENGUTURK
+#EXTINF:-1 tvg-name="BENGUTURK" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BENGUTURK
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3677880546/index.m3u8
-#EXTINF:-1 tvg-name="BEYAZ TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEYAZ TV
+#EXTINF:-1 tvg-name="BEYAZ TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BEYAZ TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/275850888/index.m3u8
-#EXTINF:-1 tvg-name="BLOOMBERG" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BLOOMBERG
+#EXTINF:-1 tvg-name="BLOOMBERG" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BLOOMBERG
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2603224141/index.m3u8
-#EXTINF:-1 tvg-name="BOOMERANG" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BOOMERANG
+#EXTINF:-1 tvg-name="BOOMERANG" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BOOMERANG
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2943974208/index.m3u8
-#EXTINF:-1 tvg-name="BRT 1" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BRT 1
+#EXTINF:-1 tvg-name="BRT 1" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BRT 1
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3640951918/index.m3u8
-#EXTINF:-1 tvg-name="BRT 2" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BRT 2
+#EXTINF:-1 tvg-name="BRT 2" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",BRT 2
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2661613246/index.m3u8
-#EXTINF:-1 tvg-name="CAILLOU TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",CAILLOU TV
+#EXTINF:-1 tvg-name="CAILLOU TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",CAILLOU TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3626289230/index.m3u8
-#EXTINF:-1 tvg-name="CAN TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",CAN TV
+#EXTINF:-1 tvg-name="CAN TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",CAN TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2243133352/index.m3u8
-#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",CARTOON NETWORK
+#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",CARTOON NETWORK
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/478549032/index.m3u8
-#EXTINF:-1 tvg-name="CAY TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",CAY TV
+#EXTINF:-1 tvg-name="CAY TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",CAY TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/4090316698/index.m3u8
-#EXTINF:-1 tvg-name="CEM TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",CEM TV
+#EXTINF:-1 tvg-name="CEM TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",CEM TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1456482631/index.m3u8
-#EXTINF:-1 tvg-name="CHASSE ET PECHE" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",CHASSE ET PECHE
+#EXTINF:-1 tvg-name="CHASSE ET PECHE" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",CHASSE ET PECHE
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/147576390/index.m3u8
-#EXTINF:-1 tvg-name="CIFTCI TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",CIFTCI TV
+#EXTINF:-1 tvg-name="CIFTCI TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",CIFTCI TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3185778667/index.m3u8
-#EXTINF:-1 tvg-name="CNN TURK" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",CNN TURK
+#EXTINF:-1 tvg-name="CNN TURK" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",CNN TURK
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3278683973/index.m3u8
-#EXTINF:-1 tvg-name="DA VINCI LEARNING" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",DA VINCI LEARNING
+#EXTINF:-1 tvg-name="DA VINCI LEARNING" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",DA VINCI LEARNING
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1268465409/index.m3u8
-#EXTINF:-1 tvg-name="DEHA TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",DEHA TV
+#EXTINF:-1 tvg-name="DEHA TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",DEHA TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/574697523/index.m3u8
-#EXTINF:-1 tvg-name="DIGI MAX" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",DIGI MAX
+#EXTINF:-1 tvg-name="DIGI MAX" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",DIGI MAX
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1278447576/index.m3u8
-#EXTINF:-1 tvg-name="DIGI MAX 2" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",DIGI MAX 2
+#EXTINF:-1 tvg-name="DIGI MAX 2" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",DIGI MAX 2
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1104559360/index.m3u8
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",DISCOVERY CHANNEL
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3079995901/index.m3u8
-#EXTINF:-1 tvg-name="DISCOVERY ID" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",DISCOVERY ID
+#EXTINF:-1 tvg-name="DISCOVERY ID" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",DISCOVERY ID
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/972730032/index.m3u8
-#EXTINF:-1 tvg-name="DISCOVERY SCIENCE" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",DISCOVERY SCIENCE
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",DISCOVERY SCIENCE
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3698852323/index.m3u8
-#EXTINF:-1 tvg-name="DISNEY CHANNEL" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",DISNEY CHANNEL
+#EXTINF:-1 tvg-name="DISNEY CHANNEL" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",DISNEY CHANNEL
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1161899432/index.m3u8
-#EXTINF:-1 tvg-name="DISNEY JR" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",DISNEY JR
+#EXTINF:-1 tvg-name="DISNEY JR" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",DISNEY JR
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3963678097/index.m3u8
-#EXTINF:-1 tvg-name="DIZI SMART MAX" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",DIZI SMART MAX
+#EXTINF:-1 tvg-name="DIZI SMART MAX" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",DIZI SMART MAX
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/4079530614/index.m3u8
-#EXTINF:-1 tvg-name="DIZI SMART PREMIUM" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",DIZI SMART PREMIUM
+#EXTINF:-1 tvg-name="DIZI SMART PREMIUM" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",DIZI SMART PREMIUM
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/791616758/index.m3u8
-#EXTINF:-1 tvg-name="DMAX" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",DMAX
+#EXTINF:-1 tvg-name="DMAX" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",DMAX
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3239529951/index.m3u8
-#EXTINF:-1 tvg-name="DOST TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",DOST TV
+#EXTINF:-1 tvg-name="DOST TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",DOST TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/799884057/index.m3u8
-#EXTINF:-1 tvg-name="DREAM TURK" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",DREAM TURK
+#EXTINF:-1 tvg-name="DREAM TURK" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",DREAM TURK
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/712098411/index.m3u8
-#EXTINF:-1 tvg-name="EGE ILE GAGA" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",EGE ILE GAGA
+#EXTINF:-1 tvg-name="EGE ILE GAGA" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",EGE ILE GAGA
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2625879722/index.m3u8
-#EXTINF:-1 tvg-name="EKO TURK" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",EKO TURK
+#EXTINF:-1 tvg-name="EKO TURK" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",EKO TURK
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2999246297/index.m3u8
-#EXTINF:-1 tvg-name="ELIFIN DUSLERI" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ELIFIN DUSLERI
+#EXTINF:-1 tvg-name="ELIFIN DUSLERI" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ELIFIN DUSLERI
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2406323623/index.m3u8
-#EXTINF:-1 tvg-name="ENO AKSIYON 1" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ENO AKSIYON 1
+#EXTINF:-1 tvg-name="ENO AKSIYON 1" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ENO AKSIYON 1
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/633768195/index.m3u8
-#EXTINF:-1 tvg-name="ENO ANIMASYON" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ENO ANIMASYON
+#EXTINF:-1 tvg-name="ENO ANIMASYON" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ENO ANIMASYON
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3833753338/index.m3u8
-#EXTINF:-1 tvg-name="ENO VIZYON 1" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ENO VIZYON 1
+#EXTINF:-1 tvg-name="ENO VIZYON 1" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ENO VIZYON 1
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1949742603/index.m3u8
-#EXTINF:-1 tvg-name="ENO VIZYON 10" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ENO VIZYON 10
+#EXTINF:-1 tvg-name="ENO VIZYON 10" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ENO VIZYON 10
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1635384352/index.m3u8
-#EXTINF:-1 tvg-name="ENO VIZYON 11" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ENO VIZYON 11
+#EXTINF:-1 tvg-name="ENO VIZYON 11" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ENO VIZYON 11
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1545196944/index.m3u8
-#EXTINF:-1 tvg-name="ENO VIZYON 12" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ENO VIZYON 12
+#EXTINF:-1 tvg-name="ENO VIZYON 12" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ENO VIZYON 12
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/465153856/index.m3u8
-#EXTINF:-1 tvg-name="ENO VIZYON 14" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ENO VIZYON 14
+#EXTINF:-1 tvg-name="ENO VIZYON 14" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ENO VIZYON 14
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2499369696/index.m3u8
-#EXTINF:-1 tvg-name="ENO VIZYON 15" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ENO VIZYON 15
+#EXTINF:-1 tvg-name="ENO VIZYON 15" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ENO VIZYON 15
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2845406032/index.m3u8
-#EXTINF:-1 tvg-name="ENO VIZYON 2" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ENO VIZYON 2
+#EXTINF:-1 tvg-name="ENO VIZYON 2" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ENO VIZYON 2
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/865520859/index.m3u8
-#EXTINF:-1 tvg-name="ENO VIZYON 3" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ENO VIZYON 3
+#EXTINF:-1 tvg-name="ENO VIZYON 3" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ENO VIZYON 3
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/251061611/index.m3u8
-#EXTINF:-1 tvg-name="ENO VIZYON 4" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ENO VIZYON 4
+#EXTINF:-1 tvg-name="ENO VIZYON 4" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ENO VIZYON 4
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3168156027/index.m3u8
-#EXTINF:-1 tvg-name="ENO VIZYON 5" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ENO VIZYON 5
+#EXTINF:-1 tvg-name="ENO VIZYON 5" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ENO VIZYON 5
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2176192715/index.m3u8
-#EXTINF:-1 tvg-name="ENO VIZYON 6" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ENO VIZYON 6
+#EXTINF:-1 tvg-name="ENO VIZYON 6" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ENO VIZYON 6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3323357723/index.m3u8
-#EXTINF:-1 tvg-name="ENO VIZYON 7" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ENO VIZYON 7
+#EXTINF:-1 tvg-name="ENO VIZYON 7" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ENO VIZYON 7
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/4218831787/index.m3u8
-#EXTINF:-1 tvg-name="ENO VIZYON 8" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ENO VIZYON 8
+#EXTINF:-1 tvg-name="ENO VIZYON 8" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ENO VIZYON 8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2032587898/index.m3u8
-#EXTINF:-1 tvg-name="ENO VIZYON 9" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ENO VIZYON 9
+#EXTINF:-1 tvg-name="ENO VIZYON 9" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ENO VIZYON 9
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1145503178/index.m3u8
-#EXTINF:-1 tvg-name="ENO WESTERN" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ENO WESTERN
+#EXTINF:-1 tvg-name="ENO WESTERN" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ENO WESTERN
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1134525301/index.m3u8
-#EXTINF:-1 tvg-name="ES TV (ESKISEHIR)" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ES TV (ESKISEHIR)
+#EXTINF:-1 tvg-name="ES TV (ESKISEHIR)" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ES TV (ESKISEHIR)
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2207104549/index.m3u8
-#EXTINF:-1 tvg-name="EURO D" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",EURO D
+#EXTINF:-1 tvg-name="EURO D" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",EURO D
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2784530383/index.m3u8
-#EXTINF:-1 tvg-name="EURO STAR" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",EURO STAR
+#EXTINF:-1 tvg-name="EURO STAR" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",EURO STAR
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3814521935/index.m3u8
-#EXTINF:-1 tvg-name="EUROSPORT 1" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",EUROSPORT 1
+#EXTINF:-1 tvg-name="EUROSPORT 1" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",EUROSPORT 1
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3271328843/index.m3u8
-#EXTINF:-1 tvg-name="EUROSPORT 2 [LIVE DURING EVENTS ONLY]" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",EUROSPORT 2 [LIVE DURING EVENTS ONLY]
+#EXTINF:-1 tvg-name="EUROSPORT 2 [LIVE DURING EVENTS ONLY]" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",EUROSPORT 2 [LIVE DURING EVENTS ONLY]
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1309778674/index.m3u8
-#EXTINF:-1 tvg-name="EXXEN SPORTS 1" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",EXXEN SPORTS 1
+#EXTINF:-1 tvg-name="EXXEN SPORTS 1" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",EXXEN SPORTS 1
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1842018252/index.m3u8
-#EXTINF:-1 tvg-name="EXXEN SPORTS 2 [LIVE DURING EVENTS ONLY]" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",EXXEN SPORTS 2 [LIVE DURING EVENTS ONLY]
+#EXTINF:-1 tvg-name="EXXEN SPORTS 2 [LIVE DURING EVENTS ONLY]" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",EXXEN SPORTS 2 [LIVE DURING EVENTS ONLY]
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3961480108/index.m3u8
-#EXTINF:-1 tvg-name="EXXEN SPORTS 3 [LIVE DURING EVENTS ONLY]" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",EXXEN SPORTS 3 [LIVE DURING EVENTS ONLY]
+#EXTINF:-1 tvg-name="EXXEN SPORTS 3 [LIVE DURING EVENTS ONLY]" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",EXXEN SPORTS 3 [LIVE DURING EVENTS ONLY]
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3807939453/index.m3u8
-#EXTINF:-1 tvg-name="EXXEN SPORTS 4" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",EXXEN SPORTS 4
+#EXTINF:-1 tvg-name="EXXEN SPORTS 4" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",EXXEN SPORTS 4
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2771024060/index.m3u8
-#EXTINF:-1 tvg-name="EXXEN SPORTS 5" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",EXXEN SPORTS 5
+#EXTINF:-1 tvg-name="EXXEN SPORTS 5" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",EXXEN SPORTS 5
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2555007244/index.m3u8
-#EXTINF:-1 tvg-name="EXXEN SPORTS 6 [LIVE DURING EVENTS ONLY]" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",EXXEN SPORTS 6 [LIVE DURING EVENTS ONLY]
+#EXTINF:-1 tvg-name="EXXEN SPORTS 6 [LIVE DURING EVENTS ONLY]" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",EXXEN SPORTS 6 [LIVE DURING EVENTS ONLY]
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3615539432/index.m3u8
-#EXTINF:-1 tvg-name="EXXEN SPORTS 7" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",EXXEN SPORTS 7
+#EXTINF:-1 tvg-name="EXXEN SPORTS 7" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",EXXEN SPORTS 7
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3800695404/index.m3u8
-#EXTINF:-1 tvg-name="EXXEN SPORTS 8" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",EXXEN SPORTS 8
+#EXTINF:-1 tvg-name="EXXEN SPORTS 8" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",EXXEN SPORTS 8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1624937917/index.m3u8
-#EXTINF:-1 tvg-name="FB TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",FB TV
+#EXTINF:-1 tvg-name="FB TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",FB TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1540748539/index.m3u8
-#EXTINF:-1 tvg-name="FILMBOX AKSIYON" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",FILMBOX AKSIYON
+#EXTINF:-1 tvg-name="FILMBOX AKSIYON" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",FILMBOX AKSIYON
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1130352730/index.m3u8
-#EXTINF:-1 tvg-name="FILMBOX COMEDY" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",FILMBOX COMEDY
+#EXTINF:-1 tvg-name="FILMBOX COMEDY" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",FILMBOX COMEDY
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2089556265/index.m3u8
-#EXTINF:-1 tvg-name="FILMBOX FANTASTIC" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",FILMBOX FANTASTIC
+#EXTINF:-1 tvg-name="FILMBOX FANTASTIC" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",FILMBOX FANTASTIC
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2267707661/index.m3u8
-#EXTINF:-1 tvg-name="FILMBOX KADIR INANIR" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",FILMBOX KADIR INANIR
+#EXTINF:-1 tvg-name="FILMBOX KADIR INANIR" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",FILMBOX KADIR INANIR
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3268085547/index.m3u8
-#EXTINF:-1 tvg-name="FILMBOX YESILCAM" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",FILMBOX YESILCAM
+#EXTINF:-1 tvg-name="FILMBOX YESILCAM" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",FILMBOX YESILCAM
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/649037744/index.m3u8
-#EXTINF:-1 tvg-name="FILMBOX+" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",FILMBOX+
+#EXTINF:-1 tvg-name="FILMBOX+" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",FILMBOX+
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2600387615/index.m3u8
-#EXTINF:-1 tvg-name="FOX" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",FOX
+#EXTINF:-1 tvg-name="FOX" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",FOX
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1498459094/index.m3u8
-#EXTINF:-1 tvg-name="FOX CRIME" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",FOX CRIME
+#EXTINF:-1 tvg-name="FOX CRIME" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",FOX CRIME
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1890933117/index.m3u8
-#EXTINF:-1 tvg-name="FX" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",FX
+#EXTINF:-1 tvg-name="FX" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",FX
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2851147991/index.m3u8
-#EXTINF:-1 tvg-name="GALATASARAY TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",GALATASARAY TV
+#EXTINF:-1 tvg-name="GALATASARAY TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",GALATASARAY TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/338831283/index.m3u8
-#EXTINF:-1 tvg-name="GS TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",GS TV
+#EXTINF:-1 tvg-name="GS TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",GS TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/4240429325/index.m3u8
-#EXTINF:-1 tvg-name="GUNEYDOGU" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",GUNEYDOGU
+#EXTINF:-1 tvg-name="GUNEYDOGU" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",GUNEYDOGU
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/454047044/index.m3u8
-#EXTINF:-1 tvg-name="HABER GLOBAL" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",HABER GLOBAL
+#EXTINF:-1 tvg-name="HABER GLOBAL" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",HABER GLOBAL
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2483036808/index.m3u8
-#EXTINF:-1 tvg-name="HABER TURK" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",HABER TURK
+#EXTINF:-1 tvg-name="HABER TURK" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",HABER TURK
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/464378170/index.m3u8
-#EXTINF:-1 tvg-name="HALK TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",HALK TV
+#EXTINF:-1 tvg-name="HALK TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",HALK TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3986444106/index.m3u8
-#EXTINF:-1 tvg-name="HISTORY CHANNEL" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",HISTORY CHANNEL
+#EXTINF:-1 tvg-name="HISTORY CHANNEL" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",HISTORY CHANNEL
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2415331568/index.m3u8
-#EXTINF:-1 tvg-name="HRT AKDENIZ" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",HRT AKDENIZ
+#EXTINF:-1 tvg-name="HRT AKDENIZ" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",HRT AKDENIZ
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2119436951/index.m3u8
-#EXTINF:-1 tvg-name="KADIRGA" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KADIRGA
+#EXTINF:-1 tvg-name="KADIRGA" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KADIRGA
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2717283979/index.m3u8
-#EXTINF:-1 tvg-name="KANAL 15" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KANAL 15
+#EXTINF:-1 tvg-name="KANAL 15" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KANAL 15
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3289145042/index.m3u8
-#EXTINF:-1 tvg-name="KANAL 24" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KANAL 24
+#EXTINF:-1 tvg-name="KANAL 24" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KANAL 24
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2146960844/index.m3u8
-#EXTINF:-1 tvg-name="KANAL 26" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KANAL 26
+#EXTINF:-1 tvg-name="KANAL 26" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KANAL 26
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/87578284/index.m3u8
-#EXTINF:-1 tvg-name="KANAL 3" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KANAL 3
+#EXTINF:-1 tvg-name="KANAL 3" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KANAL 3
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1178569854/index.m3u8
-#EXTINF:-1 tvg-name="KANAL 42 KONYA" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KANAL 42 KONYA
+#EXTINF:-1 tvg-name="KANAL 42 KONYA" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KANAL 42 KONYA
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1518232397/index.m3u8
-#EXTINF:-1 tvg-name="KANAL 58" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KANAL 58
+#EXTINF:-1 tvg-name="KANAL 58" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KANAL 58
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2802702453/index.m3u8
-#EXTINF:-1 tvg-name="KANAL 68" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KANAL 68
+#EXTINF:-1 tvg-name="KANAL 68" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KANAL 68
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/563718875/index.m3u8
-#EXTINF:-1 tvg-name="KANAL 7" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KANAL 7
+#EXTINF:-1 tvg-name="KANAL 7" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KANAL 7
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3015649982/index.m3u8
-#EXTINF:-1 tvg-name="KANAL 7 AVRUPA" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KANAL 7 AVRUPA
+#EXTINF:-1 tvg-name="KANAL 7 AVRUPA" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KANAL 7 AVRUPA
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/498645977/index.m3u8
-#EXTINF:-1 tvg-name="KANAL AVRUPA" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KANAL AVRUPA
+#EXTINF:-1 tvg-name="KANAL AVRUPA" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KANAL AVRUPA
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/4085283006/index.m3u8
-#EXTINF:-1 tvg-name="KANAL B" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KANAL B
+#EXTINF:-1 tvg-name="KANAL B" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KANAL B
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2190296321/index.m3u8
-#EXTINF:-1 tvg-name="KANAL D" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KANAL D
+#EXTINF:-1 tvg-name="KANAL D" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KANAL D
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/231583905/index.m3u8
-#EXTINF:-1 tvg-name="KANAL T" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KANAL T
+#EXTINF:-1 tvg-name="KANAL T" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KANAL T
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1831675683/index.m3u8
-#EXTINF:-1 tvg-name="KANAL URFA" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KANAL URFA
+#EXTINF:-1 tvg-name="KANAL URFA" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KANAL URFA
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/813831557/index.m3u8
-#EXTINF:-1 tvg-name="KANAL V" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KANAL V
+#EXTINF:-1 tvg-name="KANAL V" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KANAL V
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/401437763/index.m3u8
-#EXTINF:-1 tvg-name="KANAL Z" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KANAL Z
+#EXTINF:-1 tvg-name="KANAL Z" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KANAL Z
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3525155138/index.m3u8
-#EXTINF:-1 tvg-name="KARDELEN TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KARDELEN TV
+#EXTINF:-1 tvg-name="KARDELEN TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KARDELEN TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1198414561/index.m3u8
-#EXTINF:-1 tvg-name="KELOGLAN" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KELOGLAN
+#EXTINF:-1 tvg-name="KELOGLAN" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KELOGLAN
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/750698535/index.m3u8
-#EXTINF:-1 tvg-name="KENT TURK" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KENT TURK
+#EXTINF:-1 tvg-name="KENT TURK" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KENT TURK
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/704689787/index.m3u8
-#EXTINF:-1 tvg-name="KON TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KON TV
+#EXTINF:-1 tvg-name="KON TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KON TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1587995854/index.m3u8
-#EXTINF:-1 tvg-name="KOY TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KOY TV
+#EXTINF:-1 tvg-name="KOY TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KOY TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/685300988/index.m3u8
-#EXTINF:-1 tvg-name="KRAL POP" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KRAL POP
+#EXTINF:-1 tvg-name="KRAL POP" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KRAL POP
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/4169838993/index.m3u8
-#EXTINF:-1 tvg-name="KRAL SAKIR" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KRAL SAKIR
+#EXTINF:-1 tvg-name="KRAL SAKIR" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KRAL SAKIR
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1578872642/index.m3u8
-#EXTINF:-1 tvg-name="KRAL TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KRAL TV
+#EXTINF:-1 tvg-name="KRAL TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KRAL TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1131281902/index.m3u8
-#EXTINF:-1 tvg-name="KRT TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KRT TV
+#EXTINF:-1 tvg-name="KRT TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KRT TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3998379019/index.m3u8
-#EXTINF:-1 tvg-name="KUDUS TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KUDUS TV
+#EXTINF:-1 tvg-name="KUDUS TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KUDUS TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/522050268/index.m3u8
-#EXTINF:-1 tvg-name="KUKULI TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KUKULI TV
+#EXTINF:-1 tvg-name="KUKULI TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",KUKULI TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/354256147/index.m3u8
-#EXTINF:-1 tvg-name="LALEGUL TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",LALEGUL TV
+#EXTINF:-1 tvg-name="LALEGUL TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",LALEGUL TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3483642933/index.m3u8
-#EXTINF:-1 tvg-name="LOVE NATURE" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",LOVE NATURE
+#EXTINF:-1 tvg-name="LOVE NATURE" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",LOVE NATURE
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2520793577/index.m3u8
-#EXTINF:-1 tvg-name="MASAL" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",MASAL
+#EXTINF:-1 tvg-name="MASAL" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",MASAL
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/4089756536/index.m3u8
-#EXTINF:-1 tvg-name="MAVI KARADENIZ" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",MAVI KARADENIZ
+#EXTINF:-1 tvg-name="MAVI KARADENIZ" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",MAVI KARADENIZ
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3375018468/index.m3u8
-#EXTINF:-1 tvg-name="MELTEM" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",MELTEM
+#EXTINF:-1 tvg-name="MELTEM" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",MELTEM
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1127127807/index.m3u8
-#EXTINF:-1 tvg-name="MILYON" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",MILYON
+#EXTINF:-1 tvg-name="MILYON" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",MILYON
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/586568093/index.m3u8
-#EXTINF:-1 tvg-name="MINIKA COCUK" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",MINIKA COCUK
+#EXTINF:-1 tvg-name="MINIKA COCUK" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",MINIKA COCUK
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/4058432171/index.m3u8
-#EXTINF:-1 tvg-name="MINIKA GO" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",MINIKA GO
+#EXTINF:-1 tvg-name="MINIKA GO" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",MINIKA GO
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2937701421/index.m3u8
-#EXTINF:-1 tvg-name="MOVIE SMART ACTION" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",MOVIE SMART ACTION
+#EXTINF:-1 tvg-name="MOVIE SMART ACTION" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",MOVIE SMART ACTION
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1237460948/index.m3u8
-#EXTINF:-1 tvg-name="MOVIE SMART CLASSIC" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",MOVIE SMART CLASSIC
+#EXTINF:-1 tvg-name="MOVIE SMART CLASSIC" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",MOVIE SMART CLASSIC
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3597292408/index.m3u8
-#EXTINF:-1 tvg-name="MOVIE SMART PLATIN 2" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",MOVIE SMART PLATIN 2
+#EXTINF:-1 tvg-name="MOVIE SMART PLATIN 2" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",MOVIE SMART PLATIN 2
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1800204159/index.m3u8
-#EXTINF:-1 tvg-name="MOVIE SMART PREMIUM" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",MOVIE SMART PREMIUM
+#EXTINF:-1 tvg-name="MOVIE SMART PREMIUM" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",MOVIE SMART PREMIUM
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3830353405/index.m3u8
-#EXTINF:-1 tvg-name="MOVIE SMART PREMIUM 2" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",MOVIE SMART PREMIUM 2
+#EXTINF:-1 tvg-name="MOVIE SMART PREMIUM 2" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",MOVIE SMART PREMIUM 2
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1194009782/index.m3u8
-#EXTINF:-1 tvg-name="MOVIE SMART TURK" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",MOVIE SMART TURK
+#EXTINF:-1 tvg-name="MOVIE SMART TURK" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",MOVIE SMART TURK
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/353384054/index.m3u8
-#EXTINF:-1 tvg-name="MOVIEMAX TURK" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",MOVIEMAX TURK
+#EXTINF:-1 tvg-name="MOVIEMAX TURK" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",MOVIEMAX TURK
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2178364300/index.m3u8
-#EXTINF:-1 tvg-name="NAT GEO" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",NAT GEO
+#EXTINF:-1 tvg-name="NAT GEO" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",NAT GEO
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1960546091/index.m3u8
-#EXTINF:-1 tvg-name="NAT GEO WILD" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",NAT GEO WILD
+#EXTINF:-1 tvg-name="NAT GEO WILD" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",NAT GEO WILD
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1999823186/index.m3u8
-#EXTINF:-1 tvg-name="NBA TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",NBA TV
+#EXTINF:-1 tvg-name="NBA TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",NBA TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2430655089/index.m3u8
-#EXTINF:-1 tvg-name="NICK JR" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",NICK JR
+#EXTINF:-1 tvg-name="NICK JR" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",NICK JR
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/85708551/index.m3u8
-#EXTINF:-1 tvg-name="NICKELODEON" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",NICKELODEON
+#EXTINF:-1 tvg-name="NICKELODEON" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",NICKELODEON
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3092562301/index.m3u8
-#EXTINF:-1 tvg-name="NILOYA TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",NILOYA TV
+#EXTINF:-1 tvg-name="NILOYA TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",NILOYA TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/757435988/index.m3u8
-#EXTINF:-1 tvg-name="NR1" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",NR1
+#EXTINF:-1 tvg-name="NR1" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",NR1
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1104536008/index.m3u8
-#EXTINF:-1 tvg-name="NTV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",NTV
+#EXTINF:-1 tvg-name="NTV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",NTV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3164514696/index.m3u8
-#EXTINF:-1 tvg-name="NTV HABER" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",NTV HABER
+#EXTINF:-1 tvg-name="NTV HABER" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",NTV HABER
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1237310964/index.m3u8
-#EXTINF:-1 tvg-name="ON 4 TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ON 4 TV
+#EXTINF:-1 tvg-name="ON 4 TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ON 4 TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/4203475144/index.m3u8
-#EXTINF:-1 tvg-name="PAMUKKALE" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",PAMUKKALE
+#EXTINF:-1 tvg-name="PAMUKKALE" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",PAMUKKALE
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1647886571/index.m3u8
-#EXTINF:-1 tvg-name="PEPE TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",PEPE TV
+#EXTINF:-1 tvg-name="PEPE TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",PEPE TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2939972073/index.m3u8
-#EXTINF:-1 tvg-name="PISI" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",PISI
+#EXTINF:-1 tvg-name="PISI" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",PISI
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3728165823/index.m3u8
-#EXTINF:-1 tvg-name="POWER" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",POWER
+#EXTINF:-1 tvg-name="POWER" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",POWER
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/198132618/index.m3u8
-#EXTINF:-1 tvg-name="POWER TURK" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",POWER TURK
+#EXTINF:-1 tvg-name="POWER TURK" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",POWER TURK
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/538668348/index.m3u8
-#EXTINF:-1 tvg-name="REDBOX KEMAL SUNAL" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",REDBOX KEMAL SUNAL
+#EXTINF:-1 tvg-name="REDBOX KEMAL SUNAL" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",REDBOX KEMAL SUNAL
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2795499512/index.m3u8
-#EXTINF:-1 tvg-name="REHBER" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",REHBER
+#EXTINF:-1 tvg-name="REHBER" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",REHBER
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/4152354759/index.m3u8
-#EXTINF:-1 tvg-name="RUMELI TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",RUMELI TV
+#EXTINF:-1 tvg-name="RUMELI TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",RUMELI TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3918815882/index.m3u8
-#EXTINF:-1 tvg-name="S SPORT" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",S SPORT
+#EXTINF:-1 tvg-name="S SPORT" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",S SPORT
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3718336295/index.m3u8
-#EXTINF:-1 tvg-name="S SPORT 2" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",S SPORT 2
+#EXTINF:-1 tvg-name="S SPORT 2" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",S SPORT 2
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1234604880/index.m3u8
-#EXTINF:-1 tvg-name="SALON 1" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SALON 1
+#EXTINF:-1 tvg-name="SALON 1" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SALON 1
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2217333005/index.m3u8
-#EXTINF:-1 tvg-name="SALON 2" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SALON 2
+#EXTINF:-1 tvg-name="SALON 2" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SALON 2
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3280579549/index.m3u8
-#EXTINF:-1 tvg-name="SALON 3 SINEMAX" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SALON 3 SINEMAX
+#EXTINF:-1 tvg-name="SALON 3 SINEMAX" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SALON 3 SINEMAX
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/915717266/index.m3u8
-#EXTINF:-1 tvg-name="SARAN SPORT 1" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SARAN SPORT 1
+#EXTINF:-1 tvg-name="SARAN SPORT 1" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SARAN SPORT 1
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3962972352/index.m3u8
-#EXTINF:-1 tvg-name="SARAN SPORT 2" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SARAN SPORT 2
+#EXTINF:-1 tvg-name="SARAN SPORT 2" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SARAN SPORT 2
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2878755344/index.m3u8
-#EXTINF:-1 tvg-name="SAT 7 TURK" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SAT 7 TURK
+#EXTINF:-1 tvg-name="SAT 7 TURK" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SAT 7 TURK
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3343868905/index.m3u8
-#EXTINF:-1 tvg-name="SAT7 TURK" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SAT7 TURK
+#EXTINF:-1 tvg-name="SAT7 TURK" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SAT7 TURK
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2978732943/index.m3u8
-#EXTINF:-1 tvg-name="SCIENCE &AMP; VICE" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SCIENCE &AMP; VICE
+#EXTINF:-1 tvg-name="SCIENCE &AMP; VICE" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SCIENCE &AMP; VICE
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/4291755150/index.m3u8
-#EXTINF:-1 tvg-name="SEMERKAND" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SEMERKAND
+#EXTINF:-1 tvg-name="SEMERKAND" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SEMERKAND
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2341562915/index.m3u8
-#EXTINF:-1 tvg-name="SEVIMLI DOSTLAR" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SEVIMLI DOSTLAR
+#EXTINF:-1 tvg-name="SEVIMLI DOSTLAR" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SEVIMLI DOSTLAR
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/4154723330/index.m3u8
-#EXTINF:-1 tvg-name="SHOW MAX" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SHOW MAX
+#EXTINF:-1 tvg-name="SHOW MAX" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SHOW MAX
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2196278652/index.m3u8
-#EXTINF:-1 tvg-name="SHOW TURK" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SHOW TURK
+#EXTINF:-1 tvg-name="SHOW TURK" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SHOW TURK
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1880270561/index.m3u8
-#EXTINF:-1 tvg-name="SHOW TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SHOW TV
+#EXTINF:-1 tvg-name="SHOW TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SHOW TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2395422638/index.m3u8
-#EXTINF:-1 tvg-name="SINEMA 1001" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEMA 1001
+#EXTINF:-1 tvg-name="SINEMA 1001" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEMA 1001
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3117683628/index.m3u8
-#EXTINF:-1 tvg-name="SINEMA 1002" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEMA 1002
+#EXTINF:-1 tvg-name="SINEMA 1002" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEMA 1002
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/4269042044/index.m3u8
-#EXTINF:-1 tvg-name="SINEMA AILE 1" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEMA AILE 1
+#EXTINF:-1 tvg-name="SINEMA AILE 1" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEMA AILE 1
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/4245508443/index.m3u8
-#EXTINF:-1 tvg-name="SINEMA AILE 2" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEMA AILE 2
+#EXTINF:-1 tvg-name="SINEMA AILE 2" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEMA AILE 2
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3131911051/index.m3u8
-#EXTINF:-1 tvg-name="SINEMA AKSIYON 1" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEMA AKSIYON 1
+#EXTINF:-1 tvg-name="SINEMA AKSIYON 1" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEMA AKSIYON 1
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1293127897/index.m3u8
-#EXTINF:-1 tvg-name="SINEMA AKSIYON 2" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEMA AKSIYON 2
+#EXTINF:-1 tvg-name="SINEMA AKSIYON 2" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEMA AKSIYON 2
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/179563017/index.m3u8
-#EXTINF:-1 tvg-name="SINEMA KOMEDI" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEMA KOMEDI
+#EXTINF:-1 tvg-name="SINEMA KOMEDI" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEMA KOMEDI
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/257449668/index.m3u8
-#EXTINF:-1 tvg-name="SINEMA TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEMA TV
+#EXTINF:-1 tvg-name="SINEMA TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEMA TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1617719941/index.m3u8
-#EXTINF:-1 tvg-name="SINEMA YERLI 1" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEMA YERLI 1
+#EXTINF:-1 tvg-name="SINEMA YERLI 1" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEMA YERLI 1
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2484805699/index.m3u8
-#EXTINF:-1 tvg-name="SINEMAX DRAMA" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEMAX DRAMA
+#EXTINF:-1 tvg-name="SINEMAX DRAMA" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEMAX DRAMA
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2789249461/index.m3u8
-#EXTINF:-1 tvg-name="SINEMAX FAMILY" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEMAX FAMILY
+#EXTINF:-1 tvg-name="SINEMAX FAMILY" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEMAX FAMILY
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1469484475/index.m3u8
-#EXTINF:-1 tvg-name="SINEMAX KOMEDI" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEMAX KOMEDI
+#EXTINF:-1 tvg-name="SINEMAX KOMEDI" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEMAX KOMEDI
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/565813762/index.m3u8
-#EXTINF:-1 tvg-name="SINEMAX TURK" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEMAX TURK
+#EXTINF:-1 tvg-name="SINEMAX TURK" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEMAX TURK
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/4201568953/index.m3u8
-#EXTINF:-1 tvg-name="SINEVIZYON 1" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEVIZYON 1
+#EXTINF:-1 tvg-name="SINEVIZYON 1" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEVIZYON 1
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3562169936/index.m3u8
-#EXTINF:-1 tvg-name="SINEVIZYON 15" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEVIZYON 15
+#EXTINF:-1 tvg-name="SINEVIZYON 15" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEVIZYON 15
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1434492924/index.m3u8
-#EXTINF:-1 tvg-name="SINEVIZYON 5" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEVIZYON 5
+#EXTINF:-1 tvg-name="SINEVIZYON 5" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEVIZYON 5
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/567459984/index.m3u8
-#EXTINF:-1 tvg-name="SINEVIZYON 8" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEVIZYON 8
+#EXTINF:-1 tvg-name="SINEVIZYON 8" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEVIZYON 8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3644982305/index.m3u8
-#EXTINF:-1 tvg-name="SINEVIZYON TURK 1" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEVIZYON TURK 1
+#EXTINF:-1 tvg-name="SINEVIZYON TURK 1" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEVIZYON TURK 1
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/237327525/index.m3u8
-#EXTINF:-1 tvg-name="SINEVIZYON TURK 10" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEVIZYON TURK 10
+#EXTINF:-1 tvg-name="SINEVIZYON TURK 10" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEVIZYON TURK 10
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1349345581/index.m3u8
-#EXTINF:-1 tvg-name="SINEVIZYON TURK 2" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEVIZYON TURK 2
+#EXTINF:-1 tvg-name="SINEVIZYON TURK 2" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEVIZYON TURK 2
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1233464949/index.m3u8
-#EXTINF:-1 tvg-name="SINEVIZYON TURK 5" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEVIZYON TURK 5
+#EXTINF:-1 tvg-name="SINEVIZYON TURK 5" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEVIZYON TURK 5
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/4221956709/index.m3u8
-#EXTINF:-1 tvg-name="SINEVIZYON TURK 6" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEVIZYON TURK 6
+#EXTINF:-1 tvg-name="SINEVIZYON TURK 6" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEVIZYON TURK 6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3154479285/index.m3u8
-#EXTINF:-1 tvg-name="SINEVIZYON TURK 7" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEVIZYON TURK 7
+#EXTINF:-1 tvg-name="SINEVIZYON TURK 7" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEVIZYON TURK 7
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2170921221/index.m3u8
-#EXTINF:-1 tvg-name="SINEVIZYON TURK 8" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEVIZYON TURK 8
+#EXTINF:-1 tvg-name="SINEVIZYON TURK 8" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEVIZYON TURK 8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/53819092/index.m3u8
-#EXTINF:-1 tvg-name="SINEVIZYON TURK 9" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEVIZYON TURK 9
+#EXTINF:-1 tvg-name="SINEVIZYON TURK 9" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SINEVIZYON TURK 9
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1045765988/index.m3u8
-#EXTINF:-1 tvg-name="SIRINLER TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SIRINLER TV
+#EXTINF:-1 tvg-name="SIRINLER TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SIRINLER TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1766241745/index.m3u8
-#EXTINF:-1 tvg-name="SMART COCUK" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SMART COCUK
+#EXTINF:-1 tvg-name="SMART COCUK" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SMART COCUK
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/4277750275/index.m3u8
-#EXTINF:-1 tvg-name="SMART SPOR 1" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SMART SPOR 1
+#EXTINF:-1 tvg-name="SMART SPOR 1" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",SMART SPOR 1
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/4137962062/index.m3u8
-#EXTINF:-1 tvg-name="STAR TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",STAR TV
+#EXTINF:-1 tvg-name="STAR TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",STAR TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/863472446/index.m3u8
-#EXTINF:-1 tvg-name="TARIM TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TARIM TV
+#EXTINF:-1 tvg-name="TARIM TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TARIM TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1993047243/index.m3u8
-#EXTINF:-1 tvg-name="TAY" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TAY
+#EXTINF:-1 tvg-name="TAY" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TAY
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2927324913/index.m3u8
-#EXTINF:-1 tvg-name="TELE 1" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TELE 1
+#EXTINF:-1 tvg-name="TELE 1" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TELE 1
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1025979520/index.m3u8
-#EXTINF:-1 tvg-name="TEMPO" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TEMPO
+#EXTINF:-1 tvg-name="TEMPO" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TEMPO
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3475377621/index.m3u8
-#EXTINF:-1 tvg-name="TEVE 2" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TEVE 2
+#EXTINF:-1 tvg-name="TEVE 2" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TEVE 2
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2549900211/index.m3u8
-#EXTINF:-1 tvg-name="TGRT BELGESEL" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TGRT BELGESEL
+#EXTINF:-1 tvg-name="TGRT BELGESEL" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TGRT BELGESEL
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1743993546/index.m3u8
-#EXTINF:-1 tvg-name="TGRT EU" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TGRT EU
+#EXTINF:-1 tvg-name="TGRT EU" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TGRT EU
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/182286475/index.m3u8
-#EXTINF:-1 tvg-name="TGRT HABER" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TGRT HABER
+#EXTINF:-1 tvg-name="TGRT HABER" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TGRT HABER
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1684631959/index.m3u8
-#EXTINF:-1 tvg-name="TIVI TURK" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TIVI TURK
+#EXTINF:-1 tvg-name="TIVI TURK" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TIVI TURK
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2048436163/index.m3u8
-#EXTINF:-1 tvg-name="TIVIBU SPOR 1" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TIVIBU SPOR 1
+#EXTINF:-1 tvg-name="TIVIBU SPOR 1" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TIVIBU SPOR 1
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1528949791/index.m3u8
-#EXTINF:-1 tvg-name="TIVIBU SPOR 2" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TIVIBU SPOR 2
+#EXTINF:-1 tvg-name="TIVIBU SPOR 2" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TIVIBU SPOR 2
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/478254799/index.m3u8
-#EXTINF:-1 tvg-name="TIVIBU SPOR 3" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TIVIBU SPOR 3
+#EXTINF:-1 tvg-name="TIVIBU SPOR 3" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TIVIBU SPOR 3
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/568442751/index.m3u8
-#EXTINF:-1 tvg-name="TJK TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TJK TV
+#EXTINF:-1 tvg-name="TJK TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TJK TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2322888064/index.m3u8
-#EXTINF:-1 tvg-name="TLC" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TLC
+#EXTINF:-1 tvg-name="TLC" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TLC
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/951448076/index.m3u8
-#EXTINF:-1 tvg-name="TMB" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TMB
+#EXTINF:-1 tvg-name="TMB" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TMB
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3465087001/index.m3u8
-#EXTINF:-1 tvg-name="TRT 1" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TRT 1
+#EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TRT 1
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/115261333/index.m3u8
-#EXTINF:-1 tvg-name="TRT 2" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TRT 2
+#EXTINF:-1 tvg-name="TRT 2" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TRT 2
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1098827077/index.m3u8
-#EXTINF:-1 tvg-name="TRT AVAZ" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TRT AVAZ
+#EXTINF:-1 tvg-name="TRT AVAZ" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TRT AVAZ
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/4076672974/index.m3u8
-#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TRT BELGESEL
+#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TRT BELGESEL
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2439012215/index.m3u8
-#EXTINF:-1 tvg-name="TRT COCUK" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TRT COCUK
+#EXTINF:-1 tvg-name="TRT COCUK" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TRT COCUK
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/792228122/index.m3u8
-#EXTINF:-1 tvg-name="TRT DIYANET" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TRT DIYANET
+#EXTINF:-1 tvg-name="TRT DIYANET" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TRT DIYANET
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/458659205/index.m3u8
-#EXTINF:-1 tvg-name="TRT EBA ILKOKUL" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TRT EBA ILKOKUL
+#EXTINF:-1 tvg-name="TRT EBA ILKOKUL" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TRT EBA ILKOKUL
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2287658033/index.m3u8
-#EXTINF:-1 tvg-name="TRT EBA ORTAOKUL" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TRT EBA ORTAOKUL
+#EXTINF:-1 tvg-name="TRT EBA ORTAOKUL" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TRT EBA ORTAOKUL
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/17020398/index.m3u8
-#EXTINF:-1 tvg-name="TRT HABER" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TRT HABER
+#EXTINF:-1 tvg-name="TRT HABER" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TRT HABER
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1890976041/index.m3u8
-#EXTINF:-1 tvg-name="TRT KURDI" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TRT KURDI
+#EXTINF:-1 tvg-name="TRT KURDI" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TRT KURDI
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/175696837/index.m3u8
-#EXTINF:-1 tvg-name="TRT MUZIK" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TRT MUZIK
+#EXTINF:-1 tvg-name="TRT MUZIK" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TRT MUZIK
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2362678422/index.m3u8
-#EXTINF:-1 tvg-name="TRT SPOR" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TRT SPOR
+#EXTINF:-1 tvg-name="TRT SPOR" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TRT SPOR
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2781429267/index.m3u8
-#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TRT SPOR YILDIZ
+#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TRT SPOR YILDIZ
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2081577417/index.m3u8
-#EXTINF:-1 tvg-name="TRT TURK" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TRT TURK
+#EXTINF:-1 tvg-name="TRT TURK" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TRT TURK
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/797768731/index.m3u8
-#EXTINF:-1 tvg-name="TRT WORLD" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TRT WORLD
+#EXTINF:-1 tvg-name="TRT WORLD" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TRT WORLD
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3107205535/index.m3u8
-#EXTINF:-1 tvg-name="TV 100" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TV 100
+#EXTINF:-1 tvg-name="TV 100" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TV 100
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/163520723/index.m3u8
-#EXTINF:-1 tvg-name="TV 4" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TV 4
+#EXTINF:-1 tvg-name="TV 4" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TV 4
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1193276019/index.m3u8
-#EXTINF:-1 tvg-name="TV 41" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TV 41
+#EXTINF:-1 tvg-name="TV 41" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TV 41
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/49546714/index.m3u8
-#EXTINF:-1 tvg-name="TV 5" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TV 5
+#EXTINF:-1 tvg-name="TV 5" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TV 5
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2055199683/index.m3u8
-#EXTINF:-1 tvg-name="TV 52 ORDU" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TV 52 ORDU
+#EXTINF:-1 tvg-name="TV 52 ORDU" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TV 52 ORDU
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2602281851/index.m3u8
-#EXTINF:-1 tvg-name="TV 8" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TV 8
+#EXTINF:-1 tvg-name="TV 8" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TV 8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2196709234/index.m3u8
-#EXTINF:-1 tvg-name="TV 8 INT" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TV 8 INT
+#EXTINF:-1 tvg-name="TV 8 INT" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TV 8 INT
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1764745585/index.m3u8
-#EXTINF:-1 tvg-name="TV 85" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TV 85
+#EXTINF:-1 tvg-name="TV 85" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TV 85
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2159436641/index.m3u8
-#EXTINF:-1 tvg-name="TV EM" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TV EM
+#EXTINF:-1 tvg-name="TV EM" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TV EM
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/4272477808/index.m3u8
-#EXTINF:-1 tvg-name="TVNET" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TVNET
+#EXTINF:-1 tvg-name="TVNET" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",TVNET
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1221661755/index.m3u8
-#EXTINF:-1 tvg-name="UCANKUS" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",UCANKUS
+#EXTINF:-1 tvg-name="UCANKUS" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",UCANKUS
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3215571778/index.m3u8
-#EXTINF:-1 tvg-name="ULKE TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ULKE TV
+#EXTINF:-1 tvg-name="ULKE TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ULKE TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/216740557/index.m3u8
-#EXTINF:-1 tvg-name="ULUSAL KANAL" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ULUSAL KANAL
+#EXTINF:-1 tvg-name="ULUSAL KANAL" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",ULUSAL KANAL
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/885453469/index.m3u8
-#EXTINF:-1 tvg-name="UZAY HABER" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",UZAY HABER
+#EXTINF:-1 tvg-name="UZAY HABER" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",UZAY HABER
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/3126797390/index.m3u8
-#EXTINF:-1 tvg-name="VATAN TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",VATAN TV
+#EXTINF:-1 tvg-name="VATAN TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",VATAN TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2730047464/index.m3u8
-#EXTINF:-1 tvg-name="VIASAT EXPLORE" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",VIASAT EXPLORE
+#EXTINF:-1 tvg-name="VIASAT EXPLORE" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",VIASAT EXPLORE
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1785479914/index.m3u8
-#EXTINF:-1 tvg-name="VIASAT HISTORY" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",VIASAT HISTORY
+#EXTINF:-1 tvg-name="VIASAT HISTORY" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",VIASAT HISTORY
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1515686371/index.m3u8
-#EXTINF:-1 tvg-name="VIZYON 58" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",VIZYON 58
+#EXTINF:-1 tvg-name="VIZYON 58" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",VIZYON 58
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1283602496/index.m3u8
-#EXTINF:-1 tvg-name="VIZYON 58 TV SIVAS" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",VIZYON 58 TV SIVAS
+#EXTINF:-1 tvg-name="VIZYON 58 TV SIVAS" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",VIZYON 58 TV SIVAS
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/2278118654/index.m3u8
-#EXTINF:-1 tvg-name="VUSLAT TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",VUSLAT TV
+#EXTINF:-1 tvg-name="VUSLAT TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",VUSLAT TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1061752758/index.m3u8
-#EXTINF:-1 tvg-name="YABAN TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",YABAN TV
+#EXTINF:-1 tvg-name="YABAN TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",YABAN TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/4204615990/index.m3u8
-#EXTINF:-1 tvg-name="YESILCAM 1" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",YESILCAM 1
+#EXTINF:-1 tvg-name="YESILCAM 1" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",YESILCAM 1
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1952835738/index.m3u8
-#EXTINF:-1 tvg-name="YESILCAM 2" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",YESILCAM 2
+#EXTINF:-1 tvg-name="YESILCAM 2" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",YESILCAM 2
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/868586058/index.m3u8
-#EXTINF:-1 tvg-name="YESILCAM 3" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",YESILCAM 3
+#EXTINF:-1 tvg-name="YESILCAM 3" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",YESILCAM 3
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/245742586/index.m3u8
-#EXTINF:-1 tvg-name="YOL TV" tvg-id="None" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",YOL TV
+#EXTINF:-1 tvg-name="YOL TV" tvg-language="Turkish" tvg-country="TR tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Turkey",YOL TV
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 https://vavoo.to/play/1071166054/index.m3u8
