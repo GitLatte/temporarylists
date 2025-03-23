@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/epgs/daddylive-events-epg.xml"
+#EXTM3U
 #EXTINF:-1 group-title="TV SHOWS",9-1-1 Season 8 Episode 11 (ABC NY USA)
 #EXTVLCOPT:http-origin=https://quest4play.xyz
 #EXTVLCOPT:http-referrer=https://quest4play.xyz/

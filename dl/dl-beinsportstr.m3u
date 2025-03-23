@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/epgs/daddylive-channels-epg.xml"
+#EXTM3U
 #EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-1.png" group-title="TURKEY",beIN SPORTS 1 Turkey
 #EXTVLCOPT:http-origin=https://gamerushplay.cfd
 #EXTVLCOPT:http-referrer=https://gamerushplay.cfd/
