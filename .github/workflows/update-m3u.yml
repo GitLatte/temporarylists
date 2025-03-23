@@ -1,4 +1,4 @@
-her çalışname: Daddy Listelerini Oluştur
+name: Daddy Listelerini Oluştur
 
 on:
   schedule:
@@ -58,7 +58,7 @@ jobs:
                           include_next = True
                           filtered_lines.append(line)
                   elif line.startswith('#EXTM3U'):
-                      filtered_lines.append(line)
+                      filtered_lines.append('#EXTM3U')
                   elif line.startswith('#EXTVLCOPT') and include_next:
                       filtered_lines.append(line)
                   elif line.startswith('http') and include_next:
@@ -81,7 +81,7 @@ jobs:
                       include_next = True
                       processed_lines.append(line)
                   elif line.startswith('#EXTM3U'):
-                      processed_lines.append(line)
+                      processed_lines.append('#EXTM3U')
                   elif line.startswith('#EXTVLCOPT') and include_next:
                       processed_lines.append(line)
                   elif line.startswith('http') and include_next:
