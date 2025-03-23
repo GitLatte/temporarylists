@@ -1,21 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-1.png" group-title="TURKEY",beIN SPORTS 1 Turkey
-#EXTVLCOPT:http-origin=https://gamerushplay.cfd
-#EXTVLCOPT:http-referrer=https://gamerushplay.cfd/
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium62/mono.m3u8
 #EXTINF:-1 tvg-id="Beinsports.2.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-2.png" group-title="TURKEY",beIN SPORTS 2 Turkey
-#EXTVLCOPT:http-origin=https://gamerushplay.cfd
-#EXTVLCOPT:http-referrer=https://gamerushplay.cfd/
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium63/mono.m3u8
 #EXTINF:-1 tvg-id="Beinsports.3.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-3.png" group-title="TURKEY",beIN SPORTS 3 Turkey
-#EXTVLCOPT:http-origin=https://gamerushplay.cfd
-#EXTVLCOPT:http-referrer=https://gamerushplay.cfd/
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium64/mono.m3u8
 #EXTINF:-1 tvg-id="Beinsports.4.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-4.png" group-title="TURKEY",beIN SPORTS 4 Turkey
-#EXTVLCOPT:http-origin=https://gamerushplay.cfd
-#EXTVLCOPT:http-referrer=https://gamerushplay.cfd/
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium67/mono.m3u8
