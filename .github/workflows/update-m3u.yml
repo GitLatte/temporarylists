@@ -40,10 +40,31 @@ jobs:
 
           def filter_sports_channels(content):
               lines = content.split('\n')
-              filtered_lines = []
+              filtered_lines = ['#EXTM3U']
+              turkey_lines = []
+              other_lines = []
               current_group = None
               current_tvg_id = None
               include_next = False
+
+              group_translations = {
+                  'france': 'Fransa',
+                  'portugal': 'Portekiz',
+                  'russia': 'Rusya',
+                  'turkey': 'Türkiye',
+                  'israel': 'İsrail',
+                  'greece': 'Yunanistan',
+                  'serbia': 'Sırbistan',
+                  'croatia': 'Hırvatistan',
+                  'spain': 'İspanya',
+                  'italy': 'İtalya',
+                  'germany': 'Almanya',
+                  'denmark': 'Danimarka',
+                  'sweden': 'İsveç',
+                  'netherlands': 'Hollanda',
+                  'uk': 'İngiltere',
+                  'united states': 'Amerika Birleşik Devletleri'
+              }
 
               for line in lines:
                   if line.startswith('#EXTINF'):
@@ -56,31 +77,68 @@ jobs:
                           tvg_id = current_tvg_id.group(1)
                           if tvg_id.endswith('.tr'):
                               include_next = True
-                              filtered_lines.append(line)
+                              modified_line = line
+                              if current_group:
+                                  old_group = current_group.group(1)
+                                  new_group = 'Türkiye Spor Kanalları'
+                                  modified_line = re.sub('group-title="[^"]*"', f'group-title="{new_group}"', line)
+                              turkey_lines.append(modified_line)
                       
                       if current_group:
-                          group = current_group.group(1)
-                          if ('France' in group and 'sport' in line.lower() and 'eurosport' not in line.lower()) or \
-                             ('Portugal' in group and 'sport tv' in line.lower()) or \
-                             ('Russia' in group and 'match' in line.lower()) or \
-                             ('beinsports.us' in line.lower()):
+                          group = current_group.group(1).lower()
+                          line_lower = line.lower()
+                          channel_name_lower = channel_name.group(1).lower() if channel_name else ''
+                          if ('france' in group and 'sport' in channel_name_lower and 'eurosport' not in channel_name_lower) or \
+                             ('portugal' in group and 'sport tv' in channel_name_lower) or \
+                             ('russia' in group and 'match' in channel_name_lower) or \
+                             ('beinsports.us' in line_lower) or \
+                             ('israel' in group and ('sport 5' in channel_name_lower or 'sport5' in channel_name_lower)) or \
+                             ('greece' in group and ('nova sports' in channel_name_lower or 'cosmote sport' in channel_name_lower)) or \
+                             ('serbia' in group and ('sport klub' in channel_name_lower or 'arena' in channel_name_lower)) or \
+                             ('croatia' in group and 'arena sport' in channel_name_lower) or \
+                             ('spain' in group and 'm+ vamos' in channel_name_lower) or \
+                             ('italy' in group and 'sky sports' in channel_name_lower) or \
+                             ('germany' in group and 'sky sport' in channel_name_lower) or \
+                             ('denmark' in group and 'tv3 sport' in channel_name_lower) or \
+                             ('sweden' in group and 'v sport' in channel_name_lower) or \
+                             ('netherlands' in group and 'ziggo sport' in channel_name_lower) or \
+                             ('uk' in group and ('sky sports' in channel_name_lower or 'tnt sports' in channel_name_lower)) or \
+                             ('united states' in group and ('espn' in channel_name_lower or 'fox sports' in channel_name_lower or \
+                              'cbs sports' in channel_name_lower or 'nbc sports' in channel_name_lower)):
                               include_next = True
-                              filtered_lines.append(line)
+                              modified_line = line
+                              for old_name, new_name in group_translations.items():
+                                  if old_name in group.lower():
+                                      new_group = f'{new_name} Spor Kanalları'
+                                      modified_line = re.sub('group-title="[^"]*"', f'group-title="{new_group}"', line)
+                                      break
+                              other_lines.append(modified_line)
                       
                       if current_tvg_id:
                           tvg_id = current_tvg_id.group(1)
                           if (tvg_id.endswith('.fr') and 'sport' in line.lower()) or \
                              (tvg_id.endswith('.nl') and 'ziggo' in line.lower()):
                               include_next = True
-                              filtered_lines.append(line)
-                  elif line.startswith('#EXTM3U'):
-                      filtered_lines.append('#EXTM3U')
+                              modified_line = line
+                              if tvg_id.endswith('.fr'):
+                                  new_group = 'Fransa Spor Kanalları'
+                                  modified_line = re.sub('group-title="[^"]*"', f'group-title="{new_group}"', line)
+                              other_lines.append(modified_line)
                   elif line.startswith('#EXTVLCOPT') and include_next:
-                      filtered_lines.append(line)
+                      if len(turkey_lines) > 0 and turkey_lines[-1].startswith('#EXTINF'):
+                          turkey_lines.append(line)
+                      elif len(other_lines) > 0 and other_lines[-1].startswith('#EXTINF'):
+                          other_lines.append(line)
                   elif line.startswith('http') and include_next:
-                      filtered_lines.append(line)
+                      if len(turkey_lines) > 0 and turkey_lines[-1].startswith('#EXTINF'):
+                          turkey_lines.append(line)
+                      elif len(other_lines) > 0 and other_lines[-1].startswith('#EXTINF'):
+                          other_lines.append(line)
                       include_next = False
 
+              # Önce Türkiye kanallarını, sonra diğer kanalları ekle
+              filtered_lines.extend(turkey_lines)
+              filtered_lines.extend(other_lines)
               return '\n'.join(filtered_lines)
 
           def process_events(content):
