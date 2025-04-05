@@ -52,17 +52,7 @@ jobs:
                   'portugal': 'Portekiz',
                   'russia': 'Rusya',
                   'turkey': 'Türkiye',
-                  'israel': 'İsrail',
-                  'greece': 'Yunanistan',
-                  'serbia': 'Sırbistan',
-                  'croatia': 'Hırvatistan',
-                  'spain': 'İspanya',
-                  'italy': 'İtalya',
-                  'germany': 'Almanya',
-                  'denmark': 'Danimarka',
-                  'sweden': 'İsveç',
                   'netherlands': 'Hollanda',
-                  'uk': 'İngiltere',
                   'united states': 'Amerika Birleşik Devletleri'
               }
 
@@ -89,17 +79,7 @@ jobs:
                              ('portugal' in group and 'sport tv' in channel_name_lower) or \
                              ('russia' in group and 'match' in channel_name_lower) or \
                              ('beinsports.us' in line_lower) or \
-                             ('israel' in group and ('sport 5' in channel_name_lower or 'sport5' in channel_name_lower)) or \
-                             ('greece' in group and ('nova sports' in channel_name_lower or 'cosmote sport' in channel_name_lower)) or \
-                             ('serbia' in group and ('sport klub' in channel_name_lower or 'arena' in channel_name_lower)) or \
-                             ('croatia' in group and 'arena sport' in channel_name_lower) or \
-                             ('spain' in group and 'm+ vamos' in channel_name_lower) or \
-                             ('italy' in group and 'sky sports' in channel_name_lower) or \
-                             ('germany' in group and 'sky sport' in channel_name_lower) or \
-                             ('denmark' in group and 'tv3 sport' in channel_name_lower) or \
-                             ('sweden' in group and 'v sport' in channel_name_lower) or \
                              ('netherlands' in group and 'ziggo sport' in channel_name_lower) or \
-                             ('uk' in group and ('sky sports' in channel_name_lower or 'tnt sports' in channel_name_lower)) or \
                              ('united states' in group and ('espn' in channel_name_lower or 'fox sports' in channel_name_lower or \
                               'cbs sports' in channel_name_lower or 'nbc sports' in channel_name_lower)):
                               include_next = True
