@@ -85,7 +85,7 @@ jobs:
                           include_next = True
                           modified_line = line
                           if current_group:
-                              new_group = 'Türkiye Spor Kanalları'
+                              new_group = 'Türkiye-Futbol'
                               modified_line = re.sub('group-title="[^"]*"', f'group-title="{new_group}"', line)
                           turkey_lines.append(modified_line)
                       
@@ -103,7 +103,7 @@ jobs:
                                      ('beinsports.us' in line_lower):
                                       include_next = True
                                       modified_line = line
-                                      new_group = f'{new_name} Spor Kanalları'
+                                      new_group = f'{new_name}-Futbol'
                                       modified_line = re.sub('group-title="[^"]*"', f'group-title="{new_group}"', line)
                                       if new_name not in country_lines:
                                           country_lines[new_name] = []
