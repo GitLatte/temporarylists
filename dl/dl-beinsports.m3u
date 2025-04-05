@@ -7,28 +7,6 @@
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTINF:-1 tvg-id="Beinsports.4.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-4.png" group-title="Türkiye Spor Kanalları",beIN SPORTS 4 Turkey
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="Arena.Sport.1.HD.hr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-1.png" group-title="Hırvatistan Spor Kanalları",Arena Sport 1 Croatia
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-1-premium.png" group-title="Sırbistan Spor Kanalları",Arena Sport 1 Premium
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-1.png" group-title="Sırbistan Spor Kanalları",Arena Sport 1 Serbia
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="Arena.Sport.2.HD.hr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-2.png" group-title="Hırvatistan Spor Kanalları",Arena Sport 2 Croatia
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-2-premium.png" group-title="Sırbistan Spor Kanalları",Arena Sport 2 Premium
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-2.png" group-title="Sırbistan Spor Kanalları",Arena Sport 2 Serbia
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="Arena.Sport.3.HD.hr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-3.png" group-title="Hırvatistan Spor Kanalları",Arena Sport 3 Croatia
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-3-premium.png" group-title="Sırbistan Spor Kanalları",Arena Sport 3 Premium
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-3.png" group-title="Sırbistan Spor Kanalları",Arena Sport 3 Serbia
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="Arena.Sport.4.HD.hr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-4.png" group-title="Hırvatistan Spor Kanalları",Arena Sport 4 Croatia
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-4.png" group-title="Sırbistan Spor Kanalları",Arena Sport 4 Serbia
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTINF:-1 tvg-id="beINSports.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-6.png" group-title="Amerika Birleşik Devletleri Spor Kanalları",BeIN SPORTS USA
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cbs-sports-golazo.png" group-title="Amerika Birleşik Devletleri Spor Kanalları",CBS Sports Golazo
@@ -40,24 +18,6 @@
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTINF:-1 tvg-id="Canal+.Sport.360.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus.png" group-title="Fransa Spor Kanalları",Canal+ Sport360
 #EXTINF:-1 tvg-id="Canal+.Sport.360.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus.png" group-title="Fransa Spor Kanalları",Canal+ Sport360
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="COSMOTE.Sport.1.HD.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cosmote-sport-1.png" group-title="Yunanistan Spor Kanalları",Cosmote Sport 1 HD
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="COSMOTE.Sport.2.HD.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cosmote-sport-2.png" group-title="Yunanistan Spor Kanalları",Cosmote Sport 2 HD
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="COSMOTE.Sport.3.HD.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cosmote-sport-3.png" group-title="Yunanistan Spor Kanalları",Cosmote Sport 3 HD
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="COSMOTE.Sport.4.HD.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cosmote-sport-4.png" group-title="Yunanistan Spor Kanalları",Cosmote Sport 4 HD
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="COSMOTE.Sport.5.HD.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cosmote-sport-5.png" group-title="Yunanistan Spor Kanalları",Cosmote Sport 5 HD
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="COSMOTE.Sport.6.HD.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cosmote-sport-6.png" group-title="Yunanistan Spor Kanalları",Cosmote Sport 6 HD
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="COSMOTE.Sport.7.HD.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cosmote-sport-7.png" group-title="Yunanistan Spor Kanalları",Cosmote Sport 7 HD
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="COSMOTE.Sport.8.HD.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cosmote-sport-8.png" group-title="Yunanistan Spor Kanalları",Cosmote Sport 8 HD
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="COSMOTE.Sport.9.HD.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cosmote-sport-9.png" group-title="Yunanistan Spor Kanalları",Cosmote Sport 9 HD
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTINF:-1 tvg-id="ESPN.Deportes.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/espn-deportes.png" group-title="Amerika Birleşik Devletleri Spor Kanalları",ESPN Deportes
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -99,65 +59,11 @@
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nbc-sports-washington.png" group-title="Amerika Birleşik Devletleri Spor Kanalları",NBC Sports Washington
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="Novasports1.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nova-sports-1-gr.png" group-title="Yunanistan Spor Kanalları",Nova Sports 1 Greece
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="Novasports2.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nova-sports-2-gr.png" group-title="Yunanistan Spor Kanalları",Nova Sports 2 Greece
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="Novasports3.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nova-sports-3-gr.png" group-title="Yunanistan Spor Kanalları",Nova Sports 3 Greece
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="Novasports4.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nova-sports-4-gr.png" group-title="Yunanistan Spor Kanalları",Nova Sports 4 Greece
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="Novasports5.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nova-sports-5-gr.png" group-title="Yunanistan Spor Kanalları",Nova Sports 5 Greece
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="Novasports6.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nova-sports-6-gr.png" group-title="Yunanistan Spor Kanalları",Nova Sports 6 Greece
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="Novasports.News.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nova-sports-news-gr.png" group-title="Yunanistan Spor Kanalları",Nova Sports News Greece
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="Novasports.Premier.League.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nova-sports-premier-league.png" group-title="Yunanistan Spor Kanalları",Nova Sports Premier League Greece
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="Novasports.Prime.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nova-sports-prime-gr.png" group-title="Yunanistan Spor Kanalları",Nova Sports Prime Greece
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="Novasports.Start.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nova-sports-start-gr.png" group-title="Yunanistan Spor Kanalları",Nova Sports Start Greece
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTINF:-1 tvg-id="RMC.Sport.1.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/rmc-sport-1-fr.png" group-title="Fransa Spor Kanalları",RMC Sport 1 France
 #EXTINF:-1 tvg-id="RMC.Sport.1.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/rmc-sport-1-fr.png" group-title="Fransa Spor Kanalları",RMC Sport 1 France
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTINF:-1 tvg-id="RMC.Sport.2.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/rmc-sport-2-fr.png" group-title="Fransa Spor Kanalları",RMC Sport 2 France
 #EXTINF:-1 tvg-id="RMC.Sport.2.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/rmc-sport-2-fr.png" group-title="Fransa Spor Kanalları",RMC Sport 2 France
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="Sky.Sport.Austria.1.HD.de" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-austria-1-hd-at.png" group-title="Almanya Spor Kanalları",Sky Sport Austria 1 HD
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.1.de" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-bundesliga-1-hd.png" group-title="Almanya Spor Kanalları",Sky Sport Bundesliga 1 HD
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="Sky.Sport.Mix.de" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-mix-de.png" group-title="Almanya Spor Kanalları",Sky Sport Mix DE
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="Sky.Sport.Top.Event.de" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-top-event-de.png" group-title="Almanya Spor Kanalları",Sky Sport Top Event DE
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="SKY.Sport.F1.de" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-f1-de.png" group-title="Almanya Spor Kanalları",Sky Sports F1 DE
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="Sky.Sport.Golf.it" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-golf-it.png" group-title="İtalya Spor Kanalları",Sky Sports Golf Italy
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="Sky.Sport.Tennis.de" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-tennis-de.png" group-title="Almanya Spor Kanalları",Sky Sports Tennis DE
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="Sport.5.Gold.(57).il" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport-5-gold-israel.png" group-title="İsrail Spor Kanalları",Sport 5 Gold Israel
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="Sport.5.HD.(55).il" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport-5-israel.png" group-title="İsrail Spor Kanalları",Sport 5 Israel
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="Sport.5.Live.HD.(58).il" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport-5-live-israel.png" group-title="İsrail Spor Kanalları",Sport 5 Live Israel
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="Sport.5+.HD.(56).il" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport-5-plus-israel.png" group-title="İsrail Spor Kanalları",Sport 5 PLUS Israel
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="Sport.5.Stars.HD.(59).il" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport-5-stars-israel.png" group-title="İsrail Spor Kanalları",Sport 5 Star Israel
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport-klub-1-serbia.png" group-title="Sırbistan Spor Kanalları",Sport Klub 1 Serbia
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport-klub-2-serbia.png" group-title="Sırbistan Spor Kanalları",Sport Klub 2 Serbia
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport-klub-3-serbia.png" group-title="Sırbistan Spor Kanalları",Sport Klub 3 Serbia
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport-klub-4-serbia.png" group-title="Sırbistan Spor Kanalları",Sport Klub 4 Serbia
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport-klub-hd-serbia.png" group-title="Sırbistan Spor Kanalları",Sport Klub HD Serbia
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport-tv-1-portugal.png" group-title="Portekiz Spor Kanalları",Sport TV1 Portugal
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -168,10 +74,6 @@
 #EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport-tv-4-portugal.png" group-title="Portekiz Spor Kanalları",Sport TV4 Portugal
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport-tv-5-portugal.png" group-title="Portekiz Spor Kanalları",Sport TV5 Portugal
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="TV3Sport1(src01).dk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tv3-sport-denmark.png" group-title="Danimarka Spor Kanalları",TV3 Sport Denmark
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="V.Sport.Motor.se" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/v-sport-motor-sweden.png" group-title="İsveç Spor Kanalları",V Sport Motor Sweden
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ziggo-sport-2-nl.png" group-title="Hollanda Spor Kanalları",Ziggo Sport 2 NL
 #EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ziggo-sport-2-nl.png" group-title="NETHERLANDS",Ziggo Sport 2 NL
