@@ -38,7 +38,7 @@ jobs:
                   print(f"Error fetching {url}: {e}")
                   return None
 
-          def filter_turkish_channels(content):
+          def filter_sports_channels(content):
               lines = content.split('\n')
               filtered_lines = []
               current_group = None
@@ -50,13 +50,29 @@ jobs:
                       include_next = False
                       current_group = re.search('group-title="([^"]+)"', line)
                       current_tvg_id = re.search('tvg-id="([^"]+)"', line)
+                      channel_name = re.search(',[^,\n]+$', line)
                       
-                      if current_group and 'Turkey' in current_group.group(1):
-                          include_next = True
-                          filtered_lines.append(line)
-                      elif current_tvg_id and current_tvg_id.group(1).endswith('.tr'):
-                          include_next = True
-                          filtered_lines.append(line)
+                      if current_tvg_id:
+                          tvg_id = current_tvg_id.group(1)
+                          if tvg_id.endswith('.tr'):
+                              include_next = True
+                              filtered_lines.append(line)
+                      
+                      if current_group:
+                          group = current_group.group(1)
+                          if ('France' in group and 'sport' in line.lower()) or \
+                             ('Portugal' in group and 'Sport Tv' in line) or \
+                             ('Russia' in group and 'match' in line.lower()) or \
+                             ('beinsports.us' in line.lower()):
+                              include_next = True
+                              filtered_lines.append(line)
+                      
+                      if current_tvg_id:
+                          tvg_id = current_tvg_id.group(1)
+                          if (tvg_id.endswith('.fr') and 'sport' in line.lower()) or \
+                             (tvg_id.endswith('.nl') and 'ziggo' in line.lower()):
+                              include_next = True
+                              filtered_lines.append(line)
                   elif line.startswith('#EXTM3U'):
                       filtered_lines.append('#EXTM3U')
                   elif line.startswith('#EXTVLCOPT') and include_next:
@@ -113,16 +129,16 @@ jobs:
 
           bein_content = fetch_m3u_content('https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/daddylive-channels.m3u8')
           if bein_content:
-              filtered_bein = filter_turkish_channels(bein_content)
-              write_file('dl/dl-beinsportstr.m3u', filtered_bein)
+              filtered_bein = filter_sports_channels(bein_content)
+              write_file('dl/dl-beinsports.m3u', filtered_bein)
 
           events_content = fetch_m3u_content('https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/daddylive-events.m3u8')
           if events_content:
               processed_events = process_events(events_content)
               write_file('dl/dl-events.m3u', processed_events)
               
-          # Merge beinsportstr and events files
-          merged_content = merge_m3u_files('dl/dl-beinsportstr.m3u', 'dl/dl-events.m3u')
+          # Merge beinsports and events files
+          merged_content = merge_m3u_files('dl/dl-beinsports.m3u', 'dl/dl-events.m3u')
           if merged_content:
               write_file('dl/dl-daddyliveall.m3u', merged_content)
           EOF
@@ -131,7 +147,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add dl/dl-beinsportstr.m3u dl/dl-events.m3u dl/dl-daddyliveall.m3u
+          git add dl/dl-beinsports.m3u dl/dl-events.m3u dl/dl-daddyliveall.m3u
           git diff --quiet && git diff --staged --quiet || (
             git commit -m "Listeler güncellendi" -a
             git push
