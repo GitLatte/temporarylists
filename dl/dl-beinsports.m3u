@@ -9,33 +9,13 @@
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTINF:-1 tvg-id="beINSports.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-6.png" group-title="Amerika Birleşik Devletleri Spor Kanalları",BeIN SPORTS USA
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cbs-sports-golazo.png" group-title="Amerika Birleşik Devletleri Spor Kanalları",CBS Sports Golazo
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cbs-sports-network.png" group-title="Amerika Birleşik Devletleri Spor Kanalları",CBS Sports Network (CBSSN)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-france.png" group-title="Fransa Spor Kanalları",Canal+ Sport France
 #EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-france.png" group-title="Fransa Spor Kanalları",Canal+ Sport France
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTINF:-1 tvg-id="Canal+.Sport.360.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus.png" group-title="Fransa Spor Kanalları",Canal+ Sport360
-#EXTINF:-1 tvg-id="Canal+.Sport.360.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus.png" group-title="Fransa Spor Kanalları",Canal+ Sport360
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="ESPN.Deportes.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/espn-deportes.png" group-title="Amerika Birleşik Devletleri Spor Kanalları",ESPN Deportes
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/espn-usa.png" group-title="Amerika Birleşik Devletleri Spor Kanalları",ESPN USA
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/espn-2-usa.png" group-title="Amerika Birleşik Devletleri Spor Kanalları",ESPN2 USA
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="ESPN.U.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/espn-u-usa.png" group-title="Amerika Birleşik Devletleri Spor Kanalları",ESPNU USA
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="ESPN.News.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/espnews.png" group-title="Amerika Birleşik Devletleri Spor Kanalları",ESPNews
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/eurosport-1.png" group-title="Fransa Spor Kanalları",Eurosport 1 France
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTINF:-1 tvg-id="Eurosport2.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/eurosport-2.png" group-title="Fransa Spor Kanalları",Eurosport 2 France
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-1-usa.png" group-title="Amerika Birleşik Devletleri Spor Kanalları",Fox Sports 1 USA
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-2-usa.png" group-title="Amerika Birleşik Devletleri Spor Kanalları",Fox Sports 2 USA
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/match-boets-ru.png" group-title="Rusya Spor Kanalları",Match Boets Russia
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -49,20 +29,8 @@
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/match-tv-ru.png" group-title="Rusya Spor Kanalları",Match TV Russia
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="NBC.Sports.Bay.Area.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nbc-sports-bay-area.png" group-title="Amerika Birleşik Devletleri Spor Kanalları",NBC Sports Bay Area
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="NBC.Sports.Boston.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nbc-sports-boston.png" group-title="Amerika Birleşik Devletleri Spor Kanalları",NBC Sports Boston
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="NBC.Sports.California.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nbc-sports-california.png" group-title="Amerika Birleşik Devletleri Spor Kanalları",NBC Sports California
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nbc-sports-philadelphia.png" group-title="Amerika Birleşik Devletleri Spor Kanalları",NBC Sports Philadelphia
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nbc-sports-washington.png" group-title="Amerika Birleşik Devletleri Spor Kanalları",NBC Sports Washington
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="RMC.Sport.1.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/rmc-sport-1-fr.png" group-title="Fransa Spor Kanalları",RMC Sport 1 France
 #EXTINF:-1 tvg-id="RMC.Sport.1.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/rmc-sport-1-fr.png" group-title="Fransa Spor Kanalları",RMC Sport 1 France
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTINF:-1 tvg-id="RMC.Sport.2.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/rmc-sport-2-fr.png" group-title="Fransa Spor Kanalları",RMC Sport 2 France
 #EXTINF:-1 tvg-id="RMC.Sport.2.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/rmc-sport-2-fr.png" group-title="Fransa Spor Kanalları",RMC Sport 2 France
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport-tv-1-portugal.png" group-title="Portekiz Spor Kanalları",Sport TV1 Portugal
