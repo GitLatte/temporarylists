@@ -75,13 +75,11 @@ jobs:
                           group = current_group.group(1).lower()
                           line_lower = line.lower()
                           channel_name_lower = channel_name.group(1).lower() if channel_name and channel_name.group(1) else ''
-                          if ('france' in group and 'sport' in channel_name_lower and 'eurosport' not in channel_name_lower) or \
+                          if ('france' in group and 'bein' in channel_name_lower) or \
                              ('portugal' in group and 'sport tv' in channel_name_lower) or \
                              ('russia' in group and 'match' in channel_name_lower) or \
                              ('beinsports.us' in line_lower) or \
-                             ('netherlands' in group and 'ziggo sport' in channel_name_lower) or \
-                             ('united states' in group and ('espn' in channel_name_lower or 'fox sports' in channel_name_lower or \
-                              'cbs sports' in channel_name_lower or 'nbc sports' in channel_name_lower)):
+                             ('netherlands' in group and 'ziggo sport' in channel_name_lower):
                               include_next = True
                               modified_line = line
                               for old_name, new_name in group_translations.items():
