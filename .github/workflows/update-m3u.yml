@@ -60,8 +60,8 @@ jobs:
                       
                       if current_group:
                           group = current_group.group(1)
-                          if ('France' in group and 'sport' in line.lower()) or \
-                             ('Portugal' in group and 'Sport Tv' in line) or \
+                          if ('France' in group and 'sport' in line.lower() and 'eurosport' not in line.lower()) or \
+                             ('Portugal' in group and 'sport tv' in line.lower()) or \
                              ('Russia' in group and 'match' in line.lower()) or \
                              ('beinsports.us' in line.lower()):
                               include_next = True
