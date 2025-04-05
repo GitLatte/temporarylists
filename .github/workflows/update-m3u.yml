@@ -134,8 +134,8 @@ jobs:
               processed_events = process_events(events_content)
               write_file('dl/dl-events.m3u', processed_events)
               
-          # Merge beinsportstr and events files
-          merged_content = merge_m3u_files('dl/dl-beinsportstr.m3u', 'dl/dl-events.m3u')
+          # Merge beinsports and events files
+          merged_content = merge_m3u_files('dl/dl-beinsports.m3u', 'dl/dl-events.m3u')
           if merged_content:
               write_file('dl/dl-daddyliveall.m3u', merged_content)
           EOF
@@ -144,7 +144,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add dl/dl-beinsportstr.m3u dl/dl-events.m3u dl/dl-daddyliveall.m3u
+          git add dl/dl-beinsports.m3u dl/dl-events.m3u dl/dl-daddyliveall.m3u
           git diff --quiet && git diff --staged --quiet || (
             git commit -m "Listeler güncellendi" -a
             git push
