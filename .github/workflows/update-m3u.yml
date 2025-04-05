@@ -38,11 +38,12 @@ jobs:
                   print(f"Error fetching {url}: {e}")
                   return None
 
-          def filter_turkish_channels(content):
+          def filter_sports_channels(content):
               lines = content.split('\n')
               filtered_lines = []
               current_group = None
               current_tvg_id = None
+              current_name = None
               include_next = False
 
               for line in lines:
@@ -50,11 +51,23 @@ jobs:
                       include_next = False
                       current_group = re.search('group-title="([^"]+)"', line)
                       current_tvg_id = re.search('tvg-id="([^"]+)"', line)
+                      current_name = re.search(',(.+)$', line)
                       
-                      if current_group and 'Turkey' in current_group.group(1):
+                      # Fransa kanallarından içinde "spor" geçen ve .fr uzantılı olanlar
+                      if current_group and 'France' in current_group.group(1) and current_tvg_id and current_tvg_id.group(1).endswith('.fr'):
+                          if current_name and 'spor' in current_name.group(1).lower():
+                              include_next = True
+                              filtered_lines.append(line)
+                      # beinsports.us kanalı
+                      elif current_tvg_id and 'beinsports.us' in current_tvg_id.group(1).lower():
                           include_next = True
                           filtered_lines.append(line)
-                      elif current_tvg_id and current_tvg_id.group(1).endswith('.tr'):
+                      # Portekiz kategorisinden "Sport Tv" içeren kanallar
+                      elif current_group and 'Portugal' in current_group.group(1) and current_name and 'Sport Tv' in current_name.group(1):
+                          include_next = True
+                          filtered_lines.append(line)
+                      # Rusya kategorisinden içinde "match" geçen kanallar
+                      elif current_group and 'Russia' in current_group.group(1) and current_name and 'match' in current_name.group(1).lower():
                           include_next = True
                           filtered_lines.append(line)
                   elif line.startswith('#EXTM3U'):
@@ -96,22 +109,42 @@ jobs:
                   f.write(content)
               print(f"File updated: {file_path}")
 
+          def merge_m3u_files(file1_path, file2_path):
+              try:
+                  with open(file1_path, 'r', encoding='utf-8') as f1:
+                      content1 = f1.read()
+                  with open(file2_path, 'r', encoding='utf-8') as f2:
+                      content2 = f2.read()
+                  
+                  # Remove #EXTM3U from the second file to avoid duplication
+                  content2 = content2.replace('#EXTM3U\n', '')
+                  
+                  return content1 + '\n' + content2
+              except Exception as e:
+                  print(f"Error merging files: {e}")
+                  return None
+
           bein_content = fetch_m3u_content('https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/daddylive-channels.m3u8')
           if bein_content:
-              filtered_bein = filter_turkish_channels(bein_content)
-              write_file('dl/dl-beinsportstr.m3u', filtered_bein)
+              filtered_bein = filter_sports_channels(bein_content)
+              write_file('dl/dl-beinsports.m3u', filtered_bein)
 
           events_content = fetch_m3u_content('https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/daddylive-events.m3u8')
           if events_content:
               processed_events = process_events(events_content)
               write_file('dl/dl-events.m3u', processed_events)
+              
+          # Merge beinsportstr and events files
+          merged_content = merge_m3u_files('dl/dl-beinsportstr.m3u', 'dl/dl-events.m3u')
+          if merged_content:
+              write_file('dl/dl-daddyliveall.m3u', merged_content)
           EOF
 
       - name: Commit and push if changed
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add dl/dl-beinsportstr.m3u dl/dl-events.m3u
+          git add dl/dl-beinsportstr.m3u dl/dl-events.m3u dl/dl-daddyliveall.m3u
           git diff --quiet && git diff --staged --quiet || (
             git commit -m "Listeler güncellendi" -a
             git push
