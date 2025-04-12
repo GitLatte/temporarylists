@@ -4,7 +4,7 @@ import re
 def transform_m3u_urls(input_file, username, password):
     # GitHub raw content URL'sini oluştur
     repo_path = os.path.relpath(input_file, os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
-    repo_url = f'https://raw.githubusercontent.com/patrontech/temporarylists/protected-streams/{repo_path}'
+    repo_url = f'https://raw.githubusercontent.com/patrontech/temporarylists/xtream/{repo_path}'
     
     with open(input_file, 'r', encoding='utf-8') as f:
         content = f.read()

@@ -31,7 +31,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git checkout -b protected-streams
+          git checkout -b xtream
           git add .
           git commit -m "Add protected stream URLs"
-          git push -f origin protected-streams
+          git push -f origin xtream
