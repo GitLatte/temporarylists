@@ -9,6 +9,10 @@ on:
       password:
         description: 'Stream Password'
         required: true
+      target_directories:
+        description: 'Dönüştürülecek dizinler (virgülle ayrılmış, örn: xtreamlists,altsport)'
+        required: true
+        default: 'xtreamlists'
 
 jobs:
   transform:
@@ -25,6 +29,7 @@ jobs:
         env:
           STREAM_USERNAME: ${{ github.event.inputs.username }}
           STREAM_PASSWORD: ${{ github.event.inputs.password }}
+          TARGET_DIRECTORIES: ${{ github.event.inputs.target_directories }}
         run: python .github/workflows/url-transform.py
 
       - name: Create Branch and Push Changes

@@ -1,29 +1,46 @@
 import os
 import re
 
+import hashlib
+import random
+
+def generate_stream_id(channel_name):
+    # Kanal adından benzersiz bir stream ID oluştur
+    hash_object = hashlib.md5(channel_name.encode())
+    stream_id = int(hash_object.hexdigest(), 16) % (10 ** 8)  # 8 haneli sayı
+    return stream_id
+
 def transform_m3u_urls(input_file, username, password):
     # GitHub raw content URL'sini oluştur
     repo_path = os.path.relpath(input_file, os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
-    repo_url = f'https://raw.githubusercontent.com/patrontech/temporarylists/xtream/{repo_path}'
+    server_url = 'https://raw.githubusercontent.com/GitLatte/temporarylists/xtream'
     
     with open(input_file, 'r', encoding='utf-8') as f:
-        content = f.read()
+        lines = f.readlines()
     
-    # URL'leri bul ve dönüştür
-    pattern = r'https://[^\s\n]+'
+    new_lines = ['#EXTM3U']
+    current_channel = None
     
-    # GitHub raw content URL'sini ekle
-    content = f"#EXTM3U\n#EXTINF:-1,GitHub Raw Content URL\n{repo_url}?username={username}&password={password}&type=m3u\n\n" + content
-    def replace_url(match):
-        url = match.group(0)
-        # Eğer URL zaten kullanıcı adı ve şifre içeriyorsa, dönüştürme
-        if 'username=' in url or 'password=' in url:
-            return url
-        # URL'yi yeni formata dönüştür
-        new_url = f'{url}?username={username}&password={password}&type=m3u'
-        return new_url
+    for line in lines:
+        if line.startswith('#EXTINF'):
+            # Kanal bilgilerini parse et
+            match = re.search(r'tvg-name="([^"]+)"', line)
+            if match:
+                current_channel = match.group(1)
+                stream_id = generate_stream_id(current_channel)
+                # Xtream formatında kanal bilgisi
+                new_lines.append(line.strip())
+        elif line.startswith('http'):
+            if current_channel:
+                # Xtream formatında stream URL'si oluştur
+                stream_id = generate_stream_id(current_channel)
+                new_url = f"{server_url}/{stream_id}/{username}/{password}/stream.m3u8"
+                new_lines.append(new_url)
+                current_channel = None
+        else:
+            new_lines.append(line.strip())
     
-    new_content = re.sub(pattern, replace_url, content)
+    new_content = '\n'.join(new_lines)
     
     # Yeni dosya adı oluştur
     dir_name = os.path.dirname(input_file)
@@ -38,7 +55,7 @@ def transform_m3u_urls(input_file, username, password):
     return output_file
 
 # Dönüştürülecek dizinlerin listesi
-TARGET_DIRECTORIES = ['xtreamlists']
+TARGET_DIRECTORIES = os.getenv('TARGET_DIRECTORIES', 'xtreamlists').split(',')
 
 def process_directory(directory):
     username = os.getenv('STREAM_USERNAME')
@@ -46,6 +63,9 @@ def process_directory(directory):
     
     if not username or not password:
         raise ValueError('STREAM_USERNAME ve STREAM_PASSWORD environment variables gerekli')
+        
+    if not TARGET_DIRECTORIES:
+        raise ValueError('En az bir hedef dizin belirtilmelidir')
     
     for root, _, files in os.walk(directory):
         # Sadece hedef dizinlerdeki dosyaları işle
