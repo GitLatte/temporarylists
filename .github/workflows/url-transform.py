@@ -2,11 +2,18 @@ import os
 import re
 
 def transform_m3u_urls(input_file, username, password):
+    # GitHub raw content URL'sini oluştur
+    repo_path = os.path.relpath(input_file, os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+    repo_url = f'https://raw.githubusercontent.com/patrontech/temporarylists/protected-streams/{repo_path}'
+    
     with open(input_file, 'r', encoding='utf-8') as f:
         content = f.read()
     
     # URL'leri bul ve dönüştür
     pattern = r'https://[^\s\n]+'
+    
+    # GitHub raw content URL'sini ekle
+    content = f"#EXTM3U\n#EXTINF:-1,GitHub Raw Content URL\n{repo_url}?username={username}&password={password}&type=m3u\n\n" + content
     def replace_url(match):
         url = match.group(0)
         # Eğer URL zaten kullanıcı adı ve şifre içeriyorsa, dönüştürme
