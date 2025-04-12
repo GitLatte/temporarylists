@@ -11,9 +11,12 @@ def generate_stream_id(channel_name):
     return stream_id
 
 def transform_m3u_urls(input_file, username, password):
-    # GitHub raw content URL'sini oluştur
-    repo_path = os.path.relpath(input_file, os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
-    server_url = 'https://raw.githubusercontent.com/GitLatte/temporarylists/xtream'
+    # Dosya adını al
+    base_name = os.path.basename(input_file)
+    name, _ = os.path.splitext(base_name)
+    
+    # Xtream API URL'sini oluştur
+    server_url = 'https://raw.githubusercontent.com/GitLatte/temporarylists/xtream/get.php'
     
     with open(input_file, 'r', encoding='utf-8') as f:
         lines = f.readlines()
@@ -34,7 +37,7 @@ def transform_m3u_urls(input_file, username, password):
             if current_channel:
                 # Xtream formatında stream URL'si oluştur
                 stream_id = generate_stream_id(current_channel)
-                new_url = f"{server_url}/{stream_id}/{username}/{password}/stream.m3u8"
+                new_url = f"{server_url}?username={username}&password={password}&type=m3u&playlist={name}&stream_id={stream_id}"
                 new_lines.append(new_url)
                 current_channel = None
         else:
