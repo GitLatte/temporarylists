@@ -1,0 +1,37 @@
+name: Transform M3U URLs
+
+on:
+  workflow_dispatch:
+    inputs:
+      username:
+        description: 'Stream Username'
+        required: true
+      password:
+        description: 'Stream Password'
+        required: true
+
+jobs:
+  transform:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Transform URLs
+        env:
+          STREAM_USERNAME: ${{ github.event.inputs.username }}
+          STREAM_PASSWORD: ${{ github.event.inputs.password }}
+        run: python .github/workflows/url-transform.py
+
+      - name: Create Branch and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git checkout -b protected-streams
+          git add .
+          git commit -m "Add protected stream URLs"
+          git push -f origin protected-streams
