@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 group-title="TV SHOWS",The Conners Season 7 Episode 5 (ABC NY USA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium766/mono.m3u8
 #EXTINF:-1 group-title="TV SHOWS",Wild Cards Season 2 Episode 12 (CW USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -9,31 +14,26 @@ https://zekonew.newkso.ru/zeko/premium300/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium767/mono.m3u8
-#EXTINF:-1 group-title="TV SHOWS",Ridiculousness Season 43 Episode 16 (MTV USA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium371/mono.m3u8
 #EXTINF:-1 group-title="TV SHOWS",Dr. Pimple Popper Season 9 (TLC USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium337/mono.m3u8
-#EXTINF:-1 group-title="TV SHOWS",La casa de los famosos: All-stars (TELEMUNDO USA)
+#EXTINF:-1 group-title="TV SHOWS",Ridiculousness Season 43 Episode 16 (MTV USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium131/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium371/mono.m3u8
 #EXTINF:-1 group-title="TV SHOWS",Papás por conveniencia Season 1 Episode 65 (UNIVISION USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium132/mono.m3u8
-#EXTINF:-1 group-title="TV SHOWS",The Conners Season 7 Episode 5 (ABC NY USA)
+#EXTINF:-1 group-title="TV SHOWS",La casa de los famosos: All-stars (TELEMUNDO USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium766/mono.m3u8
+https://windnew.newkso.ru/wind/premium131/mono.m3u8
 #EXTINF:-1 group-title="TV SHOWS",The Masked Singer Season 13 Episode 11 (FOXNY USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -44,11 +44,6 @@ https://zekonew.newkso.ru/zeko/premium768/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium769/mono.m3u8
-#EXTINF:-1 group-title="TV SHOWS",Wild Cards Season 2 Episode 12 (CW PIX 11 USA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium280/mono.m3u8
 #EXTINF:-1 group-title="WWE",All Elite Wrestling: Dynamite (TBS USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -59,16 +54,21 @@ https://zekonew.newkso.ru/zeko/premium336/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium316/mono.m3u8
-#EXTINF:-1 group-title="LACROSSE",Women's College Lacrosse : Syracuse vs Stanford (ACC NETWORK USA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium664/mono.m3u8
 #EXTINF:-1 group-title="ICE HOCKEY",WCH U18 : Czech Republic U18 vs USA U18 (NHL NETWORK USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium663/mono.m3u8
+#EXTINF:-1 group-title="TV SHOWS",Wild Cards Season 2 Episode 12 (CW PIX 11 USA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.newkso.ru/nfs/premium280/mono.m3u8
+#EXTINF:-1 group-title="LACROSSE",Women's College Lacrosse : Syracuse vs Stanford (ACC NETWORK USA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.newkso.ru/dokko1/premium664/mono.m3u8
 #EXTINF:-1 group-title="WWE",All Elite Wrestling: Dynamite (TSN2)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -99,31 +99,36 @@ https://zekonew.newkso.ru/zeko/premium766/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium308/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Copa Libertadores : Independiente del Valle vs River Plate (BEIN SPORTS USA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium425/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Copa Libertadores : Estudiantes vs Botafogo (SPORT TV1 PORTUGAL)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium49/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Copa Sudamericana : Caracas vs Atlético Mineiro (SPORT TV3 PORTUGAL)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium454/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Copa Sudamericana : Vitória vs Cerro Largo (BEIN SPORTS MENA ENGLISH 2)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium90/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Copa Libertadores : Libertad vs São Paulo (BEIN SPORTS MENA 3)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium93/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Copa Sudamericana : Caracas vs Atlético Mineiro (SPORT TV3 PORTUGAL)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.newkso.ru/ddy6/premium454/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Copa Libertadores : Estudiantes vs Botafogo (SPORT TV1 PORTUGAL)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium49/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Copa Sudamericana : Vitória vs Cerro Largo (BEIN SPORTS MENA ENGLISH 2)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium90/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Copa Libertadores : Independiente del Valle vs River Plate (BEIN SPORTS USA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium425/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Copa Sudamericana : Caracas vs Atlético Mineiro (BEIN SPORTS MENA 5)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.newkso.ru/dokko1/premium95/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Copa Libertadores : Estudiantes vs Botafogo (ESPN 2 NL)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -134,41 +139,36 @@ https://zekonew.newkso.ru/zeko/premium386/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium372/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Copa Sudamericana : Caracas vs Atlético Mineiro (BEIN SPORTS MENA 5)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium95/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Copa Libertadores : Estudiantes vs Botafogo (ESPN4 BRAZIL)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium85/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Copa Libertadores : Independiente del Valle vs River Plate (SPORT TV2 PORTUGAL)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium74/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Copa Libertadores : Independiente del Valle vs River Plate (ESPN3 MEXICO)
+#EXTINF:-1 group-title="SOCCER",Copa Libertadores : Estudiantes vs Botafogo (ESPN4 BRAZIL)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium927/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium85/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Copa Libertadores : Estudiantes vs Botafogo (FOX SPORTS 2 ARGENTINA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium788/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Copa Libertadores : Independiente del Valle vs River Plate (FOX SPORTS ARGENTINA)
+#EXTINF:-1 group-title="SOCCER",Copa Libertadores : Independiente del Valle vs River Plate (ESPN3 MEXICO)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium787/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium927/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Copa Libertadores : Estudiantes vs Botafogo (BEIN SPORTS MENA 2)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium92/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Copa Libertadores : Independiente del Valle vs River Plate (FOX SPORTS ARGENTINA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium787/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Copa Libertadores : Independiente del Valle vs River Plate (ARENA SPORT 3 CROATIA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -194,66 +194,46 @@ https://dokko1new.newkso.ru/dokko1/premium94/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium384/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Soccer : Estudiantes vs Botafogo (EXTRA STREAM)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium341/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Soccer : Caracas vs Atlético Mineiro (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium335/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Soccer : Estudiantes vs Botafogo (EXTRA STREAM)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.newkso.ru/dokko1/premium341/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Soccer : Independiente del Valle vs River Plate (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium385/mono.m3u8
-#EXTINF:-1 group-title="TV SHOWS",Chicago Fire Season 13 Episode 19 (NBCNY USA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium769/mono.m3u8
 #EXTINF:-1 group-title="TV SHOWS",Border Security: Australia's Front Line Season 15 Episode 1 (NATIONAL GEOGRAPHIC (NGC))
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium328/mono.m3u8
-#EXTINF:-1 group-title="TV SHOWS",All the Queen's Men Season 3 Episode 6 (BET USA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium306/mono.m3u8
-#EXTINF:-1 group-title="TV SHOWS",The Floor Season 3 Episode 12 • Finale (FOXNY USA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium768/mono.m3u8
-#EXTINF:-1 group-title="TV SHOWS",PAYBACK Season 4 Episode 1 • Premiere (TV ONE USA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium660/mono.m3u8
 #EXTINF:-1 group-title="TV SHOWS",Sherlock &amp; Daughter Season 1 Episode 2 (CW USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium300/mono.m3u8
-#EXTINF:-1 group-title="TV SHOWS",American Pickers Season 26 (HISTORY USA)
+#EXTINF:-1 group-title="TV SHOWS",Bitchin' Rides Season 11 Episode 6 (MOTOR TREND)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium322/mono.m3u8
-#EXTINF:-1 group-title="TV SHOWS",Guy's Grocery Games Season 36 (THE FOOD NETWORK)
+https://dokko1new.newkso.ru/dokko1/premium661/mono.m3u8
+#EXTINF:-1 group-title="TV SHOWS",Chicago Fire Season 13 Episode 19 (NBCNY USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium384/mono.m3u8
-#EXTINF:-1 group-title="TV SHOWS",Married to Real Estate Season 4 Episode 7 (HGTV USA)
+https://zekonew.newkso.ru/zeko/premium769/mono.m3u8
+#EXTINF:-1 group-title="TV SHOWS",Celebrity Jeopardy! Season 3 Episode 13 • Finale (ABC NY USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium382/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium766/mono.m3u8
 #EXTINF:-1 group-title="TV SHOWS",Expedition Files Season 2 Episode 2 (DISCOVERY USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -264,21 +244,41 @@ https://zekonew.newkso.ru/zeko/premium313/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium307/mono.m3u8
-#EXTINF:-1 group-title="TV SHOWS",Celebrity Jeopardy! Season 3 Episode 13 • Finale (ABC NY USA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium766/mono.m3u8
-#EXTINF:-1 group-title="TV SHOWS",Bitchin' Rides Season 11 Episode 6 (MOTOR TREND)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium661/mono.m3u8
 #EXTINF:-1 group-title="TV SHOWS",Stadium Lockup Season 1 Episode 6 (A&AMP;E TV USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium302/mono.m3u8
+#EXTINF:-1 group-title="TV SHOWS",All the Queen's Men Season 3 Episode 6 (BET USA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium306/mono.m3u8
+#EXTINF:-1 group-title="TV SHOWS",PAYBACK Season 4 Episode 1 • Premiere (TV ONE USA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.newkso.ru/dokko1/premium660/mono.m3u8
+#EXTINF:-1 group-title="TV SHOWS",Guy's Grocery Games Season 36 (THE FOOD NETWORK)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium384/mono.m3u8
+#EXTINF:-1 group-title="TV SHOWS",The Floor Season 3 Episode 12 • Finale (FOXNY USA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium768/mono.m3u8
+#EXTINF:-1 group-title="TV SHOWS",Married to Real Estate Season 4 Episode 7 (HGTV USA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium382/mono.m3u8
+#EXTINF:-1 group-title="TV SHOWS",American Pickers Season 26 (HISTORY USA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.newkso.ru/nfs/premium322/mono.m3u8
 #EXTINF:-1 group-title="TV SHOWS",Sherlock &amp; Daughter Season 1 Episode 2 (CW PIX 11 USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -319,16 +319,16 @@ https://dokko1new.newkso.ru/dokko1/premium341/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium923/mono.m3u8
-#EXTINF:-1 group-title="ICE HOCKEY",NHL : Dallas Stars vs Colorado Avalanche (ESPN USA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium44/mono.m3u8
 #EXTINF:-1 group-title="BASKETBALL",NBA : Golden State Warriors vs Houston Rockets (TNT USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium338/mono.m3u8
+#EXTINF:-1 group-title="ICE HOCKEY",NHL : Dallas Stars vs Colorado Avalanche (ESPN USA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium44/mono.m3u8
 #EXTINF:-1 group-title="ICE HOCKEY",NHL : Dallas Stars vs Colorado Avalanche (TVA SPORTS 2)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -464,51 +464,46 @@ https://nfsnew.newkso.ru/nfs/premium22/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium907/mono.m3u8
-#EXTINF:-1 group-title="TV SHOWS",Andor Season 2 Episode 1 • Premiere (ABC NY USA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium766/mono.m3u8
-#EXTINF:-1 group-title="TV SHOWS",Fix My Frankenhouse Season 2 Episode 5 (HGTV USA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium382/mono.m3u8
-#EXTINF:-1 group-title="TV SHOWS",Ghost Adventures Season 29 Episode 2 (DISCOVERY USA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium313/mono.m3u8
-#EXTINF:-1 group-title="TV SHOWS",The Stolen Girl Season 1 Episode 2 (FREEFORM USA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium301/mono.m3u8
-#EXTINF:-1 group-title="TV SHOWS",Chicago P.D. Season 12 Episode 19 (NBCNY USA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium769/mono.m3u8
-#EXTINF:-1 group-title="TV SHOWS",Life or Death: The Negotiators Season 1 Episode 1 (NATIONAL GEOGRAPHIC (NGC))
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium328/mono.m3u8
 #EXTINF:-1 group-title="TV SHOWS",Booked: First Day In Season 3 Episode 6 (A&AMP;E TV USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium302/mono.m3u8
+#EXTINF:-1 group-title="TV SHOWS",Ghost Adventures Season 29 Episode 2 (DISCOVERY USA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium313/mono.m3u8
+#EXTINF:-1 group-title="TV SHOWS",Chicago P.D. Season 12 Episode 19 (NBCNY USA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium769/mono.m3u8
 #EXTINF:-1 group-title="TV SHOWS",Changing Planet Season 4 Episode 1 • Premiere (PBS USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium210/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",CONCACAF Champions Cup : Tigres UANL vs Cruz Azul (FOX SPORTS 1 USA)
+#EXTINF:-1 group-title="TV SHOWS",Fix My Frankenhouse Season 2 Episode 5 (HGTV USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium39/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium382/mono.m3u8
+#EXTINF:-1 group-title="TV SHOWS",The Stolen Girl Season 1 Episode 2 (FREEFORM USA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium301/mono.m3u8
+#EXTINF:-1 group-title="TV SHOWS",Andor Season 2 Episode 1 • Premiere (ABC NY USA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium766/mono.m3u8
+#EXTINF:-1 group-title="TV SHOWS",Life or Death: The Negotiators Season 1 Episode 1 (NATIONAL GEOGRAPHIC (NGC))
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium328/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Copa Libertadores : Atlético Bucaramanga vs Fortaleza (BEIN SPORTS USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -519,6 +514,11 @@ https://zekonew.newkso.ru/zeko/premium425/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium150/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",CONCACAF Champions Cup : Tigres UANL vs Cruz Azul (FOX SPORTS 1 USA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium39/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Copa Sudamericana : Mushuc Runa vs Unión Santa Fe (BEIN SPORTS MENA XTRA 1)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -539,11 +539,6 @@ https://windnew.newkso.ru/wind/premium888/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium372/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Copa Libertadores : Atlético Bucaramanga vs Fortaleza (FOX SPORTS 3 ARGENTINA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium789/mono.m3u8
 #EXTINF:-1 group-title="ICE HOCKEY",NHL : Edmonton Oilers vs Los Angeles Kings (AWAY FEED)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -554,16 +549,21 @@ https://nfsnew.newkso.ru/nfs/premium7/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium66/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Copa Libertadores : Atlético Bucaramanga vs Fortaleza (BEIN SPORTS MENA ENGLISH 1)
+#EXTINF:-1 group-title="SOCCER",Copa Libertadores : Atlético Bucaramanga vs Fortaleza (FOX SPORTS 3 ARGENTINA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium61/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium789/mono.m3u8
 #EXTINF:-1 group-title="ICE HOCKEY",NHL : Edmonton Oilers vs Los Angeles Kings (TBS USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium336/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Copa Libertadores : Atlético Bucaramanga vs Fortaleza (BEIN SPORTS MENA ENGLISH 1)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium61/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",CONCACAF Champions Cup : Tigres UANL vs Cruz Azul (UNIMÁS)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -909,16 +909,16 @@ https://windnew.newkso.ru/wind/premium235/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium231/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Soccer : Al Jazira vs Ittihad Kalba (EXTRA STREAM)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium52/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Soccer : Al Bataeh vs Al Wasl (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium51/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Soccer : Al Jazira vs Ittihad Kalba (EXTRA STREAM)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.newkso.ru/nfs/premium52/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Bosnia and Herzegovina Premijer Liga : FK Sloboda Tuzla vs. HSK Zrinjski Mostar (ARENA SPORT 4 CROATIA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -944,26 +944,26 @@ https://ddy6new.newkso.ru/ddy6/premium450/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium346/mono.m3u8
-#EXTINF:-1 group-title="BASKETBALL",Russia Super League : Khimki M. vs CSKA Moscow 2 (MATCH! IGRA RUSSIA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium69/mono.m3u8
 #EXTINF:-1 group-title="COMBAT SPORTS",Judo: European Championships European Championships. Day 1. Finals. (RMC SPORT 1 FRANCE)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium119/mono.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL",Türkiye First Division : Ziraat Bankası vs Galatasaray (ARENA SPORT 3 SERBIA)
+#EXTINF:-1 group-title="BASKETBALL",Russia Super League : Khimki M. vs CSKA Moscow 2 (MATCH! IGRA RUSSIA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium431/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium69/mono.m3u8
 #EXTINF:-1 group-title="ICE HOCKEY",KHL : Salavat Yulaev Ufa vs Spartak Moscow (KHL TV)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium163/mono.m3u8
+#EXTINF:-1 group-title="VOLLEYBALL",Türkiye First Division : Ziraat Bankası vs Galatasaray (ARENA SPORT 3 SERBIA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium431/mono.m3u8
 #EXTINF:-1 group-title="CRICKET",Pakistan Super League : Multan Sultans vs Islamabad United (A SPORTS PK)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -979,16 +979,16 @@ https://zekonew.newkso.ru/zeko/premium598/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium127/mono.m3u8
-#EXTINF:-1 group-title="CRICKET",Indian Premier League : Sunrisers Hyderabad vs Mumbai Indians (SKY SPORT 1 NZ)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium588/mono.m3u8
 #EXTINF:-1 group-title="CRICKET",Pakistan Super League : Multan Sultans vs Islamabad United (SKY SPORTS MIX UK)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium449/mono.m3u8
+#EXTINF:-1 group-title="CRICKET",Indian Premier League : Sunrisers Hyderabad vs Mumbai Indians (SKY SPORT 1 NZ)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.newkso.ru/dokko1/premium588/mono.m3u8
 #EXTINF:-1 group-title="COMBAT SPORTS",Judo: European Championships European Championships. Day 1. Finals. (SPORT TV5 PORTUGAL)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -1059,16 +1059,31 @@ https://zekonew.newkso.ru/zeko/premium768/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium767/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Greece - Super League : Panserraikos vs Panaitolikos (NOVA SPORTS 2 GREECE)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium632/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Greece - Super League : Lamia vs Volos NFC (CYTAVISION SPORTS 6 CYPRUS)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium916/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Greece - Super League : Panserraikos vs Panaitolikos (NOVA SPORTS 2 GREECE)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.newkso.ru/dokko1/premium632/mono.m3u8
+#EXTINF:-1 group-title="BASKETBALL",Czech Republic NBL Playoffs : Sokol Pisek vs. BK Decin (CT SPORT CZECH HD)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.newkso.ru/nfs/premium25/mono.m3u8
+#EXTINF:-1 group-title="BASKETBALL",Liga Nationala : Cluj Napoca vs Valcea (DIGI SPORT 3 ROMANIA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://top1new.newkso.ru/top1/premium402/mono.m3u8
+#EXTINF:-1 group-title="LACROSSE",Women's College Lacrosse : Virginia Tech vs North Carolina (ACC NETWORK USA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.newkso.ru/dokko1/premium664/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Greece - Super League : Panserraikos vs Panaitolikos (SPORTKLUB POLAND)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -1079,46 +1094,31 @@ https://nfsnew.newkso.ru/nfs/premium1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium623/mono.m3u8
-#EXTINF:-1 group-title="BASKETBALL",Liga Nationala : Cluj Napoca vs Valcea (DIGI SPORT 3 ROMANIA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://top1new.newkso.ru/top1/premium402/mono.m3u8
-#EXTINF:-1 group-title="BASKETBALL",Czech Republic NBL Playoffs : Sokol Pisek vs. BK Decin (CT SPORT CZECH HD)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium25/mono.m3u8
-#EXTINF:-1 group-title="LACROSSE",Women's College Lacrosse : Virginia Tech vs North Carolina (ACC NETWORK USA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium664/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Greece - Super League : Panserraikos vs Panaitolikos (NOVA SPORT BULGARIA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium468/mono.m3u8
 #EXTINF:-1 group-title="BASKETBALL",Liga Nationala : Cluj Napoca vs Valcea (PRIMA SPORT 2 ROMANIA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://wikinew.newkso.ru/wiki/premium584/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Greece - Super League : Panserraikos vs Panaitolikos (NOVA SPORT BULGARIA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium468/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Soccer : Lamia vs Volos NFC (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium54/mono.m3u8
-#EXTINF:-1 group-title="CRICKET",Multan Sultans vs Islamabad United (EXTRA STREAM)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium74/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Soccer : Panserraikos FC vs Panetolikos (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium55/mono.m3u8
+#EXTINF:-1 group-title="CRICKET",Multan Sultans vs Islamabad United (EXTRA STREAM)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.newkso.ru/dokko1/premium74/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Soccer : KuPS vs Mariehamn (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -1174,26 +1174,21 @@ https://nfsnew.newkso.ru/nfs/premium2/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium56/mono.m3u8
-#EXTINF:-1 group-title="TV SHOWS",Elinor Wonders Why Season 2 Episode 15 (PBS USA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium210/mono.m3u8
 #EXTINF:-1 group-title="TV SHOWS",The Steve Wilkos Show Season 18 Episode 102 (CW USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium300/mono.m3u8
+#EXTINF:-1 group-title="TV SHOWS",Elinor Wonders Why Season 2 Episode 15 (PBS USA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.newkso.ru/ddy6/premium210/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Saudi Arabia - SAFF Women's Cup : Al-nassr vs Al-taraji (SSC)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium3/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Serbia - Super Liga : Partizan vs OFK Beograd (ARENA 2 PREMIUM SERBIA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Azerbaijan - Azərbaycan Kuboku : Sabah vs Neftçi (CBC SPORT AZERBAIJAN)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -1209,26 +1204,36 @@ https://windnew.newkso.ru/wind/premium465/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium12/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Serbia - Super Liga : Partizan vs OFK Beograd (ARENA 2 PREMIUM SERBIA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Slovenian Cup : Koper vs Bravo (SPORT KLUB 6 CROATIA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium21/mono.m3u8
-#EXTINF:-1 group-title="TV SHOWS",The Steve Wilkos Show Season 18 Episode 102 (CW PIX 11 USA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium280/mono.m3u8
-#EXTINF:-1 group-title="HANDBALL",Slovakia Extraliga : MHC Start Nove Zamky vs. HT Tatran Presov (RTVS SPORT SLOVAKIA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium17/mono.m3u8
 #EXTINF:-1 group-title="BASEBALL",Minor League Baseball : Syracuse Mets vs Worcester Red Sox (NESN USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium762/mono.m3u8
+#EXTINF:-1 group-title="HANDBALL",Slovakia Extraliga : MHC Start Nove Zamky vs. HT Tatran Presov (RTVS SPORT SLOVAKIA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.newkso.ru/nfs/premium17/mono.m3u8
+#EXTINF:-1 group-title="ICE HOCKEY",Slovakia Extralig : HK Nitra vs. HC Kosice (JOJ SPORT SLOVAKIA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.newkso.ru/nfs/premium20/mono.m3u8
+#EXTINF:-1 group-title="TV SHOWS",The Steve Wilkos Show Season 18 Episode 102 (CW PIX 11 USA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.newkso.ru/nfs/premium280/mono.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL",Slovenian league (w): Playoff - FINALE (G3) : Calcit Kamnik vs Branik Maribor (SPORT KLUB 5 CROATIA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -1239,26 +1244,21 @@ https://ddy6new.newkso.ru/ddy6/premium154/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium24/mono.m3u8
-#EXTINF:-1 group-title="ICE HOCKEY",Slovakia Extralig : HK Nitra vs. HC Kosice (JOJ SPORT SLOVAKIA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium20/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Soccer : SJK vs AC Oulu (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium57/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Soccer : Odra Opole vs S. Rzeszow (EXTRA STREAM)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium58/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Soccer : Ludogorets vs Botev Vratsa (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium348/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Soccer : Odra Opole vs S. Rzeszow (EXTRA STREAM)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium58/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Saudi Arabia - Pro League : Al Kholood vs Al Akhdoud (SSC)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -1304,6 +1304,11 @@ https://zekonew.newkso.ru/zeko/premium904/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium898/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Romania - Cupa Romaniei : Hermannstadt vs Rapid Bucureşti (DIGI SPORT 1 ROMANIA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://top1new.newkso.ru/top1/premium400/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Italy Serie A : Cagliari vs Fiorentina (DAZN IT)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -1314,21 +1319,6 @@ https://ddy6new.newkso.ru/ddy6/premium160/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium159/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Italy Serie A : Parma vs Juventus (DAZN IT)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium162/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Italy Serie A : Genoa vs Lazio (DAZN IT)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium161/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Austria - Football Bundesliga : Simulcast (SKY SPORT AUSTRIA 1)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium559/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Austria - Football Bundesliga : Salzburg vs Wolfsberger AC (SKY SPORT AUSTRIA 4)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -1339,61 +1329,86 @@ https://nfsnew.newkso.ru/nfs/premium5/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium6/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Romania - Cupa Romaniei : Hermannstadt vs Rapid Bucureşti (DIGI SPORT 1 ROMANIA)
+#EXTINF:-1 group-title="SOCCER",Austria - Football Bundesliga : Simulcast (SKY SPORT AUSTRIA 1)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://top1new.newkso.ru/top1/premium400/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Italy Serie A : Cagliari vs Fiorentina (ARENA SPORT 5 CROATIA)
+https://ddy6new.newkso.ru/ddy6/premium559/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Italy Serie A : Genoa vs Lazio (DAZN IT)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium158/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Italy Serie A : Torino vs Udinese (SKY SPORT 251 ITALIA)
+https://windnew.newkso.ru/wind/premium161/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Italy Serie A : Parma vs Juventus (DAZN IT)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium156/mono.m3u8
-#EXTINF:-1 group-title="BASKETBALL",Champions League : AEK Athens vs Nanterre (NOVA SPORT 1 CZECH HD)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium151/mono.m3u8
-#EXTINF:-1 group-title="HANDBALL",Bambusa Kvindeligaen : Herning-Ikast Haandbold vs. Soenderjyske HK (TV2 SPORT DENMARK)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium810/mono.m3u8
+https://windnew.newkso.ru/wind/premium162/mono.m3u8
 #EXTINF:-1 group-title="BASKETBALL",ussia United League : CSKA Moscow vs Pari Nizhny Novgorod (MATCH! IGRA RUSSIA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium69/mono.m3u8
+#EXTINF:-1 group-title="BASKETBALL",Champions League : AEK Athens vs Nanterre (NOVA SPORT 1 CZECH HD)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.newkso.ru/ddy6/premium151/mono.m3u8
 #EXTINF:-1 group-title="ICE HOCKEY",KHL : Lokomotiv Yaroslavl vs Avangard Omsk (KHL TV)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium163/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Italy Serie A : Parma vs Juventus (TNT SPORT 1)
+#EXTINF:-1 group-title="HANDBALL",Bambusa Kvindeligaen : Herning-Ikast Haandbold vs. Soenderjyske HK (TV2 SPORT DENMARK)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium810/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Romania - Cupa Romaniei : Hermannstadt vs Rapid Bucureşti (PRIMA SPORT 1 ROMANIA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://wikinew.newkso.ru/wiki/premium583/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Austria - Football Bundesliga : Salzburg vs Wolfsberger AC (SPORT KLUB 4 CROATIA)
+#EXTINF:-1 group-title="SOCCER",Italy Serie A : Cagliari vs Fiorentina (ARENA SPORT 5 CROATIA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium104/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium158/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Italy Serie A : Parma vs Juventus (TNT SPORT 1)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Italy Serie A : Torino vs Udinese (SKY SPORT 251 ITALIA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.newkso.ru/dokko1/premium156/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Italy Serie A : Genoa vs Lazio (SPORT TV4 PORTUGAL)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium289/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Austria - Football Bundesliga : Salzburg vs Wolfsberger AC (SPORT KLUB 4 CROATIA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.newkso.ru/nfs/premium104/mono.m3u8
+#EXTINF:-1 group-title="BASKETBALL",Champions League : AEK Athens vs Nanterre (COSMOTE SPORT 4 GREECE)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.newkso.ru/dokko1/premium625/mono.m3u8
+#EXTINF:-1 group-title="ICE HOCKEY",KHL : Lokomotiv Yaroslavl vs Avangard Omsk (MATCH TV RUSSIA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.newkso.ru/ddy6/premium127/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Italy Serie A : Parma vs Juventus (SPORT TV2 PORTUGAL)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.newkso.ru/dokko1/premium74/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Italy Serie A : Cagliari vs Fiorentina (SPORT 4 ISRAEL)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -1404,21 +1419,6 @@ https://zekonew.newkso.ru/zeko/premium143/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium870/mono.m3u8
-#EXTINF:-1 group-title="BASKETBALL",Champions League : AEK Athens vs Nanterre (COSMOTE SPORT 4 GREECE)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium625/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Italy Serie A : Parma vs Juventus (SPORT TV2 PORTUGAL)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium74/mono.m3u8
-#EXTINF:-1 group-title="ICE HOCKEY",KHL : Lokomotiv Yaroslavl vs Avangard Omsk (MATCH TV RUSSIA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium127/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Italy Serie A : Genoa vs Lazio (ARENA SPORT 4 CROATIA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -1494,26 +1494,31 @@ https://zekonew.newkso.ru/zeko/premium56/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium572/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Soccer : Genoa vs Lazio (EXTRA STREAM)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium303/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Soccer : Parma vs Juventus (EXTRA STREAM)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium64/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Soccer : Cagliari vs Fiorentina (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium306/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Soccer : Genoa vs Lazio (EXTRA STREAM)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.newkso.ru/nfs/premium303/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Soccer : Salzburg vs Wolfsberger AC (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium61/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Soccer : Parma vs Juventus (EXTRA STREAM)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium64/mono.m3u8
+#EXTINF:-1 group-title="BASKETBALL",AEK Athens vs Nanterre (EXTRA STREAM)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium313/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Soccer : Torino vs Udinese (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -1524,26 +1529,21 @@ https://dokko1new.newkso.ru/dokko1/premium65/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium60/mono.m3u8
-#EXTINF:-1 group-title="BASKETBALL",AEK Athens vs Nanterre (EXTRA STREAM)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium313/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Soccer : Genoa vs Lazio (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium343/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Soccer : Cagliari vs Fiorentina (EXTRA STREAM)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium344/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Soccer : Parma vs Juventus (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium301/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Soccer : Cagliari vs Fiorentina (EXTRA STREAM)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium344/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Soccer : Torino vs Udinese (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -1554,16 +1554,16 @@ https://zekonew.newkso.ru/zeko/premium347/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium346/mono.m3u8
-#EXTINF:-1 group-title="BASKETBALL",LFB Women : Lattes Montpellier W vs Flammes Carolo W (SPORT EN FRANCE)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium13/mono.m3u8
 #EXTINF:-1 group-title="HANDBALL",Champions League : SC Magdeburg vs. Veszprem KC (DAZN2 DE)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
+#EXTINF:-1 group-title="BASKETBALL",LFB Women : Lattes Montpellier W vs Flammes Carolo W (SPORT EN FRANCE)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.newkso.ru/nfs/premium13/mono.m3u8
 #EXTINF:-1 group-title="HANDBALL",Champions League : SC Magdeburg vs. Veszprem KC (TV3 SPORT DENMARK)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -1629,16 +1629,6 @@ https://nfsnew.newkso.ru/nfs/premium7/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium134/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Athletic Club vs Las Palmas (LALIGATV UK)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium276/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Celta de Vigo vs Villarreal (VIAPLAY SPORTS 2 UK)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium550/mono.m3u8
 #EXTINF:-1 group-title="BASKETBALL",Euroleague : Monaco vs Barcelona (MAGENTA SPORT 302)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -1649,106 +1639,111 @@ https://nfsnew.newkso.ru/nfs/premium14/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium758/mono.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL",Czech Republic Extraliga : Vk Lvi Praha vs. VK CEZ Karlovarsko (CT SPORT CZECH)
+#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Celta de Vigo vs Villarreal (VIAPLAY SPORTS 2 UK)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium25/mono.m3u8
+https://windnew.newkso.ru/wind/premium550/mono.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL",German league (W): Playoff - FINALE (G2) : Dresden vs Schwerin (SPORT KLUB 8 CROATIA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium155/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Athletic Club vs Las Palmas (ESPN+ USA)
+#EXTINF:-1 group-title="VOLLEYBALL",Czech Republic Extraliga : Vk Lvi Praha vs. VK CEZ Karlovarsko (CT SPORT CZECH)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium77/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Celta de Vigo vs Villarreal (ESPN+ USA)
+https://nfsnew.newkso.ru/nfs/premium25/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Athletic Club vs Las Palmas (LALIGATV UK)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium86/mono.m3u8
+https://windnew.newkso.ru/wind/premium276/mono.m3u8
 #EXTINF:-1 group-title="BASKETBALL",Euroleague : Monaco vs Barcelona (M+ #VAMOS ES)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium521/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Athletic Club vs Las Palmas (VIAPLAY SPORTS 1 UK)
+#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Celta de Vigo vs Villarreal (ESPN+ USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium451/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Celta de Vigo vs Villarreal (PREMIER SPORTS 2 IRELAND)
+https://dokko1new.newkso.ru/dokko1/premium86/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Athletic Club vs Las Palmas (ESPN+ USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium799/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium77/mono.m3u8
 #EXTINF:-1 group-title="BASKETBALL",Euroleague : Monaco vs Barcelona (POLSAT SPORT PREMIUM 3 POLAND)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium152/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Athletic Club vs Las Palmas (PREMIER SPORTS 1 IRELAND)
+#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Celta de Vigo vs Villarreal (PREMIER SPORTS 2 IRELAND)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium771/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Celta de Vigo vs Villarreal (DAZN ELEVEN 3 PORTUGAL)
+https://zekonew.newkso.ru/zeko/premium799/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Athletic Club vs Las Palmas (VIAPLAY SPORTS 1 UK)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium457/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Athletic Club vs Las Palmas (DAZN1 DE)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8
+https://windnew.newkso.ru/wind/premium451/mono.m3u8
 #EXTINF:-1 group-title="BASKETBALL",Euroleague : Monaco vs Barcelona (ARENA 3 PREMIUM SERBIA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Celta de Vigo vs Villarreal (DAZN ELEVEN 3 PORTUGAL)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium457/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Athletic Club vs Las Palmas (PREMIER SPORTS 1 IRELAND)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.newkso.ru/ddy6/premium771/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Spain- La Liga : Celta de Vigo vs Villarreal (ELEVEN SPORTS 1 POLAND)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium71/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Athletic Club vs Las Palmas (CANAL+ SPORT 3 POLAND)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium259/mono.m3u8
 #EXTINF:-1 group-title="BASKETBALL",Euroleague : Monaco vs Barcelona (NOVA SPORTS 4 GREECE)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium634/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Athletic Club vs Las Palmas (DAZN1 DE)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Spain- La Liga : Celta de Vigo vs Villarreal (MATCH! FOOTBALL 3 RUSSIA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium138/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Athletic Club vs Las Palmas (DAZN ZONA IT)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium877/mono.m3u8
 #EXTINF:-1 group-title="BASKETBALL",Euroleague : Monaco vs Barcelona (SPORT KLUB 1 CROATIA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Athletic Club vs Las Palmas (CANAL+ SPORT 3 POLAND)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium259/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Spain- La Liga : Celta de Vigo vs Villarreal (BEIN SPORTS 2 FRANCE)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium117/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Athletic Club vs Las Palmas (BEIN SPORTS 1 FRANCE)
+#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Athletic Club vs Las Palmas (DAZN ZONA IT)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium116/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium877/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Spain- La Liga : Celta de Vigo vs Villarreal (ARENA SPORT 4 SERBIA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -1759,31 +1754,36 @@ https://windnew.newkso.ru/wind/premium581/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium637/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Athletic Club vs Las Palmas (BEIN SPORTS 1 FRANCE)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium116/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Spain- La Liga : Athletic Club vs Las Palmas (DIGI SPORT 3 ROMANIA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://top1new.newkso.ru/top1/premium402/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Athletic Club vs Las Palmas (PRIMA SPORT 2 ROMANIA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://wikinew.newkso.ru/wiki/premium584/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Spain- La Liga : Celta de Vigo vs Villarreal (TV4 SPORT LIVE 1)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium703/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Athletic Club vs Las Palmas (ZIGGO SPORT 2 NL)
+#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Athletic Club vs Las Palmas (PRIMA SPORT 2 ROMANIA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium398/mono.m3u8
+https://wikinew.newkso.ru/wiki/premium584/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Spain- La Liga : Celta de Vigo vs Villarreal (SUPERSPORT FOOTBALL)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium56/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Athletic Club vs Las Palmas (ZIGGO SPORT 2 NL)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium398/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Spain- La Liga : Celta de Vigo vs Villarreal (BEIN SPORTS MENA 2)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -1849,16 +1849,16 @@ https://zekonew.newkso.ru/zeko/premium90/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium70/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Soccer : Elfsborg vs Sirius (EXTRA STREAM)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium67/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Soccer : Hacken vs Degerfors (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium68/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Soccer : Elfsborg vs Sirius (EXTRA STREAM)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium67/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Soccer : Halmstad vs Mjallby (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -1924,16 +1924,16 @@ https://windnew.newkso.ru/wind/premium360/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium28/mono.m3u8
-#EXTINF:-1 group-title="BASEBALL",MLB : New York Yankees vs Cleveland Guardians (MLB LEAGUE PASS)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium29/mono.m3u8
 #EXTINF:-1 group-title="BASEBALL",MLB : San Diego Padres vs Detroit Tigers (MLB LEAGUE PASS)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium55/mono.m3u8
+#EXTINF:-1 group-title="BASEBALL",MLB : New York Yankees vs Cleveland Guardians (MLB LEAGUE PASS)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.newkso.ru/nfs/premium29/mono.m3u8
 #EXTINF:-1 group-title="BASEBALL",MLB : Philadelphia Phillies vs New York Mets (MLB LEAGUE PASS)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -1944,11 +1944,6 @@ https://nfsnew.newkso.ru/nfs/premium30/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium892/mono.m3u8
-#EXTINF:-1 group-title="BASEBALL",MLB : Philadelphia Phillies vs New York Mets (NBCS PHILADELPHIA USA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium777/mono.m3u8
 #EXTINF:-1 group-title="BASEBALL",MLB : New York Yankees vs Cleveland Guardians (VODAFONE SPORT)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -1959,36 +1954,41 @@ https://windnew.newkso.ru/wind/premium260/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium891/mono.m3u8
-#EXTINF:-1 group-title="BASEBALL",MLB : Cincinnati Reds vs Miami Marlins (FANDUEL SPORTS NETWORK INDIANA)
+#EXTINF:-1 group-title="BASEBALL",MLB : Philadelphia Phillies vs New York Mets (NBCS PHILADELPHIA USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium894/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium777/mono.m3u8
 #EXTINF:-1 group-title="BASEBALL",MLB : New York Yankees vs Cleveland Guardians (TNT SPORTS 2 UK)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8
-#EXTINF:-1 group-title="BASEBALL",MLB : Philadelphia Phillies vs New York Mets (SPORTSNET NEW YORK USA)
+#EXTINF:-1 group-title="BASEBALL",MLB : Cincinnati Reds vs Miami Marlins (FANDUEL SPORTS NETWORK INDIANA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium759/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium894/mono.m3u8
 #EXTINF:-1 group-title="BASEBALL",MLB : San Diego Padres vs Detroit Tigers (MLB NETWORK USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium399/mono.m3u8
-#EXTINF:-1 group-title="BASEBALL",MLB : Cincinnati Reds vs Miami Marlins (FANDUEL SPORTS NETWORK OHIO)
+#EXTINF:-1 group-title="BASEBALL",MLB : Philadelphia Phillies vs New York Mets (SPORTSNET NEW YORK USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium899/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium759/mono.m3u8
 #EXTINF:-1 group-title="BASEBALL",MLB : New York Yankees vs Cleveland Guardians (YES USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium763/mono.m3u8
+#EXTINF:-1 group-title="BASEBALL",MLB : Cincinnati Reds vs Miami Marlins (FANDUEL SPORTS NETWORK OHIO)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.newkso.ru/nfs/premium899/mono.m3u8
 #EXTINF:-1 group-title="BASEBALL",MLB : New York Yankees vs Cleveland Guardians (MLB NETWORK)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -2024,31 +2024,36 @@ https://nfsnew.newkso.ru/nfs/premium15/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium916/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Greece - Super League : Kallithea vs Levadiakos (COSMOTE SPORT 1 GREECE)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium622/mono.m3u8
 #EXTINF:-1 group-title="ICE HOCKEY",DEL : Kölner Haie vs Eisbären Berlin (MAGENTA SPORT 301)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium22/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Soccer : Athens Kallithea vs Levadiakos (EXTRA STREAM)
+#EXTINF:-1 group-title="SOCCER",Greece - Super League : Kallithea vs Levadiakos (COSMOTE SPORT 1 GREECE)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium323/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium622/mono.m3u8
 #EXTINF:-1 group-title="ICE HOCKEY",Kölner Haie vs Eisbären Berlin (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium319/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Soccer : Athens Kallithea vs Levadiakos (EXTRA STREAM)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.newkso.ru/ddy6/premium323/mono.m3u8
 #EXTINF:-1 group-title="TV SHOWS",Pictionary Season 3 Episode 133 (FOXNY USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium768/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Croatia - 1. HNL : Rijeka vs Osijek (MAX SPORT 1 CROATIA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.newkso.ru/dokko1/premium779/mono.m3u8
 #EXTINF:-1 group-title="TV SHOWS",Beyond the Gates Season 1 Episode 41 (CBSNY USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -2059,21 +2064,16 @@ https://zekonew.newkso.ru/zeko/premium767/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium8/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Netherlands - Eredivisie : Groningen vs Heracles (ESPN 1 NL)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium379/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Croatia - 1. HNL : Rijeka vs Osijek (MAX SPORT 1 CROATIA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium779/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Hungary - Magyar Kupa : Ferencváros vs MTK (M4 SPORTS HUNGARY)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium265/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Netherlands - Eredivisie : Groningen vs Heracles (ESPN 1 NL)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium379/mono.m3u8
 #EXTINF:-1 group-title="SNOOKER",World Snooker Championship : Selby Mark vs. Woollaston Ben (TNT SPORT 1 UK)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -2089,16 +2089,6 @@ https://dokko1new.newkso.ru/dokko1/premium626/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium700/mono.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL",Croatia Superliga Women : Mladost Zagreb vs. Ok Dinamo (SPTV CROATIA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium26/mono.m3u8
-#EXTINF:-1 group-title="WATER POLO",LEN Champions League : Vk Jadran Split vs. CN Marseille (ARENA SPORT 3 CROATIA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium434/mono.m3u8
 #EXTINF:-1 group-title="LACROSSE",Women's College Lacrosse : Clemson vs Duke (ACC NETWORK USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -2109,16 +2099,26 @@ https://dokko1new.newkso.ru/dokko1/premium664/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium431/mono.m3u8
-#EXTINF:-1 group-title="SNOOKER",World Snooker Championship : Selby Mark vs. Woollaston Ben (TNT SPORT 3 UK)
+#EXTINF:-1 group-title="WATER POLO",LEN Champions League : Vk Jadran Split vs. CN Marseille (ARENA SPORT 3 CROATIA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium33/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium434/mono.m3u8
+#EXTINF:-1 group-title="VOLLEYBALL",Croatia Superliga Women : Mladost Zagreb vs. Ok Dinamo (SPTV CROATIA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.newkso.ru/nfs/premium26/mono.m3u8
 #EXTINF:-1 group-title="ICE HOCKEY",SHL : Lulea Hockey vs. Brynas IF (SPORTDIGITAL+ DE)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium640/mono.m3u8
+#EXTINF:-1 group-title="SNOOKER",World Snooker Championship : Selby Mark vs. Woollaston Ben (TNT SPORT 3 UK)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.newkso.ru/nfs/premium33/mono.m3u8
 #EXTINF:-1 group-title="SNOOKER",World Snooker Championship : Selby Mark vs. Woollaston Ben (BBC FOUR UK)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -2154,6 +2154,11 @@ https://windnew.newkso.ru/wind/premium235/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium231/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Soccer : Rijeka vs Osijek (EXTRA STREAM)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium370/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Soccer : Al Khaleej vs Al Qadsiah (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -2169,21 +2174,16 @@ https://ddy6new.newkso.ru/ddy6/premium369/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium71/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Soccer : Rijeka vs Osijek (EXTRA STREAM)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium370/mono.m3u8
-#EXTINF:-1 group-title="BASKETBALL",s.Oliver Würzburg - Alba Berlin (EXTRA STREAM)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium314/mono.m3u8
 #EXTINF:-1 group-title="ICE HOCKEY",Lulea Hockey vs. Brynas IF (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium376/mono.m3u8
+#EXTINF:-1 group-title="BASKETBALL",s.Oliver Würzburg - Alba Berlin (EXTRA STREAM)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium314/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",England - Women's Super League : Chelsea FC vs Crystal Palace (BBC 3 UK)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -2224,6 +2224,11 @@ https://nfsnew.newkso.ru/nfs/premium307/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium23/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Belgium - Pro League : Antwerp vs Genk (DAZN PRO LEAGUE 1 BELGIUM)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.newkso.ru/nfs/premium1/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Austria - Football Bundesliga : Austria Wien vs Sturm Graz (SKY SPORT AUSTRIA 1)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -2234,46 +2239,41 @@ https://ddy6new.newkso.ru/ddy6/premium559/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium10/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Belgium - Pro League : Antwerp vs Genk (DAZN PRO LEAGUE 1 BELGIUM)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium1/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Belgium - Pro League : Anderlecht vs Gent (ESPN+ USA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium106/mono.m3u8
-#EXTINF:-1 group-title="BASEBALL",Minor League Baseball : Syracuse Mets vs Worcester Red Sox (NESN USA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium762/mono.m3u8
-#EXTINF:-1 group-title="BASKETBALL",Euroleague : Olympiakos vs Real Madrid (MAGENTA SPORT 303)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium16/mono.m3u8
-#EXTINF:-1 group-title="BASKETBALL",Slovenian League (W): Playoff - Final (G3) : Celje vs Triglav (SPORT KLUB 4 CROATIA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium104/mono.m3u8
 #EXTINF:-1 group-title="HANDBALL",Bambusa Kvindeligaen : HC Odense vs. Copenhagen Handball (TV2 SPORT DENMARK)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium810/mono.m3u8
+#EXTINF:-1 group-title="BASKETBALL",Slovenian League (W): Playoff - Final (G3) : Celje vs Triglav (SPORT KLUB 4 CROATIA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.newkso.ru/nfs/premium104/mono.m3u8
+#EXTINF:-1 group-title="BASEBALL",Minor League Baseball : Syracuse Mets vs Worcester Red Sox (NESN USA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.newkso.ru/nfs/premium762/mono.m3u8
 #EXTINF:-1 group-title="HANDBALL",Champions League : Wybrzeze Gdansk vs Ostrow Wielkopolski (POLSAT SPORT 3 POLAND)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium129/mono.m3u8
+#EXTINF:-1 group-title="BASKETBALL",Euroleague : Olympiakos vs Real Madrid (MAGENTA SPORT 303)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.newkso.ru/nfs/premium16/mono.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL",PlusLiga : Lkps Lublin vs. Jastrzebski Wegiel (POLSAT SPORT 1 POLAND)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium47/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Belgium - Pro League : Anderlecht vs Gent (ESPN+ USA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.newkso.ru/ddy6/premium106/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Belgium - Pro League : Antwerp vs Genk (ESPN+ USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -2299,16 +2299,16 @@ https://windnew.newkso.ru/wind/premium473/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium919/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Belgium - Pro League : Antwerp vs Genk (NOVA SPORTS 6 GREECE)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium636/mono.m3u8
 #EXTINF:-1 group-title="BASKETBALL",Euroleague : Olympiakos vs Real Madrid (POLSAT SPORT PREMIUM 4 POLAND)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium153/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Belgium - Pro League : Antwerp vs Genk (NOVA SPORTS 6 GREECE)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.newkso.ru/dokko1/premium636/mono.m3u8
 #EXTINF:-1 group-title="BASKETBALL",Euroleague : Olympiakos vs Real Madrid (ARENA 2 PREMIUM SERBIA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -2324,11 +2324,6 @@ https://windnew.newkso.ru/wind/premium473/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Soccer : Antwerp vs Genk (EXTRA STREAM)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium345/mono.m3u8
 #EXTINF:-1 group-title="BASKETBALL",Olympiakos vs Real Madrid (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -2338,12 +2333,17 @@ https://windnew.newkso.ru/wind/premium327/mono.m3u8
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium349/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium345/mono.m3u8
 #EXTINF:-1 group-title="BASKETBALL",Olympiakos vs Real Madrid (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium316/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Soccer : Antwerp vs Genk (EXTRA STREAM)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.newkso.ru/dokko1/premium349/mono.m3u8
 #EXTINF:-1 group-title="BASKETBALL",Olympiakos vs Real Madrid (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -2399,26 +2399,16 @@ https://zekonew.newkso.ru/zeko/premium313/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium13/mono.m3u8
-#EXTINF:-1 group-title="TV SHOWS",The Kelly Clarkson Show Season 6 Episode 137 (NBCNY USA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium769/mono.m3u8
 #EXTINF:-1 group-title="TV SHOWS",General Hospital Season 62 Episode 157 (ABC NY USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium766/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",France - Première Ligue : Simulcast (CANAL+ SPORT360 FRANCE)
+#EXTINF:-1 group-title="TV SHOWS",The Kelly Clarkson Show Season 6 Episode 137 (NBCNY USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium464/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",France - Première Ligue : Montpellier vs Dijon (CANAL+ LIVE 2 FRANCE)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium59/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium769/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",England - Premier League : Arsenal vs Crystal Palace (OPTUS SPORT)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -2429,11 +2419,21 @@ https://nfsnew.newkso.ru/nfs/premium11/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium3/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",France - Première Ligue : Simulcast (CANAL+ SPORT360 FRANCE)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium464/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",France - Première Ligue : Paris vs Fleury 91 (CANAL+ SPORT FRANCE)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium122/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",France - Première Ligue : Montpellier vs Dijon (CANAL+ LIVE 2 FRANCE)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium59/mono.m3u8
 #EXTINF:-1 group-title="ICE HOCKEY",WCH U18 : Sweden U18 vs Switzerland U18 (SVT 24 SWEDEN)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -2444,46 +2444,46 @@ https://nfsnew.newkso.ru/nfs/premium21/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium550/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",England - Premier League : Arsenal vs Crystal Palace (USA NETWORK)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium343/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",France - Première Ligue : Paris vs Fleury 91 (CANAL+ SPORT 1 AFRIQUE)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium486/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",England - Premier League : Arsenal vs Crystal Palace (NBC UNIVERSO USA)
+#EXTINF:-1 group-title="SOCCER",England - Premier League : Arsenal vs Crystal Palace (USA NETWORK)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium845/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium343/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Coppa Italia : Internazionale vs Milan (PREMIER SPORTS 2 IRELAND)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium799/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Coppa Italia : Internazionale vs Milan (DAZN 1 SPAIN)
+#EXTINF:-1 group-title="SOCCER",England - Premier League : Arsenal vs Crystal Palace (NBC UNIVERSO USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium445/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium845/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",England - Premier League : Arsenal vs Crystal Palace (SKY SPORTS MAIN EVENT UK)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium38/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Coppa Italia : Internazionale vs Milan (DAZN2 DE)
+#EXTINF:-1 group-title="SOCCER",Coppa Italia : Internazionale vs Milan (DAZN 1 SPAIN)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
+https://windnew.newkso.ru/wind/premium445/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",England - Premier League : Arsenal vs Crystal Palace (SKY SPORTS PREMIER LEAGUE UK)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium130/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Coppa Italia : Internazionale vs Milan (DAZN2 DE)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Coppa Italia : Internazionale vs Milan (MATCH TV RUSSIA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -2494,91 +2494,91 @@ https://ddy6new.newkso.ru/ddy6/premium127/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium595/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Coppa Italia : Internazionale vs Milan (MATCH! FOOTBALL 1 RUSSIA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium136/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",England - Premier League : Arsenal vs Crystal Palace (DAZN 2 SPAIN)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium446/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Coppa Italia : Internazionale vs Milan (CYTAVISION SPORTS 4 CYPRUS)
+#EXTINF:-1 group-title="SOCCER",Coppa Italia : Internazionale vs Milan (MATCH! FOOTBALL 1 RUSSIA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium914/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium136/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",England - Premier League : Arsenal vs Crystal Palace (SKY SPORT PREMIER LEAGUE DE)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium12/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Coppa Italia : Internazionale vs Milan (SPORT TV2 PORTUGAL)
+#EXTINF:-1 group-title="SOCCER",Coppa Italia : Internazionale vs Milan (CYTAVISION SPORTS 4 CYPRUS)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium74/mono.m3u8
+https://windnew.newkso.ru/wind/premium914/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",England - Premier League : Arsenal vs Crystal Palace (SKY SPORT TOP EVENT DE)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium556/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Coppa Italia : Internazionale vs Milan (POLSAT SPORT 2 POLAND)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium50/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",England - Premier League : Arsenal vs Crystal Palace (DAZN ELEVEN 2 PORTUGAL)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium556/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Coppa Italia : Internazionale vs Milan (SPORT TV2 PORTUGAL)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.newkso.ru/dokko1/premium74/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Coppa Italia : Internazionale vs Milan (POLSAT SPORT 2 POLAND)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium50/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",England - Premier League : Arsenal vs Crystal Palace (CANAL+ SPORT POLAND)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium48/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Coppa Italia : Internazionale vs Milan (TRT SPOR TURKEY)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium889/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",England - Premier League : Arsenal vs Crystal Palace (CANAL+ SPORT 3 AFRIQUE)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium488/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Coppa Italia : Internazionale vs Milan (L'EQUIPE FRANCE)
+#EXTINF:-1 group-title="SOCCER",Coppa Italia : Internazionale vs Milan (TRT SPOR TURKEY)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium645/mono.m3u8
+https://windnew.newkso.ru/wind/premium889/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",England - Premier League : Arsenal vs Crystal Palace (SKY SPORT CALCIO IT)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium870/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Coppa Italia : Internazionale vs Milan (ZIGGO SPORT 1 NL)
+#EXTINF:-1 group-title="SOCCER",Coppa Italia : Internazionale vs Milan (L'EQUIPE FRANCE)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium393/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium645/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",England - Premier League : Arsenal vs Crystal Palace (CANAL+ FOOT FRANCE)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium463/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Coppa Italia : Internazionale vs Milan (NOVA SPORTS 2 GREECE)
+#EXTINF:-1 group-title="SOCCER",Coppa Italia : Internazionale vs Milan (ZIGGO SPORT 1 NL)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium632/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium393/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",England - Premier League : Arsenal vs Crystal Palace (PRIMA SPORT 2 ROMANIA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://wikinew.newkso.ru/wiki/premium584/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Coppa Italia : Internazionale vs Milan (NOVA SPORTS 2 GREECE)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.newkso.ru/dokko1/premium632/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Coppa Italia : Internazionale vs Milan (ABU DHABI SPORTS PREMIUM 1)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -2594,26 +2594,26 @@ https://windnew.newkso.ru/wind/premium913/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium134/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Coppa Italia : Internazionale vs Milan (MAX SPORT 3 BULGARIA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium474/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",England - Premier League : Arsenal vs Crystal Palace (ASTRO PREMIER LEAGUE)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Coppa Italia : Internazionale vs Milan (FOX SPORTS 2 ARGENTINA)
+#EXTINF:-1 group-title="SOCCER",Coppa Italia : Internazionale vs Milan (MAX SPORT 3 BULGARIA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium788/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium474/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",England - Premier League : Arsenal vs Crystal Palace (ARENA SPORT 1 CROATIA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Coppa Italia : Internazionale vs Milan (FOX SPORTS 2 ARGENTINA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium788/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",England - Premier League : Arsenal vs Crystal Palace (ASTRO GRANDSTAND)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -2694,11 +2694,6 @@ https://zekonew.newkso.ru/zeko/premium318/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium308/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Soccer : Arsenal vs Crystal Palace (EXTRA STREAM)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium350/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Soccer : Internazionale vs Milan (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -2708,12 +2703,17 @@ https://zekonew.newkso.ru/zeko/premium346/mono.m3u8
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium330/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium350/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Soccer : Internazionale vs Milan (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium364/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Soccer : Arsenal vs Crystal Palace (EXTRA STREAM)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium330/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Soccer : Arsenal vs Crystal Palace (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -2729,16 +2729,16 @@ https://zekonew.newkso.ru/zeko/premium347/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium359/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Taça de Portugal : Benfica vs Tirsense (SPORT TV1 PORTUGAL)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium49/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Iceland Efsta deild : Breidablik Kópavogur vs Stjarnan Garðabær (STÖÐ 2 SPORT 1)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium68/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Taça de Portugal : Benfica vs Tirsense (SPORT TV1 PORTUGAL)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium49/mono.m3u8
 #EXTINF:-1 group-title="BASKETBALL",Iceland Women's Basketball Premier League : Keflavik vs UMF Njardvik (STÖÐ 2 SPORT 5)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -2804,36 +2804,36 @@ https://ddy6new.newkso.ru/ddy6/premium109/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium45/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Deportivo Alavés vs Real Sociedad (ELEVEN SPORTS 2 POLAND)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium72/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Spain- La Liga : Getafe vs Real Madrid (LALIGATV UK)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium276/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Deportivo Alavés vs Real Sociedad (DAZN ELEVEN 3 PORTUGAL)
+#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Deportivo Alavés vs Real Sociedad (ELEVEN SPORTS 2 POLAND)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium457/mono.m3u8
+https://windnew.newkso.ru/wind/premium72/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Spain- La Liga : Getafe vs Real Madrid (ESPN+ USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium108/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Deportivo Alavés vs Real Sociedad (BEIN SPORTS 2 FRANCE)
+#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Deportivo Alavés vs Real Sociedad (DAZN ELEVEN 3 PORTUGAL)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium117/mono.m3u8
+https://windnew.newkso.ru/wind/premium457/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Spain- La Liga : Getafe vs Real Madrid (VIAPLAY SPORTS 1 UK)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium451/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Deportivo Alavés vs Real Sociedad (BEIN SPORTS 2 FRANCE)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium117/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Spain- La Liga : Deportivo Alavés vs Real Sociedad (DIGI SPORT 1 ROMANIA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -2859,26 +2859,31 @@ https://ddy6new.newkso.ru/ddy6/premium771/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium138/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Deportivo Alavés vs Real Sociedad (DIGI SPORT 3 ROMANIA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://top1new.newkso.ru/top1/premium402/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Spain- La Liga : Getafe vs Real Madrid (ESPN2 USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium45/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Deportivo Alavés vs Real Sociedad (PRIMA SPORT 3 ROMANIA)
+#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Deportivo Alavés vs Real Sociedad (DIGI SPORT 3 ROMANIA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://wikinew.newkso.ru/wiki/premium585/mono.m3u8
+https://top1new.newkso.ru/top1/premium402/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Spain- La Liga : Getafe vs Real Madrid (TSN1)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium111/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Deportivo Alavés vs Real Sociedad (PRIMA SPORT 3 ROMANIA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://wikinew.newkso.ru/wiki/premium585/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Getafe vs Real Madrid (DAZN1 DE)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Spain- La Liga : Deportivo Alavés vs Real Sociedad (ARENA SPORT 2 SERBIA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -2889,41 +2894,36 @@ https://zekonew.newkso.ru/zeko/premium430/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium635/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Getafe vs Real Madrid (DAZN1 DE)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Deportivo Alavés vs Real Sociedad (TV4 SPORTKANALEN)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium707/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Spain- La Liga : Getafe vs Real Madrid (ELEVEN SPORTS 1 POLAND)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium71/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Deportivo Alavés vs Real Sociedad (ESPN2 ARGENTINA)
+#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Deportivo Alavés vs Real Sociedad (TV4 SPORTKANALEN)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium150/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium707/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Spain- La Liga : Getafe vs Real Madrid (DAZN ZONA IT)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium877/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Deportivo Alavés vs Real Sociedad (SUPERSPORT FOOTBALL)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium56/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Spain- La Liga : Getafe vs Real Madrid (BEIN SPORTS 1 FRANCE)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium116/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Deportivo Alavés vs Real Sociedad (ESPN2 ARGENTINA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium150/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Spain- La Liga : Deportivo Alavés vs Real Sociedad (SUPERSPORT FOOTBALL)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium56/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Spain- La Liga : Getafe vs Real Madrid (ZIGGO SPORT 2 NL)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -3009,11 +3009,6 @@ https://dokko1new.newkso.ru/dokko1/premium93/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium90/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Soccer : Deportivo Alavés vs Real Sociedad (EXTRA STREAM)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium310/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Soccer : Getafe vs Real Madrid (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -3023,7 +3018,7 @@ https://zekonew.newkso.ru/zeko/premium309/mono.m3u8
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium352/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium310/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Soccer : Getafe vs Real Madrid (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -3033,7 +3028,7 @@ https://zekonew.newkso.ru/zeko/premium386/mono.m3u8
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium329/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium352/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Soccer : Getafe vs Real Madrid (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -3043,12 +3038,17 @@ https://zekonew.newkso.ru/zeko/premium351/mono.m3u8
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium362/mono.m3u8
+https://windnew.newkso.ru/wind/premium329/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Soccer : Getafe vs Real Madrid (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium317/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Soccer : Deportivo Alavés vs Real Sociedad (EXTRA STREAM)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.newkso.ru/ddy6/premium362/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Soccer : Getafe vs Real Madrid (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -3079,36 +3079,36 @@ https://ddy6new.newkso.ru/ddy6/premium79/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium664/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Copa Libertadores : Olimpia vs Peñarol (BEIN SPORTS USA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium425/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Copa Libertadores : San Antonio Bulo Bulo vs Vélez Sarsfield (FOX SPORTS ARGENTINA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium787/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Copa Sudamericana : Unión Española vs Fluminense (SPORT TV1 PORTUGAL)
+#EXTINF:-1 group-title="SOCCER",Copa Libertadores : Olimpia vs Peñarol (BEIN SPORTS USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium49/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium425/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Copa Sudamericana : Huracán vs América de Cali (ESPN ARGENTINA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Copa Libertadores : Olimpia vs Peñarol (BEIN SPORTS EN ESPAÑOL)
+#EXTINF:-1 group-title="SOCCER",Copa Sudamericana : Unión Española vs Fluminense (SPORT TV1 PORTUGAL)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium372/mono.m3u8
+https://windnew.newkso.ru/wind/premium49/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Copa Libertadores : San Antonio Bulo Bulo vs Vélez Sarsfield (ARENA 2 PREMIUM SERBIA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Copa Libertadores : Olimpia vs Peñarol (BEIN SPORTS EN ESPAÑOL)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium372/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Copa Sudamericana : Unión Española vs Fluminense (ESPN BRAZIL)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -3119,6 +3119,11 @@ https://zekonew.newkso.ru/zeko/premium81/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium94/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Copa Libertadores : San Antonio Bulo Bulo vs Vélez Sarsfield (ARENA SPORT 3 CROATIA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.newkso.ru/ddy6/premium434/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Copa Libertadores : Olimpia vs Peñarol (ESPN2 MEXICO)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -3129,11 +3134,6 @@ https://nfsnew.newkso.ru/nfs/premium926/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium95/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Copa Libertadores : San Antonio Bulo Bulo vs Vélez Sarsfield (ARENA SPORT 3 CROATIA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium434/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Copa Libertadores : Olimpia vs Peñarol (ESPN4 BRAZIL)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -3154,21 +3154,21 @@ https://nfsnew.newkso.ru/nfs/premium789/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium92/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Copa Libertadores : Olimpia vs Peñarol (BEIN SPORTS MENA ENGLISH 1)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium61/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Copa Libertadores : San Antonio Bulo Bulo vs Vélez Sarsfield (BEIN SPORTS MENA ENGLISH 2)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium90/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Soccer : Unión Española vs Fluminense (EXTRA STREAM)
+#EXTINF:-1 group-title="SOCCER",Copa Libertadores : Olimpia vs Peñarol (BEIN SPORTS MENA ENGLISH 1)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium341/mono.m3u8
+https://windnew.newkso.ru/wind/premium61/mono.m3u8
+#EXTINF:-1 group-title="SOCCER",Soccer : Olimpia vs Peñarol (EXTRA STREAM)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium384/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Soccer : Huracán vs América de Cali (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -3179,36 +3179,36 @@ https://zekonew.newkso.ru/zeko/premium336/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium334/mono.m3u8
-#EXTINF:-1 group-title="SOCCER",Soccer : Olimpia vs Peñarol (EXTRA STREAM)
+#EXTINF:-1 group-title="SOCCER",Soccer : Unión Española vs Fluminense (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium384/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium341/mono.m3u8
 #EXTINF:-1 group-title="SOCCER",Soccer : Olimpia vs Peñarol (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium385/mono.m3u8
-#EXTINF:-1 group-title="BASEBALL",MLB : Seattle Mariners vs Boston Red Sox (MLB LEAGUE PASS)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium15/mono.m3u8
 #EXTINF:-1 group-title="BASEBALL",MLB : Baltimore Orioles vs Washington Nationals (MLB LEAGUE PASS)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium14/mono.m3u8
-#EXTINF:-1 group-title="BASEBALL",MLB : Seattle Mariners vs Boston Red Sox (NESN USA)
+#EXTINF:-1 group-title="BASEBALL",MLB : Seattle Mariners vs Boston Red Sox (MLB LEAGUE PASS)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium762/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium15/mono.m3u8
 #EXTINF:-1 group-title="BASEBALL",MLB : Baltimore Orioles vs Washington Nationals (MASN USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium829/mono.m3u8
+#EXTINF:-1 group-title="BASEBALL",MLB : Seattle Mariners vs Boston Red Sox (NESN USA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.newkso.ru/nfs/premium762/mono.m3u8
 #EXTINF:-1 group-title="BASEBALL",MLB : Seattle Mariners vs Boston Red Sox (VODAFONE SPORT)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -3229,41 +3229,36 @@ https://zekonew.newkso.ru/zeko/premium766/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium330/mono.m3u8
-#EXTINF:-1 group-title="BASEBALL",MLB : Los Angeles Dodgers vs Chicago Cubs (MLB LEAGUE PASS)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium16/mono.m3u8
 #EXTINF:-1 group-title="BASKETBALL",NBA : Orlando Magic vs Boston Celtics (HOME FEED)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium8/mono.m3u8
+#EXTINF:-1 group-title="BASEBALL",MLB : Los Angeles Dodgers vs Chicago Cubs (MLB LEAGUE PASS)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.newkso.ru/nfs/premium16/mono.m3u8
 #EXTINF:-1 group-title="ICE HOCKEY",NHL : Montréal Canadiens vs Washington Capitals (HOME FEED)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium1/mono.m3u8
-#EXTINF:-1 group-title="BASEBALL",MLB : Los Angeles Dodgers vs Chicago Cubs (TNT SPORTS 1 UK)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8
 #EXTINF:-1 group-title="BASKETBALL",NBA : Orlando Magic vs Boston Celtics (AWAY FEED)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium9/mono.m3u8
+#EXTINF:-1 group-title="BASEBALL",MLB : Los Angeles Dodgers vs Chicago Cubs (TNT SPORTS 1 UK)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8
 #EXTINF:-1 group-title="ICE HOCKEY",NHL : Montréal Canadiens vs Washington Capitals (AWAY FEED)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium3/mono.m3u8
-#EXTINF:-1 group-title="BASEBALL",MLB : Los Angeles Dodgers vs Chicago Cubs (SPECTRUM SPORTSNET LA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium764/mono.m3u8
 #EXTINF:-1 group-title="BASKETBALL",NBA : Orlando Magic vs Boston Celtics (NBCS BOSTON USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -3274,11 +3269,11 @@ https://windnew.newkso.ru/wind/premium754/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium44/mono.m3u8
-#EXTINF:-1 group-title="BASEBALL",MLB : Los Angeles Dodgers vs Chicago Cubs (RDS CA)
+#EXTINF:-1 group-title="BASEBALL",MLB : Los Angeles Dodgers vs Chicago Cubs (SPECTRUM SPORTSNET LA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium839/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium764/mono.m3u8
 #EXTINF:-1 group-title="BASKETBALL",NBA : Orlando Magic vs Boston Celtics (TRUTV USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -3289,11 +3284,11 @@ https://dokko1new.newkso.ru/dokko1/premium341/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium833/mono.m3u8
-#EXTINF:-1 group-title="BASEBALL",MLB : Los Angeles Dodgers vs Chicago Cubs (MARQUEE SPORTS NETWORK USA)
+#EXTINF:-1 group-title="BASEBALL",MLB : Los Angeles Dodgers vs Chicago Cubs (RDS CA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium770/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium839/mono.m3u8
 #EXTINF:-1 group-title="BASKETBALL",NBA : Orlando Magic vs Boston Celtics (TNT USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -3304,6 +3299,11 @@ https://zekonew.newkso.ru/zeko/premium338/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium406/mono.m3u8
+#EXTINF:-1 group-title="BASEBALL",MLB : Los Angeles Dodgers vs Chicago Cubs (MARQUEE SPORTS NETWORK USA)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.newkso.ru/ddy6/premium770/mono.m3u8
 #EXTINF:-1 group-title="BASKETBALL",NBA : Orlando Magic vs Boston Celtics (TSN4)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -3364,16 +3364,16 @@ https://windnew.newkso.ru/wind/premium473/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium2/mono.m3u8
-#EXTINF:-1 group-title="BASEBALL",MLB : Los Angeles Dodgers vs Chicago Cubs (EXTRA STREAM)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium301/mono.m3u8
 #EXTINF:-1 group-title="BASKETBALL",NBA : Orlando Magic vs Boston Celtics (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium331/mono.m3u8
+#EXTINF:-1 group-title="BASEBALL",MLB : Los Angeles Dodgers vs Chicago Cubs (EXTRA STREAM)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium301/mono.m3u8
 #EXTINF:-1 group-title="BASKETBALL",NBA : Orlando Magic vs Boston Celtics (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -3439,11 +3439,6 @@ https://windnew.newkso.ru/wind/premium332/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium337/mono.m3u8
-#EXTINF:-1 group-title="BASEBALL",MLB : Chicago White Sox vs Minnesota Twins (MLB LEAGUE PASS)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium17/mono.m3u8
 #EXTINF:-1 group-title="BASEBALL",MLB : Toronto Blue Jays vs Houston Astros (MLB LEAGUE PASS)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
@@ -3454,6 +3449,11 @@ https://nfsnew.newkso.ru/nfs/premium19/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium18/mono.m3u8
+#EXTINF:-1 group-title="BASEBALL",MLB : Chicago White Sox vs Minnesota Twins (MLB LEAGUE PASS)
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.newkso.ru/nfs/premium17/mono.m3u8
 #EXTINF:-1 group-title="BASEBALL",MLB : Chicago White Sox vs Minnesota Twins (CHICAGO SPORTS NETWORK)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
