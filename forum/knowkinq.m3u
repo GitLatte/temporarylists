@@ -1,0 +1,91 @@
+#EXTM3U
+
+#EXTINF:-1,TRT Haber
+http://51.20.137.71/yt/yt.m3u8?kanal=@trthaber
+
+#EXTINF:-1,A Haber
+http://51.20.137.71/yt/yt.m3u8?kanal=@Ahaber
+
+#EXTINF:-1,Habertürk TV
+http://51.20.137.71/yt/yt.m3u8?kanal=@haberturktv
+
+#EXTINF:-1,Sözcü TV
+http://51.20.137.71/yt/yt.m3u8?kanal=@Sozcutelevizyonu
+
+#EXTINF:-1,Halk TV
+http://51.20.137.71/yt/yt.m3u8?kanal=@Halktvkanali
+
+#EXTINF:-1,Haber Global
+http://51.20.137.71/yt/yt.m3u8?kanal=@haberglobal
+
+#EXTINF:-1,A Spor
+http://51.20.137.71/yt/yt.m3u8?kanal=@ASpor
+
+#EXTINF:-1,Halk TV (Tekrar)
+http://51.20.137.71/yt/yt.m3u8?kanal=@Halktvkanali
+
+#EXTINF:-1,beIN SPORTS Türkiye
+http://51.20.137.71/yt/yt.m3u8?kanal=beINSPORTST%C3%BCrkiye
+
+#EXTINF:-1,NTV
+http://51.20.137.71/yt/yt.m3u8?kanal=@NTV
+
+#EXTINF:-1,TV100
+http://51.20.137.71/yt/yt.m3u8?kanal=@tv100
+
+#EXTINF:-1,Yirmi4 TV
+http://51.20.137.71/yt/yt.m3u8?kanal=@YirmidortTV
+
+#EXTINF:-1,TVNET
+http://51.20.137.71/yt/yt.m3u8?kanal=@TVNET
+
+#EXTINF:-1,Flash Haber TV
+http://51.20.137.71/yt/yt.m3u8?kanal=@FlashHaberTV
+
+#EXTINF:-1,Tele1
+http://51.20.137.71/yt/yt.m3u8?kanal=@Tele1comtr
+
+#EXTINF:-1,Lider Haber TV
+http://51.20.137.71/yt/yt.m3u8?kanal=@liderhabertv
+
+#EXTINF:-1,Anka Haber Ajansı
+http://51.20.137.71/yt/yt.m3u8?kanal=@ankahaberajans
+
+#EXTINF:-1,Yirmi4 TV (Tekrar)
+http://51.20.137.71/yt/yt.m3u8?kanal=@YirmidortTV
+
+#EXTINF:-1,Bloomberg HT
+http://51.20.137.71/yt/yt.m3u8?kanal=@bloomberght
+
+#EXTINF:-1,Türkiye Gazetesi TV
+http://51.20.137.71/yt/yt.m3u8?kanal=@TurkiyeGazetesi
+
+#EXTINF:-1,Ekol TV
+http://51.20.137.71/yt/yt.m3u8?kanal=@ekoltvv
+
+#EXTINF:-1,Bengü Türk TV
+http://51.20.137.71/yt/yt.m3u8?kanal=@tvbenguturk
+
+#EXTINF:-1,Ülke TV
+http://51.20.137.71/yt/yt.m3u8?kanal=@ulketv
+
+#EXTINF:-1,KRT TV
+http://51.20.137.71/yt/yt.m3u8?kanal=@krtcanli
+
+#EXTINF:-1,CNBC-e
+http://51.20.137.71/yt/yt.m3u8?kanal=@cnbce
+
+#EXTINF:-1,Ulusal Kanal
+http://51.20.137.71/yt/yt.m3u8?kanal=@ulusalkanalTV
+
+#EXTINF:-1,KRT TV (Tekrar)
+http://51.20.137.71/yt/yt.m3u8?kanal=@krtcanli
+
+#EXTINF:-1,Gülşah Film Official
+http://51.20.137.71/yt/yt.m3u8?kanal=@GulsahFilmOfficial
+
+#EXTINF:-1,Halk TV Haber
+http://51.20.137.71/yt/yt.m3u8?kanal=@halktvhaber
+
+#EXTINF:-1,EkoTürk TV
+http://51.20.137.71/yt/yt.m3u8?kanal=@EKOTURKTV
