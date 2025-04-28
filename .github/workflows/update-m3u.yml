@@ -183,6 +183,8 @@ jobs:
               filtered_lines = ['#EXTM3U']
               buffer_lines = []
               logo_url = 'https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png'
+              url_count = 0  # URL sayacı
+              current_channel = None  # Mevcut kanal adı
 
               for line in lines:
                   line = line.strip()
@@ -190,6 +192,10 @@ jobs:
                       continue
 
                   if line.startswith('#EXTINF'):
+                      # Yeni kanal başladığında sayacı sıfırla
+                      url_count = 0
+                      current_channel = line
+                      
                       # Önceki kanal için buffer kontrolü
                       if buffer_lines and not any(l.startswith('http') for l in buffer_lines):
                           buffer_lines = []
@@ -218,7 +224,12 @@ jobs:
                   elif line.startswith('#EXTVLCOPT'):
                       buffer_lines.append(line)
                   elif line.startswith('http'):
-                      buffer_lines.append(line)
+                      url_count += 1
+                      # İlk URL'yi normal, diğerlerini yorum satırı olarak ekle
+                      if url_count == 1:
+                          buffer_lines.append(line)
+                      else:
+                          buffer_lines.append(f'# ? {line}')
                       filtered_lines.extend(buffer_lines)
                       buffer_lines = []
 
