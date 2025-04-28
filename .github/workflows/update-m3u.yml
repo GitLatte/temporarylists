@@ -192,7 +192,10 @@ jobs:
                   if line.startswith('#EXTINF'):
                       include_next = True
                       # Mevcut özellikleri koru ve yenilerini ekle
-                      if 'tvg-logo=' not in line:
+                      # Logo kontrolü ve değiştirme
+                      if 'tvg-logo="tv logo"' in line:
+                          line = line.replace('tvg-logo="tv logo"', f'tvg-logo="{logo_url}"')
+                      elif 'tvg-logo=' not in line:
                           line = line.replace('#EXTINF:-1', f'#EXTINF:-1 tvg-logo="{logo_url}"')
                       if 'tvg-language=' not in line:
                           line = line.replace('#EXTINF:-1', '#EXTINF:-1 tvg-language="Türkçe"')
