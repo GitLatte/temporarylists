@@ -181,7 +181,7 @@ jobs:
           def process_myway_content(content):
               lines = content.split('\n')
               filtered_lines = ['#EXTM3U']
-              include_next = False
+              buffer_lines = []
               logo_url = 'https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png'
 
               for line in lines:
@@ -190,7 +190,13 @@ jobs:
                       continue
 
                   if line.startswith('#EXTINF'):
-                      include_next = True
+                      # Önceki kanal için buffer kontrolü
+                      if buffer_lines and not any(l.startswith('http') for l in buffer_lines):
+                          buffer_lines = []
+                      elif buffer_lines:
+                          filtered_lines.extend(buffer_lines)
+                          buffer_lines = []
+
                       # TVG etiketi kontrolü
                       if 'tvg-' not in line:
                           # TVG etiketi yoksa tüm özellikleri ekle
@@ -208,12 +214,17 @@ jobs:
                               line = line.replace('#EXTINF:-1', '#EXTINF:-1 tvg-language="Türkçe"')
                           if 'tvg-country=' not in line:
                               line = line.replace('#EXTINF:-1', '#EXTINF:-1 tvg-country="TR"')
-                      filtered_lines.append(line)
-                  elif line.startswith('http') and include_next:
-                      filtered_lines.append(line)
-                      include_next = False
-                  elif line.startswith('#EXTVLCOPT') and include_next:
-                      filtered_lines.append(line)
+                      buffer_lines = [line]
+                  elif line.startswith('#EXTVLCOPT'):
+                      buffer_lines.append(line)
+                  elif line.startswith('http'):
+                      buffer_lines.append(line)
+                      filtered_lines.extend(buffer_lines)
+                      buffer_lines = []
+
+              # Son kanal için buffer kontrolü
+              if buffer_lines and any(l.startswith('http') for l in buffer_lines):
+                  filtered_lines.extend(buffer_lines)
 
               return '\n'.join(filtered_lines)
 
