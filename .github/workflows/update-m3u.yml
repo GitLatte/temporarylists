@@ -182,6 +182,7 @@ jobs:
               lines = content.split('\n')
               filtered_lines = ['#EXTM3U']
               include_next = False
+              logo_url = 'https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png'
 
               for line in lines:
                   line = line.strip()
@@ -190,6 +191,13 @@ jobs:
 
                   if line.startswith('#EXTINF'):
                       include_next = True
+                      # Mevcut özellikleri koru ve yenilerini ekle
+                      if 'tvg-logo=' not in line:
+                          line = line.replace('#EXTINF:-1', f'#EXTINF:-1 tvg-logo="{logo_url}"')
+                      if 'tvg-language=' not in line:
+                          line = line.replace('#EXTINF:-1', '#EXTINF:-1 tvg-language="Türkçe"')
+                      if 'tvg-country=' not in line:
+                          line = line.replace('#EXTINF:-1', '#EXTINF:-1 tvg-country="TR"')
                       filtered_lines.append(line)
                   elif line.startswith('http') and include_next:
                       filtered_lines.append(line)
