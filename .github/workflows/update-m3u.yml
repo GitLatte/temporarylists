@@ -191,16 +191,23 @@ jobs:
 
                   if line.startswith('#EXTINF'):
                       include_next = True
-                      # Mevcut özellikleri koru ve yenilerini ekle
-                      # Logo kontrolü ve değiştirme
-                      if 'tvg-logo="tv logo"' in line:
-                          line = line.replace('tvg-logo="tv logo"', f'tvg-logo="{logo_url}"')
-                      elif 'tvg-logo=' not in line:
-                          line = line.replace('#EXTINF:-1', f'#EXTINF:-1 tvg-logo="{logo_url}"')
-                      if 'tvg-language=' not in line:
-                          line = line.replace('#EXTINF:-1', '#EXTINF:-1 tvg-language="Türkçe"')
-                      if 'tvg-country=' not in line:
-                          line = line.replace('#EXTINF:-1', '#EXTINF:-1 tvg-country="TR"')
+                      # TVG etiketi kontrolü
+                      if 'tvg-' not in line:
+                          # TVG etiketi yoksa tüm özellikleri ekle
+                          line = line.replace('#EXTINF:-1', f'#EXTINF:-1 tvg-logo="{logo_url}" tvg-language="Türkçe" tvg-country="TR"')
+                      else:
+                          # TVG etiketi varsa logo kontrolü ve değiştirme
+                          if 'tvg-logo=' in line:
+                              # Logo özelliği varsa değiştir
+                              line = re.sub('tvg-logo="[^"]*"', f'tvg-logo="{logo_url}"', line)
+                          else:
+                              # Logo özelliği yoksa ekle
+                              line = line.replace('#EXTINF:-1', f'#EXTINF:-1 tvg-logo="{logo_url}"')
+                          # Diğer TVG özelliklerini kontrol et ve ekle
+                          if 'tvg-language=' not in line:
+                              line = line.replace('#EXTINF:-1', '#EXTINF:-1 tvg-language="Türkçe"')
+                          if 'tvg-country=' not in line:
+                              line = line.replace('#EXTINF:-1', '#EXTINF:-1 tvg-country="TR"')
                       filtered_lines.append(line)
                   elif line.startswith('http') and include_next:
                       filtered_lines.append(line)
