@@ -178,6 +178,27 @@ jobs:
                   print(f"Error merging files: {e}")
                   return None
 
+          def process_myway_content(content):
+              lines = content.split('\n')
+              filtered_lines = ['#EXTM3U']
+              include_next = False
+
+              for line in lines:
+                  line = line.strip()
+                  if not line or line.startswith('#####'):
+                      continue
+
+                  if line.startswith('#EXTINF'):
+                      include_next = True
+                      filtered_lines.append(line)
+                  elif line.startswith('http') and include_next:
+                      filtered_lines.append(line)
+                      include_next = False
+                  elif line.startswith('#EXTVLCOPT') and include_next:
+                      filtered_lines.append(line)
+
+              return '\n'.join(filtered_lines)
+
           bein_content = fetch_m3u_content('https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/daddylive-channels.m3u8')
           if bein_content:
               filtered_bein = filter_sports_channels(bein_content)
@@ -192,13 +213,18 @@ jobs:
           merged_content = merge_m3u_files('dl/dl-beinsports.m3u', 'dl/dl-events.m3u')
           if merged_content:
               write_file('dl/dl-daddyliveall.m3u', merged_content)
+
+          myway_content = fetch_m3u_content('https://surl.be/myway06')
+          if myway_content:
+              filtered_myway = process_myway_content(myway_content)
+              write_file('forum/myway.m3u', filtered_myway)
           EOF
 
       - name: Commit and push if changed
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add dl/dl-beinsports.m3u dl/dl-events.m3u dl/dl-daddyliveall.m3u
+          git add dl/dl-beinsports.m3u dl/dl-events.m3u dl/dl-daddyliveall.m3u forum/myway.m3u
           git diff --quiet && git diff --staged --quiet || (
             git commit -m "Listeler güncellendi" -a
             git push
