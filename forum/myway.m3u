@@ -1,509 +1,509 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Denemeler
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Relax
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",String Relax
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",TRT 1
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",Denemeler
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",Relax
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",String Relax
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8?checkedby:MyWay
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",TRT 2
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",TRT TÜRK
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",TRT TÜRK
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8?checkedby:MyWay
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",ATV
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",ATV
 http://89.187.191.41/ATV-HD-TR/video.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",ATV Euro
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Star Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",ATV Euro
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",Star Tv
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Eurostar
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",Eurostar
 https://canlitvulusal.xyz/live/eurostar/index.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Kanal D
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Euro D
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8?checkedby:MyWay
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Now
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",Now
 http://116.202.238.88/FOXTV_TR/index.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Show Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",Show Tv
 https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Show Turk
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",Show Turk
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Show Max
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",Show Max
 https://github.com/rideordie16/YouTube/raw/main/ch/showmax.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Tv 8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",Tv 8
 https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Tv 8,5
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",Tv 8,5
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Beyaz Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",Beyaz Tv
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",360
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",360
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Teve 2
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",Teve 2
 https://demiroren-live.daioncdn.net/teve2/teve2_720p.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Kanal 7
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8A2
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",A2
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",A2
 http://89.187.191.41/A2-HD-TR/video.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",TYT TV
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",TYT TV
 https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Ekol Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",Ekol Tv
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_720p.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Ton Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",Ton Tv
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Fortuna Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",Fortuna Tv
 https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Woman Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",Woman Tv
 https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Bultürk Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",Bultürk Tv
 https://live.euromediacenter.com/bulturktv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",ONS TV
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",ONS TV
 https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",CNBC-E
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",CNBC-E
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",BRÜKSEL TÜRK
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",BRÜKSEL TÜRK
 https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Hocwan Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",Hocwan Tv
 https://ip100.radyotelekomtv.com:3593/stream/play.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Kudus Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",Kudus Tv
 https://yayin30.haber100.com/live/kudustv/.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Filistin Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",Filistin Tv
 https://live.euromediacenter.com/filistintv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Hür Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",Hür Tv
 https://live.euromediacenter.com/hurtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Golie Ctive
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",Golie Ctive
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1993
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Roman ESTV
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",Roman ESTV
 https://live.euromediacenter.com/romanestv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Kanal 34
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Ulusal",Kanal 34
 https://live.euromediacenter.com/kanal34/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="KRTTV.tr" tvg-logo="" group-title="⚡️Haber",KRT TV
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="KRTTV.tr" tvg-logo="" group-title="⚡️Haber",KRT TV
 https://trn03.tulix.tv/gt-krt-tv/index.m3u8
-#EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="" group-title="⚡️Haber",YOL Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="HalkTV.tr" tvg-logo="" group-title="⚡️Haber",YOL Tv
 https://iptv.amgsmart2home.de/YOLTVMAIN/index.m3u8
-#EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="" group-title="⚡️Haber",Sözcü Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="HalkTV.tr" tvg-logo="" group-title="⚡️Haber",Sözcü Tv
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ztmY_cCtUl0
-#EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="" group-title="⚡️Haber",Halk TV
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="HalkTV.tr" tvg-logo="" group-title="⚡️Haber",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:-1 tvg-id="Tele1.tr" tvg-logo="" group-title="⚡️Haber",Tele 1
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="Tele1.tr" tvg-logo="" group-title="⚡️Haber",Tele 1
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
-#EXTINF:-1 tvg-id="TRT Haber.tr" tvg-logo="" group-title="⚡️Haber",TRT Haber
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="TRT Haber.tr" tvg-logo="" group-title="⚡️Haber",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="⚡️HaberturkTV.tr" tvg-logo="" group-title="⚡️Haber",Habertürk
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="⚡️HaberturkTV.tr" tvg-logo="" group-title="⚡️Haber",Habertürk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
-#EXTINF:-1 tvg-id="TV100.tr" tvg-logo="" group-title="⚡️Haber",TV 100
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="TV100.tr" tvg-logo="" group-title="⚡️Haber",TV 100
 https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
-#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-logo="" group-title="⚡️Haber",Ulke TV
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="UlkeTV.tr" tvg-logo="" group-title="⚡️Haber",Ulke TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="" group-title="⚡️Haber",NTV
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="NTV.tr" tvg-logo="" group-title="⚡️Haber",NTV
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
-#EXTINF:-1 tvg-id="24TV.tr" group-title="⚡️Haber" ,24 TV
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-id="24TV.tr" group-title="⚡️Haber" ,24 TV
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
-#EXTINF:-1 tvg-id="TVNET.tr" tvg-logo="" group-title="⚡️Haber",CNN TURK
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="TVNET.tr" tvg-logo="" group-title="⚡️Haber",CNN TURK
 https://b.fulltvizle.com/cnn/playlist.m3u8
-#EXTINF:-1 tvg-id="BenguturkTV.tr" tvg-logo="" group-title="⚡️Haber",Haber Global
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="BenguturkTV.tr" tvg-logo="" group-title="⚡️Haber",Haber Global
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
-#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="" group-title="⚡️Haber",Bloomberg HT
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="BloombergHT.tr" tvg-logo="" group-title="⚡️Haber",Bloomberg HT
 https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚡️Haber",TGRT Haber
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡️Haber",TGRT Haber
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
-#EXTINF:-1 tvg-id="MeltemTV.tr" tvg-logo="" group-title="⚡️Haber",Meltem TV
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="MeltemTV.tr" tvg-logo="" group-title="⚡️Haber",Meltem TV
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
-#EXTINF:-1 tvg-name="Flash ⚡️Haber" http-referrer="" http-user-agent="" group-title="⚡️Haber",Flash Haber
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-name="Flash ⚡️Haber" http-referrer="" http-user-agent="" group-title="⚡️Haber",Flash Haber
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
-#EXTINF:-1 tvg-name="Flash ⚡️Haber" http-referrer="" http-user-agent="" group-title="⚡️Haber",Tv Net
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-name="Flash ⚡️Haber" http-referrer="" http-user-agent="" group-title="⚡️Haber",Tv Net
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
-#EXTINF:-1 tvg-name="Flash ⚡️Haber" http-referrer="" http-user-agent="" group-title="⚡️Haber",TURKHABER
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-name="Flash ⚡️Haber" http-referrer="" http-user-agent="" group-title="⚡️Haber",TURKHABER
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="Lider Haber" tvg-logo="" group-title="⚡️Haber",Lider Haber
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="Lider Haber" tvg-logo="" group-title="⚡️Haber",Lider Haber
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
-#EXTINF:-1 tvg-id="GZT" tvg-logo="" group-title="⚡️Haber",GZTHaber
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="GZT" tvg-logo="" group-title="⚡️Haber",GZTHaber
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
-#EXTINF:-1 tvg-id="BENGÜ TÜRK" tvg-logo="" group-title="⚡️Haber",BENGÜ TÜRK
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="BENGÜ TÜRK" tvg-logo="" group-title="⚡️Haber",BENGÜ TÜRK
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="⚡️Haber",FİNANS TÜRK
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="" tvg-logo="" group-title="⚡️Haber",FİNANS TÜRK
 https://yayin30.haber100.com/live/finansturk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="⚡️Haber",TBMM
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="" tvg-logo="" group-title="⚡️Haber",TBMM
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Cizgi Film",Disney Jr. TR
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Cizgi Film",Disney Jr. TR
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Cizgi Film",CARTOON NETWORK
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Cizgi Film",CARTOON NETWORK
 http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6846/index.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Cizgi Film",MINIKA GO
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Cizgi Film",MINIKA GO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Cizgi Film",MINIKA ÇOCUK
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Cizgi Film",MINIKA ÇOCUK
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Cizgi Film",TRT ÇOCUK
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Cizgi Film",TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Cizgi Film",DIYANET ÇOCUK
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Cizgi Film",DIYANET ÇOCUK
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Cizgi Film",Nick Jr TR
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Cizgi Film",Nick Jr TR
 http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6847/index.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Cizgi Film",Cartoonito TR
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Cizgi Film",Cartoonito TR
 http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6850/index.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Cizgi Film",Nickelodeon TR
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Cizgi Film",Nickelodeon TR
 http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6848/index.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Cizgi Film",Baby tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Cizgi Film",Baby tv
 https://saran-live.ercdn.net/babytv/index.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Cizgi Film",Duck tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Cizgi Film",Duck tv
 https://jmp2.uk/sam-ESBC4700001GR.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Cizgi Film",
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Cizgi Film",
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",Bein Gurme
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Cizgi Film",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Cizgi Film",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Belgesel",Bein Gurme
 http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6804/index.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",Belgesel Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Belgesel",Belgesel Tv
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",Nation
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Belgesel",Nation
 https://saran-live.ercdn.net/natgeohd/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=1738278432
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",Nation wild
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Belgesel",Nation wild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",Discovery
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Belgesel",Discovery
 https://217.30.11.74/e/500.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",BBC
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Belgesel",BBC
 http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6854/index.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",Dmax
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Belgesel",Dmax
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",TLC
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Belgesel",TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",Super Turk Max
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Belgesel",Super Turk Max
 http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",Sdm Belgesel
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Belgesel",Sdm Belgesel
 https://host.onlineradyotv.net:8081/sdmtv3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",CGTN Belgesel
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Belgesel",CGTN Belgesel
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",Auto Moto TV
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Belgesel",Auto Moto TV
 http://100automoto.tv:1935/bgtv1/Stream1/playlist.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",Tarih Tv
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",TRT Belgesel
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",TGRT Belgesel
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",Yaban Tv
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",Çifçi Tv
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",Tarım Tv
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",Köy Tv
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",Toprak Tv
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Dizi 7/24",TV 7
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Dizi 7/24",Dizi Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Belgesel",Tarih Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Belgesel",TRT Belgesel
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Belgesel",TGRT Belgesel
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Belgesel",Yaban Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Belgesel",Çifçi Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Belgesel",Tarım Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Belgesel",Köy Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Belgesel",Toprak Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Dizi 7/24",TV 7
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Dizi 7/24",Dizi Tv
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Dizi 7/24",Tabi Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Dizi 7/24",Tabi Tv
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8?sid=aePzYBwko0uFy0f8miUVmA
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Dizi 7/24",BLU 1
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",FX
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Dizi 7/24",BLU 1
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Sinevizyon",FX
 https://saran-live.ercdn.net/fx/index.m3u8
-#EXTINF:-1 tvg-id="73" tvg-logo="" tvg-name="Cine6 Max" group-title="⚡Sinevizyon",Cine6 Max HD
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="73" tvg-logo="" tvg-name="Cine6 Max" group-title="⚡Sinevizyon",Cine6 Max HD
 https://canli.cinemax6.com:3220/stream/play.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Cine6
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Sinevizyon",Cine6
 https://canli.cine6tv.com.tr:3614/stream/play.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Kanal 10
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Sinevizyon",Kanal 10
 https://hls.goodgame.ru/hls/214750.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Tv1
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Sinevizyon",Tv1
 https://ip100.radyotelekomtv.com:3982/stream/play.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Tv2
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Sinevizyon",Tv2
 https://ip100.radyotelekomtv.com:3276/stream/play.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Torba Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Sinevizyon",Torba Tv
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=12969&.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Life Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Sinevizyon",Life Tv
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Rize Türk TV
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Sinevizyon",Rize Türk TV
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",SuperTurk TV
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Sinevizyon",SuperTurk TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",SDM
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Sinevizyon",SDM
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Tivi Turk
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Sinevizyon",Tivi Turk
 https://canlitvulusal.xyz/live/tiviturk/index.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",isviçre Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Sinevizyon",isviçre Tv
 https://i41.ozelip.com:3269/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Deniz Postası
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Sinevizyon",Deniz Postası
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Tv 4
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Sinevizyon",Tv 4
 https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Tivi 6
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Sinevizyon",Tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Cine 1
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Sinevizyon",Cine 1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",5 OCAK TV
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Sinevizyon",5 OCAK TV
 https://592f1881b3d5f.streamlock.net/5ocaktv/5ocaktv/playlist.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Lebih Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Sinevizyon",Lebih Tv
 https://ip100.radyotelekomtv.com:3982/stream/play.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",
-#EXTINF:-1 group-title="⚡Spor",ASPOR
-#EXTINF:-1 tvg-logo="" group-title=''⚡Spors'',A Spor
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Sinevizyon",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Spor",ASPOR
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title=''⚡Spors'',A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Spor",TivibuSpor
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Spor",TivibuSpor
 https://yayin2.canlitv.fun/live/tivibuspor.stream/chunklist_w1994548946.m3u8?hash=3a7626ac4e4533c3859e63374b96b4a5
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Spor",Sport
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Spor",Sport
 https://217.30.11.74/e/3030.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Spor",Sport2
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Spor",Sport2
 https://217.30.11.74/e/3031.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Spor",Tabii Spor
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Spor",Tabii Spor
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Spor",Tabii Spor1
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Spor",Tabii Spor1
 https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Spor",Tabii Spor2
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Spor",Tabii Spor2
 https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Spor",Tabii Spor3
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Spor",Tabii Spor3
 https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Spor",Tabii Spor4
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Spor",Tabii Spor4
 https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Spor",Tabii Spor5
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Spor",Tabii Spor5
 https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Spor",Tabii Spor6
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Spor",Tabii Spor6
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Spor",TRT Spor
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Spor",TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Spor",TRT Spor Yıldız
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Spor",TRT Spor Yıldız
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Spor",Sports TV
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Spor",Sports TV
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Spor",TRSPOR TV
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Spor",TRSPOR TV
 http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Spor",HT Spor
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Spor",HT Spor
 https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Spor",TJK TV
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Spor",TJK TV
 #EXTVLCOPT:network-caching=1000
 http://tjktv.ercdn.net/tjktv.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Spor",TAY TV
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Spor",TAY TV
 https://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Spor",MonsterJam
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Spor",MonsterJam
 https://4b9627c7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vbnN0ZXJKYW1fSExT/playlist.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Spor",TNA Wrestling
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Spor",TNA Wrestling
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883039
-#EXTINF:-1 tvg-logo="" group-title=''⚡Spors'',DAZN Combat Boks TV
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title=''⚡Spors'',DAZN Combat Boks TV
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-#EXTINF:-1 group-title="⚡Spor",PFL MMA
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Spor",PFL MMA
 https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8
-#EXTINF:-1 group-title="⚡Spor",World Billiards
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Spor",World Billiards
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title=''⚡Spors'',Hard Knocks Fighting
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title=''⚡Spors'',Hard Knocks Fighting
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/2ee2b8d4-acc4-4296-9dc8-66f1ffd0fff8/5.m3u8
-#EXTINF:-1 tvg-logo="" group-title=''⚡Spors'',RedBull TV
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title=''⚡Spors'',RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 tvg-logo="" group-title=''⚡Spors'',FİFA
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title=''⚡Spors'',FİFA
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 group-title="⚡7/24 Yerli Film",Pazarcık Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡7/24 Yerli Film",Pazarcık Tv
 https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
-#EXTINF:-1 group-title="⚡7/24 Yerli Film",Suduragı Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡7/24 Yerli Film",Suduragı Tv
 http://164.132.23.92:22372/suduragitv/suduragitv/sec-f5-v1-a1.m3u8
-#EXTINF:-1 group-title="⚡7/24 Yerli Film",Önde Tv Karadeniz
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡7/24 Yerli Film",Önde Tv Karadeniz
 https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
-#EXTINF:-1 group-title="⚡7/24 Yerli Film",Hoçvan Tv
-#EXTINF:-1 group-title="⚡7/24 Yerli Film", Amedia Tv
-#EXTINF:-1 group-title="⚡7/24 Yerli Film",(TR) Adile Naşit 1
-#EXTINF:-1 group-title="⚡7/24 Yerli Film",Mega Tv
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Azerbaijan",
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Azerbaijan",
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Azerbaijan",
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Azerbaijan",
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Azerbaijan",
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Azerbaijan",
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Azerbaijan",
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Azerbaijan",
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Azerbaijan",
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Azerbaijan",
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Azerbaijan",
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Azerbaijan",
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Azerbaijan",
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Azerbaijan",
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Azerbaijan",
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Azerbaijan",
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Azerbaijan",
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Azerbaijan",
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Azerbaijan",
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Azerbaijan",
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Azerbaijan",
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Azerbaijan",
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Azerbaijan",
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Azerbaijan",
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Azerbaijan",
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Azerbaijan",
-#EXTINF:-1 tvg-logo="" group-title="⚡Animasyon Filmler",Ejderhanı Nasıl Eğitirsin 2010
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡7/24 Yerli Film",Hoçvan Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡7/24 Yerli Film", Amedia Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡7/24 Yerli Film",(TR) Adile Naşit 1
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡7/24 Yerli Film",Mega Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Azerbaijan",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Azerbaijan",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Azerbaijan",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Azerbaijan",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Azerbaijan",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Azerbaijan",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Azerbaijan",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Azerbaijan",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Azerbaijan",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Azerbaijan",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Azerbaijan",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Azerbaijan",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Azerbaijan",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Azerbaijan",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Azerbaijan",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Azerbaijan",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Azerbaijan",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Azerbaijan",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Azerbaijan",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Azerbaijan",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Azerbaijan",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Azerbaijan",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Azerbaijan",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Azerbaijan",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Azerbaijan",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Azerbaijan",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Animasyon Filmler",Ejderhanı Nasıl Eğitirsin 2010
 https://vidmody.com/vs/tt0892769
-#EXTINF:-1 tvg-logo="" group-title="⚡Animasyon Filmler",Ejderhanı Nasıl Eğitirsin 2 2014
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Animasyon Filmler",Ejderhanı Nasıl Eğitirsin 2 2014
 https://vidmody.com/vs/tt1646971
-#EXTINF:-1 tvg-logo="" group-title="⚡Animasyon Filmler",Ejderhanı Nasıl Eğitirsin 3: Gizli Dünya 2019
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Animasyon Filmler",Ejderhanı Nasıl Eğitirsin 3: Gizli Dünya 2019
 https://vidmody.com/vs/tt2386490
-#EXTINF:-1 tvg-logo="" group-title="⚡Animasyon Filmler",Minyonlar 2015
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Animasyon Filmler",Minyonlar 2015
 https://vidmody.com/vs/tt2293640
-#EXTINF:-1 tvg-logo="" group-title="⚡Animasyon Filmler",Şrek 1 2001
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Animasyon Filmler",Şrek 1 2001
 https://vidmody.com/vs/tt0126029
-#EXTINF:-1 tvg-logo="" group-title="⚡Animasyon Filmler",Şrek 2 2004
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Animasyon Filmler",Şrek 2 2004
 https://vidmody.com/vs/tt0298148
-#EXTINF:-1 tvg-logo="" group-title="⚡Animasyon Filmler",Şrek 3 2007
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Animasyon Filmler",Şrek 3 2007
 https://vidmody.com/vs/tt0413267
-#EXTINF:-1 tvg-logo="" group-title="⚡Animasyon Filmler",Şrek 4 Sonsuza Dek Mutlu 2010
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Animasyon Filmler",Şrek 4 Sonsuza Dek Mutlu 2010
 https://vidmody.com/vs/tt1794954
-#EXTINF:-1 tvg-logo="" group-title="⚡Animasyon Filmler",
-#EXTINF:-1 tvg-logo="" group-title="⚡Animasyon Filmler",
-#EXTINF:-1 tvg-logo="" group-title="⚡Animasyon Filmler",
-#EXTINF:-1 tvg-logo="" group-title="⚡Animasyon Filmler",
-#EXTINF:-1 tvg-logo="" group-title="⚡Animasyon Filmler",
-#EXTINF:-1 tvg-logo="" group-title="⚡Animasyon Filmler",
-#EXTINF:-1 tvg-logo="" group-title="⚡Animasyon Filmler",
-#EXTINF:-1 tvg-logo="" group-title="⚡Animasyon Filmler",
-#EXTINF:-1 tvg-logo="" group-title="⚡Animasyon Filmler",
-#EXTINF:-1 tvg-logo="" group-title="⚡Animasyon Filmler",
-#EXTINF:-1 tvg-logo="" group-title="⚡Animasyon Filmler",
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",EZGI  Müzik
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Animasyon Filmler",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Animasyon Filmler",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Animasyon Filmler",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Animasyon Filmler",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Animasyon Filmler",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Animasyon Filmler",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Animasyon Filmler",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Animasyon Filmler",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Animasyon Filmler",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Animasyon Filmler",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Animasyon Filmler",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yerli Muzik",EZGI  Müzik
 https://live.euromediacenter.com/ezgitv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Myway Müzik
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yerli Muzik",Myway Müzik
 https://ip100.radyotelekomtv.com:3911/stream/play.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Azerbaycan müzik
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yerli Muzik",Azerbaycan müzik
 https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",4Turkpop
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yerli Muzik",4Turkpop
 https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Yansıma Müzik
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yerli Muzik",Yansıma Müzik
 https://hls.goodgame.ru/hls/214752.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",TRT Muzik
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yerli Muzik",TRT Muzik
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Kral Pop Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yerli Muzik",Kral Pop Tv
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_480p.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",NR 1
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yerli Muzik",NR 1
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",NR 1 Damar
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yerli Muzik",NR 1 Damar
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Power Turk
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yerli Muzik",Power Turk
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Power Turk Slow
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yerli Muzik",Power Turk Slow
 https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Power Turk Taptaze
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yerli Muzik",Power Turk Taptaze
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Powertürk Akustik
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yerli Muzik",Powertürk Akustik
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Slow Karadeniz
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yerli Muzik",Slow Karadeniz
 https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Dream Turk
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yerli Muzik",Dream Turk
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Damar Web
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yerli Muzik",Damar Web
 https://tvsms.club/tv.php?kanal=damar&file=.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Arabesk Web
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yerli Muzik",Arabesk Web
 https://tvsms.club/tv.php?kanal=arabeskyeni&file=.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Sıla Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yerli Muzik",Sıla Tv
 https://tvsms.club/tv.php?kanal=silatv&file=.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Güclü  Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yerli Muzik",Güclü  Tv
 https://tvsms.club/tv.php?kanal=zeynotv&file=.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Dost Web
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yerli Muzik",Dost Web
 https://tvsms.club/tvz.php?kanal=dost&file=.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Toppop
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yerli Muzik",Toppop
 https://tvsms.club/tvz.php?kanal=toppop&file=.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Ezo Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yerli Muzik",Ezo Tv
 https://tvsms.club/tvz.php?kanal=ezo&file=.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Arma Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yerli Muzik",Arma Tv
 https://tvsms.club/tvz.php?kanal=arma&file=.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Genc Sms
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yerli Muzik",Genc Sms
 https://tvsms.club/tv.php?kanal=genctv&file=.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Aviva Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yerli Muzik",Aviva Tv
 https://tvsms.club/tv.php?kanal=vivatv&file=.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Finest Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yerli Muzik",Finest Tv
 http://media.finest.tv/hls/live.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Fora Tv
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Mega Tv
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yabancı Muzik",Now Tv 80Ler
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yerli Muzik",Fora Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yerli Muzik",Mega Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yabancı Muzik",Now Tv 80Ler
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yabancı Muzik",STRANA TV
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yabancı Muzik",STRANA TV
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yabancı Muzik",V2 BEAT
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yabancı Muzik",V2 BEAT
 https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yabancı Muzik",BANOVİNA TV
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yabancı Muzik",BANOVİNA TV
 https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yabancı Muzik",STRANA FM
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yabancı Muzik",STRANA FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yabancı Muzik",OCKO EXPRES
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yabancı Muzik",OCKO EXPRES
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/live_hq.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yabancı Muzik",Nick Music
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yabancı Muzik",Nick Music
 http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yabancı Muzik",SPIRIT TV MUSIC
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yabancı Muzik",SPIRIT TV MUSIC
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8?checkedby:MyWay
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yabancı Muzik",Level Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yabancı Muzik",Level Tv
 https://pro.free.hr:3464/live/l69plive.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yabancı Muzik",nashville-country
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yabancı Muzik",nashville-country
 https://hls.showfer.com/stream/resolution/2500/1280x720/63e7ca2d6e33cf5f07659f36/airy.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yabancı Muzik",pulse-rock
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yabancı Muzik",pulse-rock
 https://dotfvxkfj90ca.cloudfront.net/programming/pulserocknew/chunklist.m3u8?token=f22db40c-a819-49f2-8b25-d636afcabaf6&streamSessionId=943c34d1-62ec-4bd0-ab1b-d89ce5422d7f&code=TELEATLANTIC&expires=1740700800000&playUrl=true&ctrl=6542319cd9e87957f8f5bed793812cbea2e07593dd0f0a5ae6a23e880e520c8a6fc74ebe9b987d0108c08ed82400d708307686a74bb97d363b1690fa53a157e7
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yabancı Muzik",Hype Radio
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yabancı Muzik",Hype Radio
 https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yabancı Muzik",MTV Classic East
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yabancı Muzik",MTV Classic East
 https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yabancı Muzik",Stingray DJAZZ
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yabancı Muzik",Stingray DJAZZ
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yabancı Muzik",Stingray Hit List
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yabancı Muzik",Stingray Hit List
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yabancı Muzik",Power Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yabancı Muzik",Power Tv
 http://stream.tvcdn.net/muzik/power-tv.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yabancı Muzik",Number One TV
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yabancı Muzik",Number One TV
 http://stream.tvcdn.net/muzik/number-one-tv.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yabancı Muzik",Power Love
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yabancı Muzik",Power Love
 http://stream.tvcdn.net/muzik/power-love.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yabancı Muzik",Now Music
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yabancı Muzik",Now Music
 https://a8.radyotelekom.com.tr:3513/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yabancı Muzik",SKY FOLK
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yabancı Muzik",SKY FOLK
 https://us.live.skyfolk.mk/live.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yabancı Muzik",PMC
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yabancı Muzik",PMC
 https://hls.pmchd.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yabancı Muzik",ARABİCA
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yabancı Muzik",ARABİCA
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yabancı Muzik",V II
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yabancı Muzik",V II
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yabancı Muzik",VEVO POP
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yabancı Muzik",VEVO POP
 https://d3vxz540ozij3t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lv1qzgyv0ee39/playlist.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yabancı Muzik",VEVO HİP RB
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yabancı Muzik",VEVO HİP RB
 https://d3mzlmrngyf08j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-55k4m9whplndi/playlist.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yabancı Muzik",SKYFOLK
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yabancı Muzik",SKYFOLK
 https://us.live.skyfolk.mk/live.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yabancı Muzik",BANOVİNA TV
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yabancı Muzik",BANOVİNA TV
 https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yabancı Muzik",
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yabancı Muzik",
-#EXTINF:-1 tvg-logo="" group-title="⚡Radyo"Radyo",Radyo 45lik
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yabancı Muzik",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="tv logo" group-title="⚡Yabancı Muzik",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Radyo"Radyo",Radyo 45lik
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=dk_uf4o2atY
-#EXTINF:-1 tvg-logo="" group-title="⚡Radyo"Radyo",Baba Radyo
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Radyo"Radyo",Baba Radyo
 https://babaradyo.turkhosted.com/best/babaradyo.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚡Radyo"Radyo",Kafa Radyo
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Radyo"Radyo",Kafa Radyo
 https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚡Radyo"Radyo",Kral Pop
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Radyo"Radyo",Kral Pop
 https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/chunklist_w1813872028_b128000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚡Radyo"Radyo",Power Turk
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Radyo"Radyo",Power Turk
 https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚡Radyo"Radyo",Pal Nostalji
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Radyo"Radyo",Pal Nostalji
 https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚡Radyo"Radyo",Radyo D
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Radyo"Radyo",Radyo D
 https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚡Radyo"Radyo",Fenomen Türk
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Radyo"Radyo",Fenomen Türk
 https://live.radyofenomen.com/fenomenturk/abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚡Radyo"Radyo",Power - Pop
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Radyo"Radyo",Power - Pop
 https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚡Radyo"Radyo",Radyo Fenomen
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Radyo"Radyo",Radyo Fenomen
 https://live.radyofenomen.com/fenomen/abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚡Radyo"Radyo",Best Fm
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Radyo"Radyo",Best Fm
 https://wowza1.radyotvonline.com/best/bestfm.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚡Radyo"Radyo",Radyo Turkuvaz
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Radyo"Radyo",Radyo Turkuvaz
 https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title=""⚡Radyo"Pal Station
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title=""⚡Radyo"Pal Station
 https://moondigitaledge.radyotvonline.net/palstation/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚡Radyo"Radyo",Power Plus
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Radyo"Radyo",Power Plus
 https://listen.powerapp.com.tr/powerplus/abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚡Radyo"Radyo",Pal FM
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Radyo"Radyo",Pal FM
 https://moondigitaledge.radyotvonline.net/palfm/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚡Radyo"Radyo",Power - Love
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Radyo"Radyo",Power - Love
 https://listen.powerapp.com.tr/powerlove/abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚡Radyo"Radyo",Full FM Türkiye
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Radyo"Radyo",Full FM Türkiye
 https://listen.powerapp.com.tr/powerdance/abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚡Radyo"Radyo",Radyo 34
-#EXTINF:-1 tvg-logo="" group-title="⚡Radyo"Radyo",Karadeniz FM
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Radyo"Radyo",Radyo 34
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Radyo"Radyo",Karadeniz FM
 https://moondigitaledge.radyotvonline.net/karadenizfm/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚡Radyo"Radyo",Fenerbahçe FM
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Radyo"Radyo",Fenerbahçe FM
 https://ssl4.radyotvonline.com/radyohome/radyofenerbahcehome.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚡Radyo"Radyo",Radyo Voyage
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Radyo"Radyo",Radyo Voyage
 https://ssldyg.radyotvonline.com/pozitif/smil:voyage.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚡Radyo"Radyo",Baba Radyo
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Radyo"Radyo",Baba Radyo
 https://babaradyo.turkhosted.com/best/babaradyo.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚡Radyo"Radyo",Arabeskland Radyo
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Radyo"Radyo",Arabeskland Radyo
 https://moondigitaledge.radyotvonline.net/arabeskland/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚡Radyo"Radyo",Efsane
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Radyo"Radyo",Efsane
 https://moondigitaledge.radyotvonline.net/efsane4lu/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚡Radyo"Radyo",Karadeniz FM İstanbul
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Radyo"Radyo",Karadeniz FM İstanbul
 https://moondigitalmaster.radyotvonline.net/karadenizfm/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚡Radyo"Radyo",90 Lar FM
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Radyo"Radyo",90 Lar FM
 https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚡Radyo"Radyo",AKUSTiK
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Radyo"Radyo",AKUSTiK
 https://moondigitaledge.radyotvonline.net/akustikland/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚡Radyo"Radyo",ANKARA OYUN HAVALARI
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Radyo"Radyo",ANKARA OYUN HAVALARI
 https://moondigitalmaster.radyotvonline.net/ankarahavalari/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚡Radyo"Radyo",ALTIN FM
-#EXTINF:-1 tvg-logo="" group-title="⚡Radyo"Radyo",
-#EXTINF:-1 tvg-logo="" group-title="⚡Radyo"Radyo",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Radyo"Radyo",ALTIN FM
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Radyo"Radyo",
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="" group-title="⚡Radyo"Radyo",
