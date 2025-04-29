@@ -83,8 +83,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1993
 https://live.euromediacenter.com/kanal34/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="KRTTV.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",KRT TV
 http://51.20.137.71/yt/yt.m3u8?kanal=@krtcanli
-#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="HalkTV.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",YOL Tv
-https://iptv.amgsmart2home.de/YOLTVMAIN/index.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="HalkTV.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",Sözcü Tv
 http://51.20.137.71/yt/yt.m3u8?kanal=@sozcutelevizyonu
 # ? https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ztmY_cCtUl0
@@ -132,12 +130,15 @@ https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",FİNANS TÜRK
 https://yayin30.haber100.com/live/finansturk/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="HalkTV.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",YOL Tv
+https://iptv.amgsmart2home.de/YOLTVMAIN/index.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",TBMM
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Cizgi Film",Disney Jr. TR
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Cizgi Film",CARTOON NETWORK
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6846/index.m3u8
+http://51.20.137.71/stream/yt/cartoonnetwork.m3u8
+# ? http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6846/index.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Cizgi Film",MINIKA GO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Cizgi Film",MINIKA ÇOCUK
@@ -146,18 +147,10 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Cizgi Film",DIYANET ÇOCUK
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Cizgi Film",Nick Jr TR
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6847/index.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Cizgi Film",Cartoonito TR
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6850/index.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Cizgi Film",Nickelodeon TR
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6848/index.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Cizgi Film",Baby tv
 https://saran-live.ercdn.net/babytv/index.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Cizgi Film",Duck tv
 https://jmp2.uk/sam-ESBC4700001GR.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Belgesel",Bein Gurme
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6804/index.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Belgesel",Belgesel Tv
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 # ? http://stream.tvcdn.net/eglence/belgesel-tv.m3u8
@@ -186,6 +179,20 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 # ? http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Dizi 7/24",Tabi Tv
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8?sid=aePzYBwko0uFy0f8miUVmA
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Dizi 7/24",Cennet Mahalesi
+http://51.20.137.71/stream/yt2/cennetmahallesishowtv.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Dizi 7/24",Çok Güzel Hareketler Bunlar
+http://51.20.137.71/stream/yt2/cokguzelhareketlerbunlar.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Dizi 7/24",Sihirli Annem
+http://51.20.137.71/stream/yt2/sihirliannemkanald.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Dizi 7/24",Selena
+http://51.20.137.71/stream/yt2/selena.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Dizi 7/24",Yalan Dünya
+http://51.20.137.71/stream/yt2/yalandunyakanald.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Dizi 7/24",7. Numara
+http://51.20.137.71/stream/yt2/yedinumaradizisi.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Dizi 7/24",Avrupa Yakası
+http://51.20.137.71/stream/yt2/avrupayakasi.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",FX
 https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="73" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-name="Cine6 Max" group-title="⚡Sinevizyon",Cine6 Max HD
@@ -229,8 +236,6 @@ https://592f1881b3d5f.streamlock.net/5ocaktv/5ocaktv/playlist.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title=''⚡Spors'',A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 # ? https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Spor",TivibuSpor
-https://yayin2.canlitv.fun/live/tivibuspor.stream/chunklist_w1994548946.m3u8?hash=3a7626ac4e4533c3859e63374b96b4a5
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Spor",Sport
 https://217.30.11.74/e/3030.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Spor",Sport2
@@ -297,6 +302,8 @@ https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
 https://ip100.radyotelekomtv.com:3982/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="⚡7/24 Yerli Film",Tv2
 https://ip100.radyotelekomtv.com:3276/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="⚡7/24 Yerli Film", Kemal Sunal
+http://51.20.137.71/stream/yt2/kemalsunal.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Animasyon Filmler",Ejderhanı Nasıl Eğitirsin 2010
 https://vidmody.com/vs/tt0892769
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Animasyon Filmler",Ejderhanı Nasıl Eğitirsin 2 2014
