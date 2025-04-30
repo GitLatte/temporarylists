@@ -200,9 +200,6 @@ https://canli.cinemax6.com:3220/stream/play.m3u8
 # ? https://ip100.radyotelekomtv.com:3220/stream/play.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Cine6
 https://canli.cine6tv.com.tr:3614/stream/play.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Kanal 10
-https://cdn01.mylive.in.th/tc1/live/161760/161760-360p.m3u8
-# ? https://hls.goodgame.ru/hls/214750.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Torba Tv
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=12969&.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Life Tv
