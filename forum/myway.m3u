@@ -82,6 +82,8 @@ https://live.euromediacenter.com/hurtv/tracks-v1a1/mono.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1993
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Ulusal",Kanal 34
 https://live.euromediacenter.com/kanal34/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Ulusal",Kanal6
+https://cdn4.yayin.com.tr/channel6tv/index.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="KRTTV.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",KRT TV
 http://13.60.64.58/stream/yt/krt.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="HalkTV.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",Sözcü Tv
@@ -393,7 +395,7 @@ https://vidmody.com/vs/tt0298148
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Animasyon Filmler",Şrek 3 2007
 https://vidmody.com/vs/tt0413267
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Animasyon Filmler",Şrek 4 Sonsuza Dek Mutlu 2010
-https://vidmody.com/vs/tt1794954
+https://vidmody.com/vs/tt0892791/
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yerli Muzik",EZGI  Müzik
 https://live.euromediacenter.com/ezgitv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yerli Muzik",Myway Müzik
