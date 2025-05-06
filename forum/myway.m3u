@@ -84,6 +84,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1993
 https://live.euromediacenter.com/kanal34/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Ulusal",Kanal6
 https://cdn4.yayin.com.tr/channel6tv/index.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="HalkTV.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",Sözcü Tv
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ztmY_cCtUl0
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="HalkTV.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="Tele1.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",Tele 1
