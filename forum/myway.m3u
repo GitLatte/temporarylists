@@ -136,6 +136,14 @@ https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 # ? https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="HalkTV.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",YOL Tv
 https://iptv.amgsmart2home.de/YOLTVMAIN/index.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",Sürmanşet Haber Tv
+https://live.euromediacenter.com/surmansethabertv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",Üreten Türkiye
+https://live.euromediacenter.com/uretenturkiye/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",Balkan Türk
+https://live.euromediacenter.com/balkanturktv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",HDH TÜRK
+https://live.euromediacenter.com/hdhturk/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",TBMM
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Cizgi Film",Disney Jr. TR
@@ -225,6 +233,8 @@ https://host.onlineradyotv.net:8081/sdmtv3/tracks-v1a1/mono.m3u8
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Belgesel",Yaban Tv
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=12044&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Belgesel",Gurme Tv
+https://live.euromediacenter.com/gurmetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Dizi 7/24",Dizi Tv
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 # ? http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
