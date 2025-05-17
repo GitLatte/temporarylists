@@ -88,8 +88,11 @@ https://live.euromediacenter.com/kanal34/tracks-v1a1/mono.m3u8
 https://cdn4.yayin.com.tr/channel6tv/index.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Ulusal",M Türk
 https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="KRTTV.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",KRT TV
+https://tls.tc/lTVb4
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="HalkTV.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",Sözcü Tv
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ztmY_cCtUl0
+https://tls.tc/NV3aU
+# ? https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ztmY_cCtUl0
 # ? https://koprulu2.global.ssl.fastly.net/app7/ctv.m3u8/?url=https://tv.canlitv.vip/sozcu-tv-canli
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="HalkTV.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
@@ -165,6 +168,10 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 https://saran-live.ercdn.net/babytv/index.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Cizgi Film",Duck tv
 https://jmp2.uk/sam-ESBC4700001GR.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Cizgi Film",Spacetoon
+https://tls.tc/lJDm3
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Cizgi Film",Da Vincii
+https://tls.tc/CmFOk
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="89" tvg-name="NATIONAL GEO HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Rec Belgesel", NATIONAL GEO HD
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
