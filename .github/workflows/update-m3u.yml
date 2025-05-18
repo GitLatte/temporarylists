@@ -164,6 +164,7 @@ jobs:
                   'MOROCCO': 'Fas',
                   'TUNISIA': 'Tunus',
                   'ALGERIA': 'Cezayir',
+                  'AFRICA': 'Afrika',
                   'SOUTH AFRICA': 'Güney Afrika',
                   'NIGERIA': 'Nijerya',
                   'KENYA': 'Kenya',
@@ -186,12 +187,15 @@ jobs:
                   'BRAZIL': 'Brezilya',
                   'ARGENTINA': 'Arjantin',
                   'CHILE': 'Şili',
-                  'COLOMBIA': 'Kolombiya',
+                  'COLUMBIA': 'Kolombiya',
                   'PERU': 'Peru',
                   'VENEZUELA': 'Venezuela',
                   'MEXICO': 'Meksika',
                   'OTHERS': 'Diğer',
-                  'CANADA': 'Kanada'
+                  'CANADA': 'Kanada',
+                  'CYPRUS': 'Kıbrıs',
+                  'ICELAND': 'İzlanda',
+                  'IRELAND': 'İrlanda'
               }
 
               language_map = {
@@ -240,6 +244,7 @@ jobs:
                   'MOROCCO': 'AR',
                   'TUNISIA': 'AR',
                   'ALGERIA': 'AR',
+                  'AFRICA': 'EN',
                   'SOUTH AFRICA': 'EN',
                   'NIGERIA': 'EN',
                   'KENYA': 'EN',
@@ -262,11 +267,15 @@ jobs:
                   'BRAZIL': 'PT',
                   'ARGENTINA': 'ES',
                   'CHILE': 'ES',
-                  'COLOMBIA': 'ES',
+                  'COLUMBIA': 'ES',
                   'PERU': 'ES',
                   'VENEZUELA': 'ES',
                   'MEXICO': 'ES',
-                  'CANADA': 'EN'
+                  'OTHERS': 'EN',
+                  'CANADA': 'EN',
+                  'CYPRUS': 'EL',
+                  'ICELAND': 'IS',
+                  'IRELAND': 'EN'
               }
 
               buffer_lines = []
@@ -308,7 +317,7 @@ jobs:
                               line = line.replace('#EXTINF:-1', f'#EXTINF:-1 tvg-language="{language}"')
 
                           # Grup başlığını Türkçeleştir
-                          line = re.sub('group-title="[^"]*"', f'group-title="{translated_country}"', line)
+                          line = re.sub('group-title="[^"]*"', f'group-title="{translated_country} Spor Kawnalları"', line)
 
                           if group == 'TURKEY':
                               include_next = True
