@@ -239,7 +239,7 @@ jobs:
 
               return '\n'.join(filtered_lines)
 
-          bein_content = fetch_m3u_content('https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/daddylive-channels.m3u8')
+          bein_content = fetch_m3u_content('https://iptv-scraper-re.vercel.app/daddylive/channels')
           if bein_content:
               filtered_bein = filter_sports_channels(bein_content)
               write_file('dl/dl-beinsports.m3u', filtered_bein)
