@@ -190,6 +190,7 @@ jobs:
                   'PERU': 'Peru',
                   'VENEZUELA': 'Venezuela',
                   'MEXICO': 'Meksika',
+                  'OTHERS': 'Diğer',
                   'CANADA': 'Kanada'
               }
 
