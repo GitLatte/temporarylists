@@ -317,7 +317,7 @@ jobs:
                               line = line.replace('#EXTINF:-1', f'#EXTINF:-1 tvg-language="{language}"')
 
                           # Grup başlığını Türkçeleştir
-                          line = re.sub('group-title="[^"]*"', f'group-title="{translated_country} Spor Kanalları"', line)
+                          line = re.sub('group-title="[^"]*"', f'group-title="{translated_country} Kanalları"', line)
 
                           if group == 'TURKEY':
                               include_next = True
