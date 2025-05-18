@@ -38,145 +38,12 @@ jobs:
                   print(f"Error fetching {url}: {e}")
                   return None
 
-          def filter_sports_channels(content):
-              lines = content.split('\n')
-              filtered_lines = ['#EXTM3U']
-              turkey_lines = []
-              country_lines = {}
-              current_group = None
-              current_tvg_id = None
-              include_next = False
-              buffer_lines = []
-
-              group_translations = {
-                  'france': 'Fransa',
-                  'portugal': 'Portekiz',
-                  'russia': 'Rusya',
-                  'turkey': 'Türkiye',
-                  'netherlands': 'Hollanda',
-                  'united states': 'Amerika Birleşik Devletleri'
-              }
-
-              def add_buffered_lines(target_list):
-                  nonlocal buffer_lines
-                  if buffer_lines:
-                      target_list.extend(buffer_lines)
-                      buffer_lines = []
-
-              for line in lines:
-                  if line.startswith('#EXTINF'):
-                      # Eğer önceki kanalın buffer'ı varsa, onu uygun listeye ekle
-                      if buffer_lines:
-                          if len(turkey_lines) > 0 and turkey_lines[-1].startswith('#EXTINF'):
-                              add_buffered_lines(turkey_lines)
-                          else:
-                              for country_list in country_lines.values():
-                                  if len(country_list) > 0 and country_list[-1].startswith('#EXTINF'):
-                                      add_buffered_lines(country_list)
-                                      break
-                          buffer_lines = []
-
-                      include_next = False
-                      current_group = re.search('group-title="([^"]+)"', line)
-                      current_tvg_id = re.search('tvg-id="([^"]+)"', line)
-                      channel_name = re.search(',\s*([^,\n]+)$', line)
-                      
-                      if current_tvg_id and current_tvg_id.group(1).endswith('.tr'):
-                          include_next = True
-                          modified_line = line
-                          if current_group:
-                              new_group = 'Türkiye-Futbol'
-                              modified_line = re.sub('group-title="[^"]*"', f'group-title="{new_group}"', line)
-                          turkey_lines.append(modified_line)
-                      
-                      if current_group:
-                          group = current_group.group(1).lower()
-                          line_lower = line.lower()
-                          channel_name_lower = channel_name.group(1).lower() if channel_name and channel_name.group(1) else ''
-                          
-                          for old_name, new_name in group_translations.items():
-                              if old_name in group.lower():
-                                  if (old_name == 'france' and 'bein' in channel_name_lower) or \
-                                     (old_name == 'portugal' and 'sport tv' in channel_name_lower) or \
-                                     (old_name == 'russia' and 'match' in channel_name_lower) or \
-                                     (old_name == 'netherlands' and 'ziggo sport' in channel_name_lower) or \
-                                     ('beinsports.us' in line_lower):
-                                      include_next = True
-                                      modified_line = line
-                                      new_group = f'{new_name}-Futbol'
-                                      modified_line = re.sub('group-title="[^"]*"', f'group-title="{new_group}"', line)
-                                      if new_name not in country_lines:
-                                          country_lines[new_name] = []
-                                      country_lines[new_name].append(modified_line)
-                                      break
-                  
-                  elif (line.startswith('#EXTVLCOPT') or line.startswith('http')) and include_next:
-                      buffer_lines.append(line)
-                      if line.startswith('http'):
-                          include_next = False
-
-              # Son kanalın buffer'ını ekle
-              if buffer_lines:
-                  if len(turkey_lines) > 0 and turkey_lines[-1].startswith('#EXTINF'):
-                      add_buffered_lines(turkey_lines)
-                  else:
-                      for country_list in country_lines.values():
-                          if len(country_list) > 0 and country_list[-1].startswith('#EXTINF'):
-                              add_buffered_lines(country_list)
-                              break
-
-              # Önce Türkiye kanallarını ekle
-              filtered_lines.extend(turkey_lines)
-              
-              # Diğer ülkelerin kanallarını sırayla ekle
-              for country_name in sorted(country_lines.keys()):
-                  filtered_lines.extend(country_lines[country_name])
-              
-              return '\n'.join(filtered_lines)
-
-          def process_events(content):
-              lines = content.split('\n')
-              processed_lines = []
-              include_next = False
-
-              for line in lines:
-                  if line.startswith('#EXTINF'):
-                      # Remove EPG-related attributes but keep other information
-                      line = re.sub('tvg-id="[^"]*"\s*', '', line)
-                      line = re.sub('tvg-name="[^"]*"\s*', '', line)
-                      line = re.sub('tvg-logo="[^"]*"\s*', '', line)
-                      include_next = True
-                      processed_lines.append(line)
-                  elif line.startswith('#EXTM3U'):
-                      processed_lines.append('#EXTM3U')
-                  elif line.startswith('#EXTVLCOPT') and include_next:
-                      processed_lines.append(line)
-                  elif line.startswith('http') and include_next:
-                      processed_lines.append(line)
-                      include_next = False
-
-              return '\n'.join(processed_lines)
-
           def write_file(file_path, content):
               os.makedirs(os.path.dirname(file_path), exist_ok=True)
               with open(file_path, 'w', encoding='utf-8') as f:
                   f.write(content)
               print(f"File updated: {file_path}")
 
-          def merge_m3u_files(file1_path, file2_path):
-              try:
-                  with open(file1_path, 'r', encoding='utf-8') as f1:
-                      content1 = f1.read()
-                  with open(file2_path, 'r', encoding='utf-8') as f2:
-                      content2 = f2.read()
-                  
-                  # Remove #EXTM3U from the second file to avoid duplication
-                  content2 = content2.replace('#EXTM3U\n', '')
-                  
-                  return content1 + '\n' + content2
-              except Exception as e:
-                  print(f"Error merging files: {e}")
-                  return None
 
           def process_myway_content(content):
               lines = content.split('\n')
@@ -239,20 +106,247 @@ jobs:
 
               return '\n'.join(filtered_lines)
 
-          bein_content = fetch_m3u_content('https://iptv-scraper-re.vercel.app/daddylive/channels')
-          if bein_content:
-              filtered_bein = filter_sports_channels(bein_content)
-              write_file('dl/dl-beinsports.m3u', filtered_bein)
+          # Daddylive kanallarını al
+          daddylive_content = fetch_m3u_content('${{ secrets.DADDYLIVE_URL }}')
+          if daddylive_content:
+              lines = daddylive_content.split('\n')
+              filtered_lines = ['#EXTM3U']
+              turkey_lines = []
+              bein_lines = []
+              other_lines = {}
+              current_group = None
+              include_next = False
+              buffer_lines = []
 
-          events_content = fetch_m3u_content('https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/daddylive-events.m3u8')
-          if events_content:
-              processed_events = process_events(events_content)
-              write_file('dl/dl-events.m3u', processed_events)
+              country_translations = {
+                  'UNITED STATES': 'Amerika Birleşik Devletleri',
+                  'UNITED KINGDOM': 'Birleşik Krallık',
+                  'GERMANY': 'Almanya',
+                  'FRANCE': 'Fransa',
+                  'ITALY': 'İtalya',
+                  'SPAIN': 'İspanya',
+                  'NETHERLANDS': 'Hollanda',
+                  'PORTUGAL': 'Portekiz',
+                  'BELGIUM': 'Belçika',
+                  'DENMARK': 'Danimarka',
+                  'NORWAY': 'Norveç',
+                  'SWEDEN': 'İsveç',
+                  'FINLAND': 'Finlandiya',
+                  'AUSTRIA': 'Avusturya',
+                  'SWITZERLAND': 'İsviçre',
+                  'GREECE': 'Yunanistan',
+                  'POLAND': 'Polonya',
+                  'CZECH REPUBLIC': 'Çek Cumhuriyeti',
+                  'HUNGARY': 'Macaristan',
+                  'ROMANIA': 'Romanya',
+                  'BULGARIA': 'Bulgaristan',
+                  'CROATIA': 'Hırvatistan',
+                  'SERBIA': 'Sırbistan',
+                  'SLOVENIA': 'Slovenya',
+                  'SLOVAKIA': 'Slovakya',
+                  'BOSNIA AND HERZEGOVINA': 'Bosna Hersek',
+                  'ALBANIA': 'Arnavutluk',
+                  'MACEDONIA': 'Makedonya',
+                  'MONTENEGRO': 'Karadağ',
+                  'RUSSIA': 'Rusya',
+                  'UKRAINE': 'Ukrayna',
+                  'BELARUS': 'Belarus',
+                  'ESTONIA': 'Estonya',
+                  'LATVIA': 'Letonya',
+                  'LITHUANIA': 'Litvanya',
+                  'TURKEY': 'Türkiye',
+                  'QATAR': 'Katar',
+                  'UNITED ARAB EMIRATES': 'Birleşik Arap Emirlikleri',
+                  'SAUDI ARABIA': 'Suudi Arabistan',
+                  'IRAN': 'İran',
+                  'ISRAEL': 'İsrail',
+                  'EGYPT': 'Mısır',
+                  'MOROCCO': 'Fas',
+                  'TUNISIA': 'Tunus',
+                  'ALGERIA': 'Cezayir',
+                  'SOUTH AFRICA': 'Güney Afrika',
+                  'NIGERIA': 'Nijerya',
+                  'KENYA': 'Kenya',
+                  'INDIA': 'Hindistan',
+                  'PAKISTAN': 'Pakistan',
+                  'BANGLADESH': 'Bangladeş',
+                  'SRI LANKA': 'Sri Lanka',
+                  'NEPAL': 'Nepal',
+                  'CHINA': 'Çin',
+                  'JAPAN': 'Japonya',
+                  'SOUTH KOREA': 'Güney Kore',
+                  'THAILAND': 'Tayland',
+                  'VIETNAM': 'Vietnam',
+                  'INDONESIA': 'Endonezya',
+                  'MALAYSIA': 'Malezya',
+                  'PHILIPPINES': 'Filipinler',
+                  'SINGAPORE': 'Singapur',
+                  'AUSTRALIA': 'Avustralya',
+                  'NEW ZEALAND': 'Yeni Zelanda',
+                  'BRAZIL': 'Brezilya',
+                  'ARGENTINA': 'Arjantin',
+                  'CHILE': 'Şili',
+                  'COLOMBIA': 'Kolombiya',
+                  'PERU': 'Peru',
+                  'VENEZUELA': 'Venezuela',
+                  'MEXICO': 'Meksika',
+                  'CANADA': 'Kanada'
+              }
+
+              language_map = {
+                  'UNITED STATES': 'EN',
+                  'UNITED KINGDOM': 'EN',
+                  'GERMANY': 'DE',
+                  'FRANCE': 'FR',
+                  'ITALY': 'IT',
+                  'SPAIN': 'ES',
+                  'NETHERLANDS': 'NL',
+                  'PORTUGAL': 'PT',
+                  'BELGIUM': 'NL',
+                  'DENMARK': 'DA',
+                  'NORWAY': 'NO',
+                  'SWEDEN': 'SV',
+                  'FINLAND': 'FI',
+                  'AUSTRIA': 'DE',
+                  'SWITZERLAND': 'DE',
+                  'GREECE': 'EL',
+                  'POLAND': 'PL',
+                  'CZECH REPUBLIC': 'CS',
+                  'HUNGARY': 'HU',
+                  'ROMANIA': 'RO',
+                  'BULGARIA': 'BG',
+                  'CROATIA': 'HR',
+                  'SERBIA': 'SR',
+                  'SLOVENIA': 'SL',
+                  'SLOVAKIA': 'SK',
+                  'BOSNIA AND HERZEGOVINA': 'BS',
+                  'ALBANIA': 'SQ',
+                  'MACEDONIA': 'MK',
+                  'MONTENEGRO': 'ME',
+                  'RUSSIA': 'RU',
+                  'UKRAINE': 'UK',
+                  'BELARUS': 'BE',
+                  'ESTONIA': 'ET',
+                  'LATVIA': 'LV',
+                  'LITHUANIA': 'LT',
+                  'TURKEY': 'TR',
+                  'QATAR': 'AR',
+                  'UNITED ARAB EMIRATES': 'AR',
+                  'SAUDI ARABIA': 'AR',
+                  'IRAN': 'FA',
+                  'ISRAEL': 'HE',
+                  'EGYPT': 'AR',
+                  'MOROCCO': 'AR',
+                  'TUNISIA': 'AR',
+                  'ALGERIA': 'AR',
+                  'SOUTH AFRICA': 'EN',
+                  'NIGERIA': 'EN',
+                  'KENYA': 'EN',
+                  'INDIA': 'HI',
+                  'PAKISTAN': 'UR',
+                  'BANGLADESH': 'BN',
+                  'SRI LANKA': 'SI',
+                  'NEPAL': 'NE',
+                  'CHINA': 'ZH',
+                  'JAPAN': 'JA',
+                  'SOUTH KOREA': 'KO',
+                  'THAILAND': 'TH',
+                  'VIETNAM': 'VI',
+                  'INDONESIA': 'ID',
+                  'MALAYSIA': 'MS',
+                  'PHILIPPINES': 'FIL',
+                  'SINGAPORE': 'EN',
+                  'AUSTRALIA': 'EN',
+                  'NEW ZEALAND': 'EN',
+                  'BRAZIL': 'PT',
+                  'ARGENTINA': 'ES',
+                  'CHILE': 'ES',
+                  'COLOMBIA': 'ES',
+                  'PERU': 'ES',
+                  'VENEZUELA': 'ES',
+                  'MEXICO': 'ES',
+                  'CANADA': 'EN'
+              }
+
+              def add_buffered_lines(target_list):
+                  nonlocal buffer_lines
+                  if buffer_lines:
+                      target_list.extend(buffer_lines)
+                      buffer_lines = []
+
+              for line in lines:
+                  if line.startswith('#EXTINF'):
+                      if buffer_lines:
+                          if len(turkey_lines) > 0 and turkey_lines[-1].startswith('#EXTINF'):
+                              add_buffered_lines(turkey_lines)
+                          elif len(bein_lines) > 0 and bein_lines[-1].startswith('#EXTINF'):
+                              add_buffered_lines(bein_lines)
+                          else:
+                              for country_list in other_lines.values():
+                                  if len(country_list) > 0 and country_list[-1].startswith('#EXTINF'):
+                                      add_buffered_lines(country_list)
+                                      break
+                          buffer_lines = []
+
+                      include_next = False
+                      current_group = re.search('group-title="([^"]+)"', line)
+                      channel_name = re.search(',\s*([^,\n]+)$', line)
+                      
+                      if current_group:
+                          group = current_group.group(1)
+                          original_country = group
+                          translated_country = country_translations.get(group, group)
+                          language = language_map.get(group, '')
+
+                          # TVG etiketlerini ekle/güncelle
+                          if 'tvg-country=' not in line:
+                              line = line.replace('#EXTINF:-1', f'#EXTINF:-1 tvg-country="{group}"')
+                          if 'tvg-language=' not in line and language:
+                              line = line.replace('#EXTINF:-1', f'#EXTINF:-1 tvg-language="{language}"')
+
+                          # Grup başlığını Türkçeleştir
+                          line = re.sub('group-title="[^"]*"', f'group-title="{translated_country}"', line)
+
+                          if group == 'TURKEY':
+                              include_next = True
+                              turkey_lines.append(line)
+                          elif 'bein' in line.lower():
+                              include_next = True
+                              bein_lines.append(line)
+                          else:
+                              include_next = True
+                              if translated_country not in other_lines:
+                                  other_lines[translated_country] = []
+                              other_lines[translated_country].append(line)
+
+                  elif (line.startswith('#EXTVLCOPT') or line.startswith('http')) and include_next:
+                      buffer_lines.append(line)
+                      if line.startswith('http'):
+                          include_next = False
+
+              # Son kanalın buffer'ını ekle
+              if buffer_lines:
+                  if len(turkey_lines) > 0 and turkey_lines[-1].startswith('#EXTINF'):
+                      add_buffered_lines(turkey_lines)
+                  elif len(bein_lines) > 0 and bein_lines[-1].startswith('#EXTINF'):
+                      add_buffered_lines(bein_lines)
+                  else:
+                      for country_list in other_lines.values():
+                          if len(country_list) > 0 and country_list[-1].startswith('#EXTINF'):
+                              add_buffered_lines(country_list)
+                              break
+
+              # Önce Türkiye kanallarını ekle
+              filtered_lines.extend(turkey_lines)
               
-          # Merge beinsports and events files
-          merged_content = merge_m3u_files('dl/dl-beinsports.m3u', 'dl/dl-events.m3u')
-          if merged_content:
-              write_file('dl/dl-daddyliveall.m3u', merged_content)
+              # Sonra BeIN kanallarını ekle
+              filtered_lines.extend(bein_lines)
+              
+              # Son olarak diğer ülkelerin kanallarını sıralı şekilde ekle
+              for country_name in sorted(other_lines.keys()):
+                  filtered_lines.extend(other_lines[country_name])
+              
+              write_file('dl/dl-daddyliveall.m3u', '\n'.join(filtered_lines))
 
           myway_content = fetch_m3u_content('https://surl.be/myway06')
           if myway_content:
@@ -264,7 +358,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add dl/dl-beinsports.m3u dl/dl-events.m3u dl/dl-daddyliveall.m3u forum/myway.m3u
+          git add dl/dl-daddyliveall.m3u forum/myway.m3u
           git diff --quiet && git diff --staged --quiet || (
             git commit -m "♻️ Listeler güncellendi" -a
             git push
