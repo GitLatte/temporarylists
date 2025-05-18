@@ -300,7 +300,9 @@ jobs:
 
                           # TVG etiketlerini ekle/güncelle
                           if 'tvg-country=' not in line:
-                              line = line.replace('#EXTINF:-1', f'#EXTINF:-1 tvg-country="{group}"')
+                              line = line.replace('#EXTINF:-1', f'#EXTINF:-1 tvg-country="{translated_country}"')
+                          elif 'tvg-country=' in line:
+                              line = re.sub('tvg-country="[^"]*"', f'tvg-country="{translated_country}"', line)
                           if 'tvg-language=' not in line and language:
                               line = line.replace('#EXTINF:-1', f'#EXTINF:-1 tvg-language="{language}"')
 
