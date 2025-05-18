@@ -268,11 +268,11 @@ jobs:
                   'CANADA': 'EN'
               }
 
+              buffer_lines = []
               def add_buffered_lines(target_list):
-                  nonlocal buffer_lines
                   if buffer_lines:
                       target_list.extend(buffer_lines)
-                      buffer_lines = []
+                      buffer_lines.clear()
 
               for line in lines:
                   if line.startswith('#EXTINF'):
@@ -290,7 +290,7 @@ jobs:
 
                       include_next = False
                       current_group = re.search('group-title="([^"]+)"', line)
-                      channel_name = re.search(',\s*([^,\n]+)$', line)
+                      channel_name = re.search(',[[:space:]]*([^,\n]+)$', line)
                       
                       if current_group:
                           group = current_group.group(1)
