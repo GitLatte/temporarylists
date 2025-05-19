@@ -257,6 +257,8 @@ https://vidmody.com/vs/tt32730754/
 https://vidmody.com/vs/tt31459364/
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yerli Sinema",Erdal ile Ece
 https://vidmody.com/vs/tt30504474/
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yerli Sinema",Takıntılar
+https://vidmody.com/vs/tt32127524/
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="67" tvg-name="Moviesmart Turk" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Rec Sinema", Moviesmart Turk
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
