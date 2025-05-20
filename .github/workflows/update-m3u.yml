@@ -8,6 +8,9 @@ on:
 jobs:
   update-m3u:
     runs-on: ubuntu-latest
+    env:
+      HUGGINGFACE_SPACE_ID: ${{ secrets.HUGGINGFACE_SPACE_ID }}
+      HUGGINGFACE_TOKEN: ${{ secrets.HUGGINGFACE_TOKEN }}
     steps:
       - uses: actions/checkout@v4
 
