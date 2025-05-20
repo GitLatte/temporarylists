@@ -384,35 +384,7 @@ jobs:
       - name: Trigger Hugging Face Space Factory Rebuild
         if: success()
         run: |
-          echo "🔄 Hugging Face Space yeniden derleme isteği gönderiliyor..."
-          max_retries=3
-          retry_count=0
-          
-          while [ $retry_count -lt $max_retries ]; do
-            response=$(curl -X POST \
-              -H "Authorization: Bearer ${{ secrets.HUGGINGFACE_TOKEN }}" \
-              -H "Content-Type: application/json" \
-              -w "\n%{http_code}" \
-              "https://huggingface.co/api/spaces/${{ secrets.HUGGINGFACE_SPACE_ID }}/factory/runs")
-            
-            status_code=$(echo "$response" | tail -n1)
-            response_body=$(echo "$response" | sed \$d)
-            
-            echo "📝 API Yanıtı: $response_body"
-            echo "🔢 Durum Kodu: $status_code"
-            
-            if [ "$status_code" -eq 200 ] || [ "$status_code" -eq 201 ] || [ "$status_code" -eq 202 ]; then
-              echo "✅ Hugging Face Space yeniden derleme isteği başarıyla gönderildi!"
-              break
-            else
-              retry_count=$((retry_count + 1))
-              if [ $retry_count -lt $max_retries ]; then
-                echo "⚠️ İstek başarısız oldu. $((max_retries - retry_count)) deneme hakkı kaldı. 30 saniye sonra tekrar denenecek..."
-                sleep 30
-              else
-                echo "❌ Hugging Face Space yeniden derleme isteği başarısız oldu!"
-                echo "🚨 Hata Detayı: $response_body"
-                exit 1
-              fi
-            fi
-          done
+          curl -X POST \
+            -H "Authorization: Bearer ${{ secrets.HUGGINGFACE_TOKEN }}" \
+            -H "Content-Type: application/json" \
+            https://huggingface.co/api/spaces/${{ secrets.HUGGINGFACE_SPACE_ID }}/factory/rebuild
