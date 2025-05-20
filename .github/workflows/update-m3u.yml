@@ -381,10 +381,7 @@ jobs:
             git push
           )
 
-      - name: Trigger Hugging Face Space Factory Rebuild
+      - name: Trigger Hugging Face Factory Rebuild with Python Script
         if: success()
         run: |
-          curl -X POST \
-            -H "Authorization: Bearer ${{ secrets.HUGGINGFACE_TOKEN }}" \
-            -H "Content-Type: application/json" \
-            https://huggingface.co/api/spaces/${{ secrets.HUGGINGFACE_SPACE_ID }}/factory/rebuild
+          python rebuild.py
