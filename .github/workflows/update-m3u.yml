@@ -393,7 +393,7 @@ jobs:
               -H "Authorization: Bearer ${{ secrets.HUGGINGFACE_TOKEN }}" \
               -H "Content-Type: application/json" \
               -w "\n%{http_code}" \
-              "https://huggingface.co/api/spaces/${{ secrets.HUGGINGFACE_SPACE_ID }}/factory/runs")
+              "https://huggingface.co/api/repos/spaces/${{ secrets.HUGGINGFACE_SPACE_ID }}/factory/rebuild")
             
             status_code=$(echo "$response" | tail -n1)
             response_body=$(echo "$response" | sed \$d)
