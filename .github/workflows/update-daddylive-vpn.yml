@@ -203,6 +203,9 @@ jobs:
               'IRELAND': 'İngilizce'
           }
 
+          def update_stream_url(url):
+              return url.replace('koskoros.ru', 'newkso.ru')
+
           def process_channels(channels_data):
               lines = ['#EXTM3U']
               turkey_channels = []
@@ -229,7 +232,7 @@ jobs:
                   channel_lines = [extinf_line]
                   if 'options' in channel_data:
                       channel_lines.extend(channel_data['options'])
-                  channel_lines.append(channel_data['stream_url'])
+                  channel_lines.append(update_stream_url(channel_data['stream_url']))
 
                   if group == 'TURKEY':
                       turkey_channels.extend(channel_lines)
