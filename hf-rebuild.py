@@ -5,6 +5,9 @@ import os
 HF_API_TOKEN = os.getenv("HUGGINGFACE_TOKEN")
 SPACE_ID = os.getenv("HUGGINGFACE_SPACE_ID")
 
+# SPACE_ID'nin doğru olup olmadığını kontrol et
+print(f"SPACE_ID: {SPACE_ID}")  
+
 # Hugging Face API URL'si
 url = f"https://huggingface.co/api/spaces/{SPACE_ID}/factory/rebuild"
 headers = {"Authorization": f"Bearer {HF_API_TOKEN}"}
