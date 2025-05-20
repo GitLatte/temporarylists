@@ -368,7 +368,7 @@ jobs:
           # Daddylive Events listesini al
           daddylive_events_content = fetch_m3u_content('${{ secrets.DADDYLIVE_EVENTS_URL }}')
           if daddylive_events_content:
-              write_file('dl/dl-daddyliveevents.m3u', daddylive_events_content)
+              write_file('dl/daddyliveevents.m3u', daddylive_events_content)
           EOF
 
       - name: Commit and push if changed
