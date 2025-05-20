@@ -1,0 +1,270 @@
+name: DaddyLive VPN Liste oluşturucu
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'  # Her 2 saatte bir çalışır
+  workflow_dispatch:  # Elle tetikleme için
+
+jobs:
+  update-m3u:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Update M3U files
+        run: |
+          python - <<EOF
+          import requests
+          import json
+          import os
+
+          def fetch_json_content(url):
+              try:
+                  response = requests.get(url)
+                  response.raise_for_status()
+                  return response.json()
+              except Exception as e:
+                  print(f"Error fetching {url}: {e}")
+                  return None
+
+          def write_file(file_path, content):
+              os.makedirs(os.path.dirname(file_path), exist_ok=True)
+              with open(file_path, 'w', encoding='utf-8') as f:
+                  f.write(content)
+              print(f"File updated: {file_path}")
+
+          country_translations = {
+              'TURKEY': 'Türkiye',
+              'UNITED STATES': 'Amerika Birleşik Devletleri',
+              'UNITED KINGDOM': 'Birleşik Krallık',
+              'GERMANY': 'Almanya',
+              'FRANCE': 'Fransa',
+              'ITALY': 'İtalya',
+              'SPAIN': 'İspanya',
+              'NETHERLANDS': 'Hollanda',
+              'PORTUGAL': 'Portekiz',
+              'BELGIUM': 'Belçika',
+              'DENMARK': 'Danimarka',
+              'NORWAY': 'Norveç',
+              'SWEDEN': 'İsveç',
+              'FINLAND': 'Finlandiya',
+              'AUSTRIA': 'Avusturya',
+              'SWITZERLAND': 'İsviçre',
+              'GREECE': 'Yunanistan',
+              'POLAND': 'Polonya',
+              'CZECH REPUBLIC': 'Çek Cumhuriyeti',
+              'HUNGARY': 'Macaristan',
+              'ROMANIA': 'Romanya',
+              'BULGARIA': 'Bulgaristan',
+              'CROATIA': 'Hırvatistan',
+              'SERBIA': 'Sırbistan',
+              'SLOVENIA': 'Slovenya',
+              'SLOVAKIA': 'Slovakya',
+              'BOSNIA AND HERZEGOVINA': 'Bosna Hersek',
+              'ALBANIA': 'Arnavutluk',
+              'MACEDONIA': 'Makedonya',
+              'MONTENEGRO': 'Karadağ',
+              'RUSSIA': 'Rusya',
+              'UKRAINE': 'Ukrayna',
+              'BELARUS': 'Belarus',
+              'ESTONIA': 'Estonya',
+              'LATVIA': 'Letonya',
+              'LITHUANIA': 'Litvanya',
+              'QATAR': 'Katar',
+              'UNITED ARAB EMIRATES': 'Birleşik Arap Emirlikleri',
+              'SAUDI ARABIA': 'Suudi Arabistan',
+              'IRAN': 'İran',
+              'ISRAEL': 'İsrail',
+              'EGYPT': 'Mısır',
+              'MOROCCO': 'Fas',
+              'TUNISIA': 'Tunus',
+              'ALGERIA': 'Cezayir',
+              'AFRICA': 'Afrika',
+              'SOUTH AFRICA': 'Güney Afrika',
+              'NIGERIA': 'Nijerya',
+              'KENYA': 'Kenya',
+              'INDIA': 'Hindistan',
+              'PAKISTAN': 'Pakistan',
+              'BANGLADESH': 'Bangladeş',
+              'SRI LANKA': 'Sri Lanka',
+              'NEPAL': 'Nepal',
+              'CHINA': 'Çin',
+              'JAPAN': 'Japonya',
+              'SOUTH KOREA': 'Güney Kore',
+              'THAILAND': 'Tayland',
+              'VIETNAM': 'Vietnam',
+              'INDONESIA': 'Endonezya',
+              'MALAYSIA': 'Malezya',
+              'PHILIPPINES': 'Filipinler',
+              'SINGAPORE': 'Singapur',
+              'AUSTRALIA': 'Avustralya',
+              'NEW ZEALAND': 'Yeni Zelanda',
+              'BRAZIL': 'Brezilya',
+              'ARGENTINA': 'Arjantin',
+              'CHILE': 'Şili',
+              'COLUMBIA': 'Kolombiya',
+              'PERU': 'Peru',
+              'VENEZUELA': 'Venezuela',
+              'MEXICO': 'Meksika',
+              'OTHERS': 'Diğer Spor',
+              'CANADA': 'Kanada',
+              'CYPRUS': 'Kıbrıs',
+              'ICELAND': 'İzlanda',
+              'IRELAND': 'İrlanda'
+          }
+
+          language_map = {
+              'TURKEY': 'Türkçe',
+              'UNITED STATES': 'İngilizce',
+              'UNITED KINGDOM': 'İngilizce',
+              'GERMANY': 'Almanca',
+              'FRANCE': 'Fransızca',
+              'ITALY': 'İtalyanca',
+              'SPAIN': 'İspanyolca',
+              'NETHERLANDS': 'Hollandaca',
+              'PORTUGAL': 'Portekizce',
+              'BELGIUM': 'Hollandaca',
+              'DENMARK': 'Danca',
+              'NORWAY': 'Norveççe',
+              'SWEDEN': 'İsveççe',
+              'FINLAND': 'Fince',
+              'AUSTRIA': 'Almanca',
+              'SWITZERLAND': 'Almanca',
+              'GREECE': 'Yunanca',
+              'POLAND': 'Lehçe',
+              'CZECH REPUBLIC': 'Çekçe',
+              'HUNGARY': 'Macarca',
+              'ROMANIA': 'Romence',
+              'BULGARIA': 'Bulgarca',
+              'CROATIA': 'Hırvatça',
+              'SERBIA': 'Sırpça',
+              'SLOVENIA': 'Slovence',
+              'SLOVAKIA': 'Slovakça',
+              'BOSNIA AND HERZEGOVINA': 'Boşnakça',
+              'ALBANIA': 'Arnavutça',
+              'MACEDONIA': 'Makedonca',
+              'MONTENEGRO': 'Karadağca',
+              'RUSSIA': 'Rusça',
+              'UKRAINE': 'Ukraynaca',
+              'BELARUS': 'Belarusça',
+              'ESTONIA': 'Estonca',
+              'LATVIA': 'Letonca',
+              'LITHUANIA': 'Litvanca',
+              'QATAR': 'Arapça',
+              'UNITED ARAB EMIRATES': 'Arapça',
+              'SAUDI ARABIA': 'Arapça',
+              'IRAN': 'Farsça',
+              'ISRAEL': 'İbranice',
+              'EGYPT': 'Arapça',
+              'MOROCCO': 'Arapça',
+              'TUNISIA': 'Arapça',
+              'ALGERIA': 'Arapça',
+              'AFRICA': 'İngilizce',
+              'SOUTH AFRICA': 'İngilizce',
+              'NIGERIA': 'İngilizce',
+              'KENYA': 'İngilizce',
+              'INDIA': 'Hintçe',
+              'PAKISTAN': 'Urduca',
+              'BANGLADESH': 'Bengalce',
+              'SRI LANKA': 'Seylanca',
+              'NEPAL': 'Nepalce',
+              'CHINA': 'Çince',
+              'JAPAN': 'Japonca',
+              'SOUTH KOREA': 'Korece',
+              'THAILAND': 'Tayca',
+              'VIETNAM': 'Vietnamca',
+              'INDONESIA': 'Endonezce',
+              'MALAYSIA': 'Malayca',
+              'PHILIPPINES': 'Filipince',
+              'SINGAPORE': 'İngilizce',
+              'AUSTRALIA': 'İngilizce',
+              'NEW ZEALAND': 'İngilizce',
+              'BRAZIL': 'Portekizce',
+              'ARGENTINA': 'İspanyolca',
+              'CHILE': 'İspanyolca',
+              'COLUMBIA': 'İspanyolca',
+              'PERU': 'İspanyolca',
+              'VENEZUELA': 'İspanyolca',
+              'MEXICO': 'İspanyolca',
+              'OTHERS': 'İngilizce',
+              'CANADA': 'İngilizce',
+              'CYPRUS': 'Yunanca',
+              'ICELAND': 'İzlandaca',
+              'IRELAND': 'İngilizce'
+          }
+
+          def process_channels(channels_data):
+              lines = ['#EXTM3U']
+              turkey_channels = []
+              bein_channels = []
+              other_channels = {}
+
+              for channel_name, channel_data in channels_data.items():
+                  group = channel_data.get('group_title', '')
+                  translated_country = country_translations.get(group, group)
+                  language = language_map.get(group, '')
+
+                  extinf_line = f'#EXTINF:-1'
+                  if channel_data.get('tvg_id'):
+                      extinf_line += f' tvg-id="{channel_data["tvg_id"]}"'
+                  if channel_data.get('tvg_logo'):
+                      extinf_line += f' tvg-logo="{channel_data["tvg_logo"]}"'
+                  if language:
+                      extinf_line += f' tvg-language="{language}"'
+                  if translated_country:
+                      extinf_line += f' tvg-country="{translated_country}"'
+                      extinf_line += f' group-title="{translated_country} Kanalları"'
+                  extinf_line += f',{channel_name}'
+
+                  channel_lines = [extinf_line]
+                  if 'options' in channel_data:
+                      channel_lines.extend(channel_data['options'])
+                  channel_lines.append(channel_data['stream_url'])
+
+                  if group == 'TURKEY':
+                      turkey_channels.extend(channel_lines)
+                  elif 'bein' in channel_name.lower():
+                      bein_channels.extend(channel_lines)
+                  else:
+                      if translated_country not in other_channels:
+                          other_channels[translated_country] = []
+                      other_channels[translated_country].extend(channel_lines)
+
+              # Önce Türkiye kanallarını ekle
+              lines.extend(turkey_channels)
+              
+              # Sonra BeIN kanallarını ekle
+              lines.extend(bein_channels)
+              
+              # Son olarak diğer ülkelerin kanallarını sıralı şekilde ekle
+              for country_name in sorted(other_channels.keys()):
+                  lines.extend(other_channels[country_name])
+
+              return '\n'.join(lines)
+
+          # JSON dosyasını al ve işle
+          channels_data = fetch_json_content('https://raw.githubusercontent.com/pigzillaaaaa/daddylive/refs/heads/main/daddylive-channels-data.json')
+          if channels_data:
+              m3u_content = process_channels(channels_data)
+              write_file('dl/daddylive-vpn.m3u', m3u_content)
+          EOF
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add dl/daddylive-vpn.m3u
+          git diff --quiet && git diff --staged --quiet || (
+            git commit -m "♻️ VPN Listesi güncellendi" -a
+            git push
+          )
