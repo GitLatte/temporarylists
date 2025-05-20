@@ -364,6 +364,11 @@ jobs:
           if myway_content:
               filtered_myway = process_myway_content(myway_content)
               write_file('forum/myway.m3u', filtered_myway)
+
+          # Daddylive Events listesini al
+          daddylive_events_content = fetch_m3u_content('${{ secrets.DADDYLIVE_EVENTS_URL }}')
+          if daddylive_events_content:
+              write_file('dl/dl-daddyliveevents.m3u', daddylive_events_content)
           EOF
 
       - name: Commit and push if changed
