@@ -384,7 +384,23 @@ jobs:
       - name: Trigger Hugging Face Space Factory Rebuild
         if: success()
         run: |
-          curl -X POST \
+          echo "🔄 Hugging Face Space yeniden derleme isteği gönderiliyor..."
+          response=$(curl -X POST \
             -H "Authorization: Bearer ${{ secrets.HUGGINGFACE_TOKEN }}" \
             -H "Content-Type: application/json" \
-            https://huggingface.co/api/spaces/${{ secrets.HUGGINGFACE_SPACE_ID }}/factory/rebuild
+            -w "\n%{http_code}" \
+            https://huggingface.co/api/spaces/${{ secrets.HUGGINGFACE_SPACE_ID }}/factory/rebuild)
+          
+          status_code=$(echo "$response" | tail -n1)
+          response_body=$(echo "$response" | sed \$d)
+          
+          echo "📝 API Yanıtı: $response_body"
+          echo "🔢 Durum Kodu: $status_code"
+          
+          if [ "$status_code" -eq 200 ] || [ "$status_code" -eq 201 ] || [ "$status_code" -eq 202 ]; then
+            echo "✅ Hugging Face Space yeniden derleme isteği başarıyla gönderildi!"
+          else
+            echo "❌ Hugging Face Space yeniden derleme isteği başarısız oldu!"
+            echo "🚨 Hata Detayı: $response_body"
+            exit 1
+          fi
