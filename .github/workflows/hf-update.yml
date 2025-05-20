@@ -21,7 +21,7 @@ jobs:
           git config --global user.name "GitHub Action"
           git add Dockerfile
           git commit -m "♻️ otomatik rebuild hf $NOWDATE"
-          git push -f https://$HUGGINGFACE_TOKEN@huggingface.co/spaces/$HF_SPACE_NAME main
+          git push -f https://$HUGGINGFACE_TOKEN@huggingface.co/spaces/$HUGGINGFACE_SPACE_NAME main
         env:
-          HF_SPACE_NAME: ${{ vars.HF_SPACE_NAME }}
+          HUGGINGFACE_SPACE_NAME: ${{ vars.HUGGINGFACE_SPACE_NAME }}
           HUGGINGFACE_TOKEN: ${{ secrets.HUGGINGFACE_TOKEN }}
