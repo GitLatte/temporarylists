@@ -384,4 +384,4 @@ jobs:
       - name: Trigger Hugging Face Factory Rebuild with Python Script
         if: success()
         run: |
-          python rebuild.py
+          python hf-rebuild.py
