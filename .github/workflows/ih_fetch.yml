@@ -12,11 +12,14 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Download full event list
-        run: curl -o original.m3u "http://sinetech-nettv.hf.space/playlist/events"
+        run: curl -L -o original.m3u "http://sinetech-nettv.hf.space/playlist/events"
+
+      - name: Convert file to UTF-8
+        run: iconv -f ISO-8859-1 -t UTF-8 original.m3u -o original_utf8.m3u
 
       - name: Extract ICE HOCKEY events
         run: |
-          grep -A 1 'group-title="ICE HOCKEY"' original.m3u > ice-hockey-events.m3u
+          grep -A 1 -i 'group-title="ICE HOCKEY"' original_utf8.m3u > ice-hockey-events.m3u
 
       - name: Commit and push changes
         run: |
