@@ -1,7 +1,7 @@
 name: Filter ICE HOCKEY Events
 on:
   schedule:
-    - cron: '0 */6 * * *' # Her 6 saatte bir çalıştır
+    - cron: '0 */6 * * *' # Every 6 hours
   workflow_dispatch:
 
 jobs:
@@ -19,7 +19,8 @@ jobs:
 
       - name: Extract ICE HOCKEY events
         run: |
-          grep -A 1 -i 'group-title="ICE HOCKEY"' original_utf8.m3u > ice-hockey-events.m3u
+          echo "#EXTM3U" > ice-hockey-events.m3u
+          grep -A 1 -i 'group-title="ICE HOCKEY"' original_utf8.m3u | grep -v -- "^--$" >> ice-hockey-events.m3u
 
       - name: Commit and push changes
         run: |
