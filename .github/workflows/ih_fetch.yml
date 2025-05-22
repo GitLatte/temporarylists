@@ -16,7 +16,7 @@ jobs:
 
       - name: ICE HOCKEY events
         run: |
-          grep -A 1 "group-title=\"ICE HOCKEY\"" original.m3u > ice-hockey-events.m3u
+          grep -A 1 'group-title=\"ICE HOCKEY\"' original.m3u > ice-hockey-events.m3u
 
       - name: Commit and push changes
         run: |
