@@ -1,0 +1,29 @@
+name: Filter ICE HOCKEY Events
+on:
+  schedule:
+  - cron: '0 */6 * * *' # Run for every 6 hours
+  workflow_dispatch:
+
+jobs:
+  filter-events:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Download full event list
+        run: curl -o original.m3u "http://sinetech-nettv.hf.space/playlist/events"
+
+      ICE HOCKEY events
+        run: |
+          grep -A 1 "group-title=\"ICE HOCKEY\"" original.m3u > ice-hockey-events.m3u
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add ice-hockey-events.m3u
+          git commit -m "Fetched and Updated ICE HOCKEY events"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
