@@ -10,6 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.ACTIONHELPER }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -373,8 +375,8 @@ jobs:
 
       - name: Commit and push if changed
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "actionhelper@users.noreply.github.com"
+          git config --local user.name "ActionHelper"
           git add dl/dl-daddyliveall.m3u forum/myway.m3u
           git diff --quiet && git diff --staged --quiet || (
             git commit -m "♻️ Listeler güncellendi" -a
