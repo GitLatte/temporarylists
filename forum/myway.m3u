@@ -312,9 +312,10 @@ https://i41.ozelip.com:3269/hybrid/play.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Deniz Postası
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Tv 4
-https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
-# ? http://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-# ? http://stream.tvcdn.net/eglence/tv-4.m3u8
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+# ? https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+# ? https://live.euromediacenter.com/tv48/index.m3u8
+# ? https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Tivi 6
 https://trn03.tulix.tv/gt-tivi6/index.m3u8
 # ? https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
@@ -328,6 +329,14 @@ https://uzunmuhalefet.serv00.net/canlitv2.php?id=13331&.m3u8
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Yansıma Sinema
 https://hls.goodgame.ru/hls/215961.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="⚡Spor",BS1
+http://95.174.71.114:80/TR-BEINSPORT1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="⚡Spor",BS2
+http://95.174.71.114:80/TR-BEINSPORT2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="⚡Spor",BS3
+http://95.174.71.114:80/TR-BEINSPORT3/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="⚡Spor",BS4
+http://95.174.71.114:80/TR-BEINSPORT4/index.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title=''⚡Spors'',A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 # ? https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
