@@ -350,12 +350,26 @@ https://hls.goodgame.ru/hls/215961.m3u8
 https://yotubesakuapi.global.ssl.fastly.net/playlist/71.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="⚡Spor",BS1
 http://95.174.71.114:80/TR-BEINSPORT1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="⚡Spor",BS1 Y
+http://raalbatros.serv00.net/Freeshot.php?ID=bein-sports-1-turkey/158
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="⚡Spor",BS2
 http://95.174.71.114:80/TR-BEINSPORT2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="⚡Spor",BS2 Y
+http://raalbatros.serv00.net/Freeshot.php?ID=bein-sports-2-turkey/159
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="⚡Spor",BS3
 http://95.174.71.114:80/TR-BEINSPORT3/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="⚡Spor",BS3 Y
+http://raalbatros.serv00.net/Freeshot.php?ID=bein-sports-3-turkey/160
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="⚡Spor",BS4
 http://95.174.71.114:80/TR-BEINSPORT4/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="⚡Spor",BS4 Y
+http://raalbatros.serv00.net/Freeshot.php?ID=bein-sports-4-turkey/161
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="⚡Spor",BS5
+http://raalbatros.serv00.net/Freeshot.php?ID=bein-sports-5-turkey/212
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Spor",eurosport-1
+http://raalbatros.serv00.net/Freeshot.php?ID=eurosport-1-turkey/790
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Spor",eurosport-2
+http://raalbatros.serv00.net/Freeshot.php?ID=eurosport-2-turkey/791
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title=''⚡Spors'',A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 # ? https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
