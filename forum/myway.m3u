@@ -80,14 +80,19 @@ https://cdn4.yayin.com.tr/channel6tv/index.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Ulusal",M Türk
 https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="KRTTV.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",KRT TV
-https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=4006
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/krt-tv
+#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 # ? http://162.212.179.33/gin-36bay3/gt-kibriskrttv/tracks-v1a1/mono.m3u8
+# ? https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=4006
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="HalkTV.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",Sözcü Tv
-https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=3002
+https://yotubesakuapi.global.ssl.fastly.net/playlist/2.m3u8
 # ? https://b.fulltvizle.com/sozcu/tracks-v1a1/mono.m3u8
+# ? https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=3002
 # ? https://apisaku.app.tc/playlist/2.m3u8
 # ? https://b.fulltvizle.com/sozcu/tracks-v1a1/mono.m3u8
 # ? https://koprulu3.global.ssl.fastly.net/yt.m3u8/?id=ztmY_cCtUl0
+# ? http://162.212.179.33/gin-36bay3/gt-kibriskrttv/tracks-v1a1/mono.m3u8
 # ? https://koprulu3.global.ssl.fastly.net/app7/ctv.m3u8/?url=https://tv.canlitv.vip/sozcu-tv-canli
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="HalkTV.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
@@ -262,7 +267,8 @@ https://i41.ozelip.com:3269/hybrid/play.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Deniz Postası
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Tv 4
-https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+https://trn03.tulix.tv/gt-tv4/index.m3u8
+# ? https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 # ? https://live.euromediacenter.com/tv48/index.m3u8
 # ? https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Tivi 6
