@@ -81,6 +81,7 @@ https://cdn4.yayin.com.tr/channel6tv/index.m3u8
 https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="KRTTV.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",KRT TV
 https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=4006
+# ? http://162.212.179.33/gin-36bay3/gt-kibriskrttv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="HalkTV.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",Sözcü Tv
 https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=3002
 # ? https://b.fulltvizle.com/sozcu/tracks-v1a1/mono.m3u8
