@@ -163,6 +163,8 @@ https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=2506
 https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=1314
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Cizgi Film",Nickelodeon HD TR
 http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/6848/index.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Cizgi Film",Niloya Tv
+https://mth.tc/4aXb
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="89" tvg-name="NATIONAL GEO HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Rec Belgesel", NATIONAL GEO HD
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -235,7 +237,7 @@ https://uzunmuhalefet.serv00.net/canlitv2.php?id=12044&.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Belgesel",Gurme Tv
 https://live.euromediacenter.com/gurmetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Belgesel",BEIN IZ
-https://sakultah.global.ssl.fastly.net/ahmetgaya?id=3156178359
+https://mth.tc/u3y6
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Belgesel",Tarım Belgesel
 https://canlitvulusal.xyz/live/tarimtv/index.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Dizi 7/24",Güldür Güldür
@@ -261,43 +263,23 @@ https://yotubesakuapi.global.ssl.fastly.net/playlist/53.m3u8
 https://yotubesakuapi.global.ssl.fastly.net/playlist/42.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Dizi 7/24",Yasak Elma
 https://yotubesakuapi.global.ssl.fastly.net/playlist/8.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Gassal 2 sezon",Gassal 2 Bölüm 1
-https://play.streamcasthub.store/hls/VHV08nwTassFfLINwyAaYg/xy/nc31jo1s/ipau3d/tt/master.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Gassal 2 sezon",Gassal 2 Bölüm 2
-https://play.streamcasthub.store/hls/hBP_veSnneDXqirboCtM6A/mf/nc31jo1s/twkypa/tt/master.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Gassal 2 sezon",Gassal 2 Bölüm 3
-https://play.streamcasthub.store/hls/pFArY9KQxHlTEmcNPv1UZA/mf/nc31jo1s/r8i5m3/tt/master.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Gassal 2 sezon",Gassal 2 Bölüm 4
-https://play.streamcasthub.store/hls/t4gHruo1vwzbtYEYkw7zCA/mf/nc31jo1s/loyjzv/tt/master.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Gassal 2 sezon",Gassal 2 Bölüm 5
-https://play.streamcasthub.store/hls/MWGmw_t3EGCZY4KKSogugQ/5c/nc31jo1s/metl8v/tt/master.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Gassal 2 sezon",Gassal 2 Bölüm 6
-https://play.streamcasthub.store/hls/BVASkq9goqlCEOf_Q8X0JA/xy/nc31jo1s/ipauti/tt/master.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Gassal 2 sezon",Gassal 2 Bölüm 7
-https://play.streamcasthub.store/hls/3T4LnfTZy3zDGH-RVyYWAw/5c/nc31jo1s/9dbqf3/tt/master.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Gassal 2 sezon",Gassal 2 Bölüm 8
-https://play.streamcasthub.store/hls/6OzXzhvMA61j6skTAWBYXA/xy/nc31jo1s/ipauaq/tt/master.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Gassal 2 sezon",Gassal 2 Bölüm 9
-https://play.streamcasthub.store/hls/IJwG4ihW8mgVw0ys0lo6PQ/8q/nc31jo1s/j3hai6/tt/master.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Gassal 2 sezon",Gassal 2 Bölüm10
-https://play.streamcasthub.store/hls/Arp8-49tsPqAG2Vwm_9rJA/xy/nc31jo1s/cvl1pp/tt/master.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="1908" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="TR ▹ SİNEMA KANALLARI", Sinema Tv
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="1908" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon", Sinema Tv
 https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=1908
-#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="1109" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="TR ▹ SİNEMA KANALLARI", Sinema Aksiyon
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="1109" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon", Sinema Aksiyon
 https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=1109
-#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="3304" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="TR ▹ SİNEMA KANALLARI", Sinema Yerli
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="3304" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon", Sinema Yerli
 https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=3304
-#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="1911" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="TR ▹ SİNEMA KANALLARI", Sinema Aile
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="1911" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon", Sinema Aile
 https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=1911
-#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="2602" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="TR ▹ SİNEMA KANALLARI", Sinema 1001
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="2602" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon", Sinema 1001
 https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=2602
-#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="1110" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="TR ▹ SİNEMA KANALLARI", Sinema Komedi
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="1110" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon", Sinema Komedi
 https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=1110
-#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="3602" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="TR ▹ SİNEMA KANALLARI", FX
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="3602" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon", FX
 https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=3602
-#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="2802" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="TR ▹ SİNEMA KANALLARI", Epic Drama
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="2802" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon", Epic Drama
 https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=2802
-#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="3509" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="TR ▹ SİNEMA KANALLARI", Film Screen
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="3509" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon", Film Screen
 https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=3509
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",FX
 https://saran-live.ercdn.net/fx/index.m3u8
@@ -346,6 +328,28 @@ https://uzunmuhalefet.serv00.net/canlitv2.php?id=13331&.m3u8
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Yansıma Sinema
 https://hls.goodgame.ru/hls/215961.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",BEIN MOVIES PREMIERE 2
+https://mth.tc/fX6e
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",BEIN MOVIES ACTION
+https://mth.tc/lohM
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",BEIN BOX OFFICE
+https://mth.tc/UVEz
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",BEIN BOX OFFICE  2
+https://mth.tc/mlIR
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Sinemax Komedi
+https://mth.tc/k7bE
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Film Box Premier
+https://mth.tc/CZpz
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Film Box Yerli
+https://mth.tc/exnJ
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Film Box Drama
+https://mth.tc/3egn
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Film Box Family
+https://mth.tc/AHuP
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Eno Vizyon
+https://mth.tc/CqIP
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Diji Max
+https://mth.tc/hj9L
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="⚡Spor",BS Haber
 https://yotubesakuapi.global.ssl.fastly.net/playlist/71.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="⚡Spor",BS1
@@ -441,6 +445,8 @@ http://164.132.23.92:22372/suduragitv/suduragitv/sec-f5-v1-a1.m3u8
 https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="⚡7/24 Yerli Film",Zeki Metin
 https://yotubesakuapi.global.ssl.fastly.net/playlist/78.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="⚡7/24 Yerli Film",Yeşilcam1
+https://mth.tc/FpkM
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Animasyon Filmler",Ejderhanı Nasıl Eğitirsin 2010
 https://vidmody.com/vs/tt0892769
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Animasyon Filmler",Ejderhanı Nasıl Eğitirsin 2 2014
