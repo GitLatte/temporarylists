@@ -211,22 +211,6 @@ https://yotubesakuapi.global.ssl.fastly.net/playlist/53.m3u8
 https://yotubesakuapi.global.ssl.fastly.net/playlist/42.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Dizi 7/24",Yasak Elma
 https://yotubesakuapi.global.ssl.fastly.net/playlist/8.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="1908" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon", Sinema Tv
-https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=1908
-#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="1109" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon", Sinema Aksiyon
-https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=1109
-#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="3304" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon", Sinema Yerli
-https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=3304
-#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="1911" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon", Sinema Aile
-https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=1911
-#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="2602" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon", Sinema 1001
-https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=2602
-#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="1110" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon", Sinema Komedi
-https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=1110
-#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="2802" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon", Epic Drama
-https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=2802
-#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="3509" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon", Film Screen
-https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=3509
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",FX
 https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="73" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-name="Cine6 Max" group-title="⚡Sinevizyon",Cine6 Max HD
