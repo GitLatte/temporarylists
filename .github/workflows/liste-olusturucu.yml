@@ -364,7 +364,7 @@ jobs:
 
 
                           # Kendi logosunu ekle/güncelle
-                          logo_url = f'https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive/{original_country}.png'
+                          logo_url = f'https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive.png'
                           if 'tvg-logo=' in line:
                              line = re.sub('tvg-logo="[^"]*"', f'tvg-logo="{logo_url}"', line)
                           else:
