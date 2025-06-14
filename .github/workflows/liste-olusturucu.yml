@@ -1,0 +1,462 @@
+name: 🛠️ Liste oluşturucu
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'  # Her 4 saatte bir çalışır
+  workflow_dispatch:  # Elle tetikleme için
+
+jobs:
+  update-m3u:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.LATTE_PAT }} # Depo erişimi için token
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x' # Kullanmak istediğiniz Python sürümü
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Update M3U files
+        run: |
+          python - <<EOF # Python scriptini doğrudan çalıştır
+          import requests
+          import re
+          import os
+          import hashlib
+
+          def fetch_m3u_content(url):
+              try:
+                  response = requests.get(url)
+                  response.raise_for_status() # Hatalı HTTP yanıtları için istisna yükselt
+                  return response.text
+              except Exception as e:
+                  print(f"Error fetching {url}: {e}")
+                  return None
+
+          def write_file(file_path, content):
+              # Dosya yolunun dizinlerini oluştur
+              os.makedirs(os.path.dirname(file_path), exist_ok=True)
+              with open(file_path, 'w', encoding='utf-8') as f:
+                  f.write(content)
+              print(f"File updated: {file_path}")
+
+          def process_myway_content(content):
+              lines = content.split('\n')
+              filtered_lines = ['#EXTM3U']
+              buffer_lines = []
+              # Myway TV logosu URL'si
+              logo_url = 'https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png'
+              url_count = 0  # URL sayacı
+              current_channel = None  # Mevcut kanal adı
+
+              for line in lines:
+                  line = line.strip()
+                  # Boş satırları veya #### ile başlayan yorumları atla
+                  if not line or line.startswith('#####'):
+                      continue
+
+                  if line.startswith('#EXTINF'):
+                      # Yeni kanal başladığında sayacı sıfırla
+                      url_count = 0
+                      current_channel = line
+
+                      # Önceki kanal için buffer kontrolü
+                      if buffer_lines and not any(l.startswith('http') for l in buffer_lines):
+                          # Eğer buffer'da http ile başlayan bir satır yoksa (yani sadece #EXTINF ve #EXTVLCOPT)
+                          buffer_lines = [] # Bu kanalı atla
+                      elif buffer_lines:
+                          # Eğer buffer'da http ile başlayan bir satır varsa
+                          filtered_lines.extend(buffer_lines) # Buffer'ı ekle
+                          buffer_lines = [] # Buffer'ı temizle
+
+                      # TVG etiketlerini kontrol et ve ekle/güncelle
+                      if 'tvg-' not in line:
+                          # TVG etiketi yoksa tüm özellikleri ekle
+                          line = line.replace('#EXTINF:-1', f'#EXTINF:-1 tvg-logo="{logo_url}" tvg-language="Türkçe" tvg-country="TR"')
+                      else:
+                          # TVG etiketi varsa logo kontrolü ve değiştirme
+                          if 'tvg-logo=' in line:
+                              # Logo özelliği varsa değiştir
+                              line = re.sub('tvg-logo="[^"]*"', f'tvg-logo="{logo_url}"', line)
+                          else:
+                              # Logo özelliği yoksa ekle
+                              line = line.replace('#EXTINF:-1', f'#EXTINF:-1 tvg-logo="{logo_url}"')
+                          # Diğer TVG özelliklerini kontrol et ve ekle
+                          if 'tvg-language=' not in line:
+                              line = line.replace('#EXTINF:-1', '#EXTINF:-1 tvg-language="Türkçe"')
+                          if 'tvg-country=' not in line:
+                              line = line.replace('#EXTINF:-1', '#EXTINF:-1 tvg-country="TR"')
+                      buffer_lines = [line] # Yeni kanalın EXTINF satırını buffera ekle
+
+                  elif line.startswith('#EXTVLCOPT') and buffer_lines:
+                      # Sadece bir önceki satır #EXTINF ise VLCOPT'u ekle
+                      buffer_lines.append(line)
+
+                  elif line.startswith('http') and buffer_lines:
+                      url_count += 1
+                      # İlk URL'yi normal, diğerlerini yorum satırı olarak ekle
+                      if url_count == 1:
+                          buffer_lines.append(line)
+                      else:
+                          buffer_lines.append(f'# ? {line}') # Yorum satırı ekle
+                      
+                      # URL bulunduğunda buffer'ı ana listeye ekle
+                      filtered_lines.extend(buffer_lines)
+                      buffer_lines = [] # Buffer'ı temizle
+
+              # Dosyanın sonundaki tamponlanmış satırları kontrol et
+              # Eğer son tamponlanmış satırlarda http ile başlayan bir satır varsa ekle
+              if buffer_lines and any(l.startswith('http') for l in buffer_lines):
+                  filtered_lines.extend(buffer_lines)
+
+              return '\n'.join(filtered_lines)
+
+
+          # Daddylive kanallarını al (Bu kısım hala eksik gibi görünüyor, tamamladım)
+          def process_daddylive_content(content):
+              lines = content.split('\n')
+              filtered_lines = ['#EXTM3U']
+              turkey_lines = []
+              bein_lines = []
+              other_lines = {}
+              current_group = None
+              include_next = False
+              buffer_lines = []
+
+              country_translations = {
+                  'UNITED STATES': 'Amerika Birleşik Devletleri',
+                  'UNITED KINGDOM': 'Birleşik Krallık',
+                  'GERMANY': 'Almanya',
+                  'FRANCE': 'Fransa',
+                  'ITALY': 'İtalya',
+                  'SPAIN': 'İspanya',
+                  'NETHERLANDS': 'Hollanda',
+                  'PORTUGAL': 'Portekiz',
+                  'BELGIUM': 'Belçika',
+                  'DENMARK': 'Danimarka',
+                  'NORWAY': 'Norveççe', # Düzeltme: Dil haritasıyla uyumlu
+                  'SWEDEN': 'İsveççe', # Düzeltme: Dil haritasıyla uyumlu
+                  'FINLAND': 'Fince', # Düzeltme: Dil haritasıyla uyumlu
+                  'AUSTRIA': 'Avusturya',
+                  'SWITZERLAND': 'İsviçre',
+                  'GREECE': 'Yunanistan',
+                  'POLAND': 'Polonya',
+                  'CZECH REPUBLIC': 'Çek Cumhuriyeti',
+                  'HUNGARY': 'Macaristan',
+                  'ROMANIA': 'Romanya',
+                  'BULGARIA': 'Bulgaristan',
+                  'CROATIA': 'Hırvatistan',
+                  'SERBIA': 'Sırbistan',
+                  'SLOVENIA': 'Slovenya',
+                  'SLOVAKIA': 'Slovakya',
+                  'BOSNIA AND HERZEGOVINA': 'Bosna Hersek',
+                  'ALBANIA': 'Arnavutluk',
+                  'MACEDONIA': 'Makedonya',
+                  'MONTENEGRO': 'Karadağ',
+                  'RUSSIA': 'Rusya',
+                  'UKRAINE': 'Ukrayna',
+                  'BELARUS': 'Belarus',
+                  'ESTONIA': 'Estonya',
+                  'LATVIA': 'Letonya',
+                  'LITHUANIA': 'Litvanya',
+                  'TURKEY': 'Türkiye',
+                  'QATAR': 'Katar',
+                  'UNITED ARAB EMIRATES': 'Birleşik Arap Emirlikleri',
+                  'SAUDI ARABIA': 'Suudi Arabistan',
+                  'IRAN': 'İran',
+                  'ISRAEL': 'İsrail',
+                  'EGYPT': 'Mısır',
+                  'MOROCCO': 'Fas',
+                  'TUNISIA': 'Tunus',
+                  'ALGERIA': 'Cezayir',
+                  'AFRICA': 'Afrika',
+                  'SOUTH AFRICA': 'Güney Afrika',
+                  'NIGERIA': 'Nijerya',
+                  'KENYA': 'Kenya',
+                  'INDIA': 'Hindistan',
+                  'PAKISTAN': 'Pakistan',
+                  'BANGLADESH': 'Bangladeş',
+                  'SRI LANKA': 'Sri Lanka',
+                  'NEPAL': 'Nepal',
+                  'CHINA': 'Çin',
+                  'JAPAN': 'Japonya',
+                  'SOUTH KOREA': 'Güney Kore',
+                  'THAILAND': 'Tayland',
+                  'VIETNAM': 'Vietnam',
+                  'INDONESIA': 'Endonezce',
+                  'MALAYSIA': 'Malezya',
+                  'PHILIPPINES': 'Filipinler',
+                  'SINGAPORE': 'Singapur',
+                  'AUSTRALIA': 'Avustralya',
+                  'NEW ZEALAND': 'Yeni Zelanda',
+                  'BRAZIL': 'Brezilya',
+                  'ARGENTINA': 'Arjantin',
+                  'CHILE': 'Şili',
+                  'COLUMBIA': 'Kolombiya',
+                  'PERU': 'Peru',
+                  'VENEZUELA': 'Venezuela',
+                  'MEXICO': 'Meksika',
+                  'OTHERS': 'Diğer Spor', # Burası group-title "OTHERS" için ülke değil
+                  'CANADA': 'Kanada',
+                  'CYPRUS': 'Kıbrıs',
+                  'ICELAND': 'İzlanda',
+                  'IRELAND': 'İrlanda'
+              }
+
+              language_map = {
+                  'UNITED STATES': 'İngilizce',
+                  'UNITED KINGDOM': 'İngilizce',
+                  'GERMANY': 'Almanca',
+                  'FRANCE': 'Fransızca',
+                  'ITALY': 'İtalyanca',
+                  'SPAIN': 'İspanyolca',
+                  'NETHERLANDS': 'Hollandaca',
+                  'PORTUGAL': 'Portekizce',
+                  'BELGIUM': 'Hollandaca',
+                  'DENMARK': 'Danca',
+                  'NORWAY': 'Norveççe',
+                  'SWEDEN': 'İsveççe',
+                  'FINLAND': 'Fince',
+                  'AUSTRIA': 'Almanca',
+                  'SWITZERLAND': 'Almanca',
+                  'GREECE': 'Yunanca',
+                  'POLAND': 'Lehçe',
+                  'CZECH REPUBLIC': 'Çekçe',
+                  'HUNGARY': 'Macarca',
+                  'ROMANIA': 'Romence',
+                  'BULGARIA': 'Bulgarca',
+                  'CROATIA': 'Hırvatça',
+                  'SERBIA': 'Sırpça',
+                  'SLOVENIA': 'Slovence',
+                  'SLOVAKIA': 'Slovakça',
+                  'BOSNIA AND HERZEGOVINA': 'Boşnakça',
+                  'ALBANIA': 'Arnavutça',
+                  'MACEDONIA': 'Makedonca',
+                  'MONTENEGRO': 'Karadağca',
+                  'RUSSIA': 'Rusça',
+                  'UKRAINE': 'Ukraynaca',
+                  'BELARUS': 'Belarusça',
+                  'ESTONIA': 'Estonca',
+                  'LATVIA': 'Letonca',
+                  'LITHUANIA': 'Litvanca',
+                  'TURKEY': 'Türkçe',
+                  'QATAR': 'Arapça',
+                  'UNITED ARAB EMIRATES': 'Arapça',
+                  'SAUDI ARABIA': 'Arapça',
+                  'IRAN': 'Farsça',
+                  'ISRAEL': 'İbranice',
+                  'EGYPT': 'Arapça',
+                  'MOROCCO': 'Arapça',
+                  'TUNISIA': 'Arapça',
+                  'ALGERIA': 'Cezayir',
+                  'AFRICA': 'İngilizce',
+                  'SOUTH AFRICA': 'İngilizce',
+                  'NIGERIA': 'İngilizce',
+                  'KENYA': 'İngilizce',
+                  'INDIA': 'Hintçe',
+                  'PAKISTAN': 'Urduca',
+                  'BANGLADESH': 'Bengalce',
+                  'SRI LANKA': 'Seylanca',
+                  'NEPAL': 'Nepalce',
+                  'CHINA': 'Çince',
+                  'JAPAN': 'Japonca',
+                  'SOUTH KOREA': 'Korece',
+                  'THAILAND': 'Tayca',
+                  'VIETNAM': 'Vietnamca',
+                  'INDONESIA': 'Endonezce',
+                  'MALAYSIA': 'Malayca',
+                  'PHILIPPINES': 'Filipince',
+                  'SINGAPORE': 'İngilizce',
+                  'AUSTRALIA': 'İngilizce',
+                  'NEW ZEALAND': 'İngilizce',
+                  'BRAZIL': 'Portekizce',
+                  'ARGENTINA': 'İspanyolca',
+                  'CHILE': 'İspanyolca',
+                  'COLUMBIA': 'İspanyolca',
+                  'PERU': 'İspanyolca',
+                  'VENEZUELA': 'İspanyolca',
+                  'MEXICO': 'İspanyolca',
+                  'OTHERS': '', # "Diğer Spor" için dil boş bırakılabilir veya uygunsa İngilizce
+                  'CANADA': 'İngilizce',
+                  'CYPRUS': 'Yunanca',
+                  'ICELAND': 'İzlandaca',
+                  'IRELAND': 'İngilizce'
+              }
+
+              # Tamponlanmış satırları hedef listeye ekleyen yardımcı fonksiyon
+              def add_buffered_lines(target_list):
+                  if buffer_lines:
+                      target_list.extend(buffer_lines)
+                      buffer_lines.clear()
+
+              for line in lines:
+                  line = line.strip()
+                  if not line or line.startswith('#####'):
+                      continue
+
+                  if line.startswith('#EXTINF'):
+                      # Eğer önceki kanalın buffer'ı varsa (ve bir URL içeriyorsa), hedef listeye ekle
+                      if buffer_lines and any(l.startswith('http') for l in buffer_lines):
+                           # Önceki EXTINF satırına göre hangi listeye ekleneceğini belirle
+                          if turkey_lines and buffer_lines[0] in turkey_lines:
+                              add_buffered_lines(turkey_lines)
+                          elif bein_lines and buffer_lines[0] in bein_lines:
+                              add_buffered_lines(bein_lines)
+                          else:
+                              # Diğer ülkeler için doğru listeyi bul
+                              prev_line = buffer_lines[0]
+                              group_match = re.search('group-title="([^"]+)"', prev_line, re.IGNORECASE)
+                              if group_match:
+                                  original_country = group_match.group(1)
+                                  translated_country = country_translations.get(original_country, original_country)
+                                  if translated_country in other_lines:
+                                      add_buffered_lines(other_lines[translated_country])
+
+                      buffer_lines = [line] # Yeni EXTINF satırını buffera ekle
+                      include_next = False # Yeni kanal başladığında include_next sıfırla
+
+                      # 1. Filtre: group-title veya kanal isminde "player" varsa atla
+                      group_match = re.search('group-title="([^"]+)"', line, re.IGNORECASE)
+                      group_title = group_match.group(1).lower() if group_match else ""
+                      channel_name_match = re.search(',[ \t]*([^,\n]+)$', line)
+                      channel_name = channel_name_match.group(1).lower() if channel_name_match else ""
+                      if 'player' in group_title or 'player' in channel_name:
+                          buffer_lines = [] # Eğer filtreye takılırsa buffer'ı temizle
+                          continue # Bu kanalı tamamen atla
+
+
+                      # 2. Filtre: tvg-logo="https://raw.githubusercontent.com/Stream-Fire/streamfire/main/Stream_Fire_TV_Logo/sports/others/Stream_Fire_Sports.png" logolu kanalları atla
+                      if 'tvg-logo="https://raw.githubusercontent.com/Stream-Fire/streamfire/main/Stream_Fire_TV_Logo/sports/others/Stream_Fire_Sports.png"' in line:
+                           buffer_lines = [] # Eğer filtreye takılırsa buffer'ı temizle
+                           continue # Bu kanalı tamamen atla
+
+                      current_group_match = group_match # Güncel grup eşleşmesini sakla
+                      if current_group_match:
+                          group = current_group_match.group(1)
+                          original_country = group
+                          translated_country = country_translations.get(group, group)
+                          language = language_map.get(group, '')
+
+                          # TVG etiketlerini ekle/güncelle (Logo dışındakiler)
+                          if 'tvg-country=' not in line:
+                              line = line.replace('#EXTINF:-1', f'#EXTINF:-1 tvg-country="{translated_country}"')
+                          elif 'tvg-country=' in line:
+                              line = re.sub('tvg-country="[^"]*"', f'tvg-country="{translated_country}"', line)
+
+                          if language: # Eğer dil bilgisi varsa ekle
+                              if 'tvg-language=' not in line:
+                                  line = line.replace('#EXTINF:-1', f'#EXTINF:-1 tvg-language="{language}"')
+                              elif 'tvg-language=' in line:
+                                  line = re.sub('tvg-language="[^"]*"', f'tvg-language="{language}"', line)
+
+                          # Grup başlığını Türkçeleştir (Eğer "OTHERS" değilse)
+                          if original_country != 'OTHERS':
+                               line = re.sub('group-title="[^"]*"', f'group-title="{translated_country} Kanalları"', line)
+                          else: # "OTHERS" ise sadece "Diğer Spor" yap
+                                line = re.sub('group-title="[^"]*"', f'group-title="Diğer Spor"', line)
+
+
+                          # Kendi logosunu ekle/güncelle
+                          logo_url = f'https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive/{original_country}.png'
+                          if 'tvg-logo=' in line:
+                             line = re.sub('tvg-logo="[^"]*"', f'tvg-logo="{logo_url}"', line)
+                          else:
+                             line = line.replace('#EXTINF:-1', f'#EXTINF:-1 tvg-logo="{logo_url}"')
+
+                          buffer_lines[0] = line # Güncellenen EXTINF satırını bufferdaki eski satırla değiştir
+
+                          # Kanalı ilgili listeye ekleme bayrağını ayarla
+                          if group == 'TURKEY':
+                              include_next = True
+                          elif 'bein' in line.lower() and group != 'TURKEY': # Türkiye dışındaki Bein kanalları için ayrı liste
+                               include_next = True
+                          else:
+                               include_next = True # Diğer tüm kanalları kendi ülkesi listesine ekle
+
+
+                  elif (line.startswith('#EXTVLCOPT') or line.startswith('http')):
+                       # Eğer bir önceki EXTINF satırı filtrelenmediyse ve include_next True ise ekle
+                       if include_next and buffer_lines and buffer_lines[0].startswith('#EXTINF'):
+                            buffer_lines.append(line)
+                            if line.startswith('http'):
+                                # URL bulunduğunda, ilgili listeye ekle ve buffer'ı temizle
+                                group_match = re.search('group-title="([^"]+)"', buffer_lines[0], re.IGNORECASE)
+                                if group_match:
+                                    original_country = group_match.group(1)
+                                    translated_country = country_translations.get(original_country, original_country)
+                                    if original_country == 'TURKEY':
+                                        add_buffered_lines(turkey_lines)
+                                    elif 'bein' in buffer_lines[0].lower() and original_country != 'TURKEY':
+                                         add_buffered_lines(bein_lines)
+                                    else:
+                                        if translated_country not in other_lines:
+                                             other_lines[translated_country] = []
+                                        add_buffered_lines(other_lines[translated_country])
+
+
+              # Dosyanın sonundaki tamponlanmış satırları kontrol et
+              # Eğer son tamponlanmış satırlarda http ile başlayan bir satır varsa ve filtrelenmediyse ekle
+              if buffer_lines and any(l.startswith('http') for l in buffer_lines):
+                   if buffer_lines[0].startswith('#EXTINF'): # Sadece EXTINF ile başlayan bir kanalsa ekle
+                       group_match = re.search('group-title="([^"]+)"', buffer_lines[0], re.IGNORECASE)
+                       if group_match:
+                           original_country = group_match.group(1)
+                           translated_country = country_translations.get(original_country, original_country)
+                           if original_country == 'TURKEY':
+                               add_buffered_lines(turkey_lines)
+                           elif 'bein' in buffer_lines[0].lower() and original_country != 'TURKEY':
+                                add_buffered_lines(bein_lines)
+                           else:
+                               if translated_country not in other_lines:
+                                   other_lines[translated_country] = []
+                               add_buffered_lines(other_lines[translated_country])
+
+
+              # Listeyi sırayla birleştir
+              combined_list = ['#EXTM3U']
+              combined_list.extend(turkey_lines)
+              combined_list.extend(bein_lines)
+              for country_name in sorted(other_lines.keys()):
+                   if other_lines[country_name]: # Boş listeleri ekleme
+                       combined_list.extend(other_lines[country_name])
+
+              return '\n'.join(combined_list)
+
+
+          # Daddylive kanallarını al
+          daddylive_content = fetch_m3u_content('${{ secrets.DADDYLIVE_URL }}')
+          if daddylive_content:
+              processed_daddylive = process_daddylive_content(daddylive_content)
+              write_file('dl/dl-daddyliveall.m3u', processed_daddylive)
+
+
+          # Myway listesini al
+          myway_content = fetch_m3u_content('https://surl.be/myway06')
+          if myway_content:
+              filtered_myway = process_myway_content(myway_content)
+              write_file('forum/myway.m3u', filtered_myway)
+
+
+          # Daddylive Events listesini al
+          daddylive_events_content = fetch_m3u_content('${{ secrets.DADDYLIVE_EVENTS_URL }}')
+          if daddylive_events_content:
+              write_file('dl/daddyliveevents.m3u', daddylive_events_content)
+
+          EOF
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "actionhelper@users.noreply.github.com"
+          git config --local user.name "ActionHelper"
+          # Sadece değişen dosyaları veya yeni eklenenleri commit et
+          git add dl/dl-daddyliveall.m3u dl/daddyliveevents.m3u forum/myway.m3u
+          # Eğer git'e eklenen veya staging alanındaki dosyalarda değişiklik varsa commit yap ve push et
+          git diff --quiet HEAD || git commit -m "♻️ Listeler güncellendi"
+          git push
