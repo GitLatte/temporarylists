@@ -1,0 +1,42 @@
+name: Babacım Cicikuş
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */12 * * *'  # Her 12 saatte bir çalışır
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.LATTE_PAT }}
+          
+      - name: Python Kurulumu
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Gereken Kütüphaneleri Kur
+        run: pip install requests beautifulsoup4
+
+      - name: Playwright kurulumu
+        run: |
+          pip install playwright
+          playwright install  
+        
+      - name: Cicikuş kanatlansın
+        run: python .github/scripts/cicikus.py
+        
+      - name: Cicikuş yemini de yesin
+        run: python .github/scripts/cicikus_yem.py
+        
+      - name: Oluşan Dosyaları Commit Et
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add dl/lattenin-otomasyonu/daddylive_kanallar.m3u dl/daddyliveevents.m3u
+          git commit -m "babacım cicikuş" || echo "yem bitti yem"
+          git push
