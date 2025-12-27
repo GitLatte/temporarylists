@@ -1,0 +1,48 @@
+name: 📺🔄 V Kanallar
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Her 6 saatte bir çalışır
+  workflow_dispatch: # Manuel çalıştırma
+
+jobs:
+  generate_m3u:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Depoyu çek
+      uses: actions/checkout@v3
+
+    - name: Python'u kur
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Bağımlılıkları yükle
+      run: pip install requests
+
+    - name: M3U dosyasını oluştur
+      run: python .github/scripts/v_liste_duzenleyici.py
+
+    - name: Güncellenmiş dosyayı repoya yükle
+      env:
+        GITHUB_TOKEN: ${{ secrets.LATTE_PAT }}
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add tospecial/vavoo-genel.m3u
+        git commit -m "Otomatik güncellenmiş M3U listesi"
+        git push origin main
+
+    - name: Temizle Gitsin
+      run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          git checkout --orphan new_main
+          git add -A
+          git commit -m "♻ Listeler güncellendi 🧹 Geçmişe paydos!"
+          
+          git branch -D main
+          git branch -m main
+          
+          git push --force --set-upstream origin main                
