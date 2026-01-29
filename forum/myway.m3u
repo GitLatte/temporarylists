@@ -1,0 +1,1003 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Ulusal",TRT 1
+https://tv-trt1.medya.trt.com.tr/master_1080.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Ulusal",TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Ulusal",TRT TÜRK
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Ulusal",TRT GENÇ
+https://tv-trtgenc.medya.trt.com.tr/master.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Ulusal",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Ulusal",Star Tv
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Ulusal",Euro Star
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Ulusal",Kanal D
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Ulusal",Euro D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Ulusal",Now Tv
+https://dsmartgo-live.ercdn.net/dsmartgo/foxtv/foxtv.isml/foxtv-audio_tur=96000-video=3000000.m3u8?bitrate=(1800k|3600k)&?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Ulusal",KuzeyMax
+http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Ulusal",Show Tv
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Ulusal",Show Turk
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Ulusal",Show Max
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Ulusal",Tv 8
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=7uwoyq6usvp2&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=2?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Ulusal",Tv 8,5
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_480p.m3u8?&sid=7tra76g4cefx&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Ulusal",Beyaz Tv
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Ulusal",360
+https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Ulusal",Teve 2
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Ulusal",Kanal 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Ulusal",Kanal 7 Europa
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Ulusal",A2
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_720p.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Ulusal",TYT TV
+https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Ulusal",Ekol Tv
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv_720p.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Ulusal",Ton Tv
+https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Ulusal",ONS TV
+https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Ulusal",CNBC-E
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Ulusal",TABİİ TV
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="HalkTV.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",Sözcü
+http://87.121.104.29:145/sozcu/stream.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="HalkTV.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="KRTTV.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",KRT TV
+https://trn03.tulix.tv/gt-krt--tv/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="Tele1.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",Tele 1
+https://tele1-live.ercdn.net/tele1/tele1.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="TRT Haber.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master_1440.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="⚡️HaberturkTV.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",Habertürk
+http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="TV100.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",TV 100
+https://tv100-live.daioncdn.net/tv100/tv100.m3u8?app=web?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="UlkeTV.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",Ulke TV
+https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="NTV.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",NTV
+https://cdn.jsdelivr.net/gh/ipstreet312/freeiptv@master/ressources/tur/ntv.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-id="24TV.tr" group-title="⚡️Haber" ,24 TV
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="TVNET.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",CNN TURK
+http://65.108.239.207:80/cnn/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="BloombergHT.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",Bloomberg HT
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/bloomberght/bloomberght.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="BloombergHT.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",A Haber
+http://87.121.104.29:145/ahberyt/stream.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",TGRT Haber
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="MeltemTV.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",Meltem TV
+https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-name="Flash ⚡️Haber" http-referrer="" http-user-agent="" group-title="⚡️Haber",Flash Haber
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-name="Flash ⚡️Haber" http-referrer="" http-user-agent="" group-title="⚡️Haber",Tv Net
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="GZT" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",GZTHaber
+https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="BENGÜ TÜRK" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",BENGÜ TÜRK
+https://tv.ensonhaber.com/benguturk/benguturk.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",TBMM
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="HalkTV.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡️Haber",İlke Tv
+https://stream.ilketv.com.tr/hls/ilkecanli.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Cizgi Film",Duck Tv
+https://d2lqf4qmkxuiyv.cloudfront.net/DuckTVHDSAMS/DuckTVHDSAMS_720p_AAC.stream/chunks.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Cizgi Film",Disney Jr. TR
+https://saran-live.ercdn.net/disneyjunior/index.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Cizgi Film",MINIKA GO
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Cizgi Film",MINIKA ÇOCUK
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Cizgi Film",Baby tv
+https://saran-live.ercdn.net/babytv/index.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Cizgi Film",TRT ÇOCUK
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Cizgi Film",DIYANET ÇOCUK
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Belgesel", NatureTime Belgesel
+http://104.238.23.182/yt1/naturel.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Belgesel",Antik Mısır
+http://104.238.23.182/yt1/misir.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Belgesel",Gez Dolaş Avrupa
+http://104.238.23.182/yt1/gdavrupa.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Belgesel",Gez Dolaş TÜRKİYE
+http://104.238.23.182/yt1/gdtr.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Belgesel",TLC
+https://trn03.tulix.tv/gt-tlc-tv/index.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Belgesel",TLC Suc
+http://104.238.23.182/yt1/tlcs.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Belgesel",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Belgesel",NAT GEO
+https://saran-live.ercdn.net/natgeohd/index.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Belgesel",NAT GEO WILD
+https://saran-live.ercdn.net/natgeowild/index.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Belgesel",BBC
+http://65.108.239.207/bbc/tracks-v1a1/mono.ts.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Belgesel",Discovery
+http://65.108.239.207:80/discovery/index.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Belgesel",Love Nature
+http://65.108.239.207/lovenature/tracks-v1a1/mono.ts.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Belgesel",ID
+http://65.108.239.207/discs/tracks-v1a1/mono.ts.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Belgesel",Docu Screen
+http://65.108.239.207/docubox/tracks-v1a1/mono.ts.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Belgesel",TLC
+https://trn03.tulix.tv/gt-tlc-tv/index.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Belgesel",Çifci Tv
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Belgesel",Dmax
+https://trn03.tulix.tv/gt-dmax-tv/index.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Belgesel",VİZON WILD
+https://tv191.radyotelekom.com.tr:3835/stream/play.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Belgesel",NATURE TIME
+https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Belgesel",CGTN Belgesel
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Pofidix Sinema
+http://5.178.103.239:82/d/live/out.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Pofidix Sinema 2
+http://104.238.23.216/d/live/out.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Pofidix Sinema 3
+http://104.238.23.182/d/live/out.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Boncuk Tv
+http://104.238.23.221:82/boncuktv/Depo/live/out.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",CİNE 6 MAX
+https://cinemax6.cinemax6.com:3118/stream/play.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",beIN Box 1
+http://65.108.239.207/box1/tracks-v1a1/mono.ts.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",beIN Box 2
+http://65.108.239.207/box2/tracks-v1a1/mono.ts.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",beIN Box 3
+http://65.108.239.207/box3/tracks-v1a1/mono.ts.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",beIN Movies Actions
+http://65.108.239.207/bsaction1/tracks-v1a1/mono.ts.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",beIN Movies Family
+http://65.108.239.207/bsfamily/tracks-v1a1/mono.ts.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",beIN Movies Premiere
+http://65.108.239.207/bspremier1/tracks-v1a1/mono.ts.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",beIN Movies Stars
+http://65.108.239.207/bsstars/tracks-v1a1/mono.ts.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Sinema
+http://65.108.239.207:80/sinema/index.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Sinema 2
+http://65.108.239.207:80/sinema2/index.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Sinema Aksiyon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvheryerde.com
+https://ds.ayakkabiparti.lol/sinemaaksiyon/tracks-v1a1/mono.ts.m3u8?tms=1761831684&token=dAM8Vr9mi-oo8p0AMACm9Q?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Sinema Aksiyon 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvheryerde.com
+https://ds.ayakkabiparti.lol/sinemaaksiyon2/tracks-v1a1/mono.ts.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Sinema Aile
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvheryerde.com
+https://stream.tecostream.xyz/Sinema_Aile.php?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Sinema 1001
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvheryerde.com
+https://stream.tecostream.xyz/Sinema_1001.php?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Sinema 1002
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvheryerde.com
+https://ds.ayakkabiparti.lol/sinema1002/tracks-v1a1/mono.ts.m3u8?tms=1761831684&token=dAM8Vr9mi-oo8p0AMACm9Q?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Sinema Komedi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvheryerde.com
+https://ds.ayakkabiparti.lol/sinemakomedi/tracks-v1a1/mono.ts.m3u8?tms=1761831684&token=dAM8Vr9mi-oo8p0AMACm9Q?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",FX
+https://saran-live.ercdn.net/fx/index.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Life Tv
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",SDM
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Deniz Postası
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Tivi 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Cine 1
+https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Play Tv
+https://ip100.radyotelekomtv.com:3784/stream/play.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",TV B
+https://ip44.radyotelekomtv.com:3958/stream/play.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",Yansıma Sinema
+https://cdn4.yayin.com.tr/yansimasinematv/video.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Sinevizyon",SuperTurk TV
+http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="⚡7/24 Yerli Film",Yesilcam
+http://162.212.179.33/gin-trn09/gt-yesilcam-tv1/tracks-v1a1/mono.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="⚡7/24 Yerli Film",MoviesSmart Turk
+http://65.108.239.207/mvturk/tracks-v1a1/mono.ts.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="⚡7/24 Yerli Film",beIN Movies Turk
+http://65.108.239.207/bsturk/tracks-v1a1/mono.ts.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="⚡7/24 Yerli Film",Sinemax Türk
+http://162.212.179.33/gin-trn09/gt-sinevizyon-1/playlist.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="⚡7/24 Yerli Film",Arzu Film
+http://104.238.23.182/yt1/kms.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="⚡7/24 Yerli Film",Film Atölyesi
+http://104.238.23.182/yt1/kms1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="⚡7/24 Yerli Film",Kemal Sunal
+http://104.238.23.182/yt1/kms2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="⚡7/24 Yerli Film",Gulsah Film
+http://104.238.23.182/yt1/kms3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="⚡7/24 Yerli Film",Rize Türk TV
+https://yayin.rizeturk.com:3777/hybrid/play.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="⚡7/24 Yerli Film",isviçre Tv
+https://i41.ozelip.com:3269/hybrid/play.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Dizi Tv",Yedi Numara
+http://104.238.23.182/yt1/7numara.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Dizi Tv",Seksenler
+http://104.238.23.182/yt1/80ler.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Dizi Tv",Güldür Güldür
+http://104.238.23.182/yt1/gg.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Dizi Tv",Yalan Dünya
+http://104.238.23.182/yt1/yd.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Dizi Tv",Avrupa Yakası
+http://104.238.23.182/yt1/ay.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Dizi Tv",Kanal D Arşiv
+http://104.238.23.182/yt1/kda.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Dizi Tv",Dizi TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Dizi Tv",Siyah_beyaz_aşk
+https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/Siyah_beyaz_ask_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Dizi Tv",Tatli_intikam
+https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/tatli_intikam_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Dizi Tv",Zalim_istanbul
+https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/zalim_istanbul_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Dizi Tv",FailArmy
+https://da6b222e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbm9fRmFpbEFybXlfSExT/playlist.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 1.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 1.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_d46a540a-3abc-4b50-8526-94635a7770b5&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 2.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 2.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_c0c3bd3c-4894-4d2e-824b-5bcf8d70db1d&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 3.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 3.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_14588ac1-132c-46b0-8fe2-cfbc65ad4226&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 4.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 4.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_5eff4fc4-864c-4d83-a891-c075f57cd5ef&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 5.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 5.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_0dfe89d0-a13e-4402-945f-9b82223507c8&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 6.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 6.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_94ece83c-fb4d-4230-bb7b-d84bdf47ed1a&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 7.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 7.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_fde13c7a-4ba1-4810-8bd7-d07d6ed9da60&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 8.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 8.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_f4484b3b-7313-47ac-b42d-20d0a0e9fa32&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 9.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 9.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_009b503e-f084-4fb7-a4ad-3e7923e60dba&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 10.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 10.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_3de31b53-fd3c-4037-a54b-ad580d78e0a8&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 11.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 11.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_2caae279-a787-457f-be05-63b1618c5e8f&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 12.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 12.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_9d2c1cdd-6ead-43ec-89e5-ed306d24e7d9&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 13.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 13.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_e08704f1-73c2-4ec3-8af7-666f96ad4b96&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 14.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 14.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_a1df4419-7488-43cd-b412-4bffe91c43bb&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 15.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 15.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_4258bb03-a626-4c90-b837-030166baa7d4&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 16.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 16.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_d7c51236-0ea1-42db-b29b-042d509bfbf1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 17.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 17.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_276720ce-e71d-4891-a03f-15e96daf8dbf&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 18.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 18.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_8216bc3c-f73e-488a-8b9d-82de69c4c696&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 19.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 19.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_676a8cda-bafd-4e7a-91ef-2ccd83514105&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 20.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 20.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_4da902be-fb17-40cd-8282-5b3d7efa7834&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 21.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 21.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_88acc4f2-3292-4511-90f9-1657a6f3090b&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 22.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 22.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_bd2604fe-0384-414f-b80c-7bfbc9581f75&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 23.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 23.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_fb634114-7c43-4737-979e-8b7d84bad2eb&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 24.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 24.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_de1ffc07-ddc4-4312-bd8c-03ada36fbd34&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 25.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 25.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_1ee8e243-33fc-482b-bc1e-63af5bbdc989&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 26.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 26.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_55814805-28c3-427f-9b26-e5a3d0f4791c&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 27.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 27.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_dea5022d-25fc-4373-880e-4ee8ec47f5c2&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 28.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 28.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_8044491e-7464-47cb-9d89-565f9648d5ca&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 29.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 29.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_fafadedb-0d6f-4111-902e-e23938b41c78&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 30.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 30.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_a7218c50-fe04-4d65-a239-b18ee9842e5c&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 31.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 31.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_bbb951df-38f2-4bc6-ba5e-65bdd939f429&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 32.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 32.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_dc279caf-eba5-429e-a87b-736fdc314c51&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 33.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 33.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_a29fc4f4-1dec-4891-8841-3a4ba7b44cb8&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 34.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 34.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_90c3b68f-d747-4645-9db3-eafbd0c6326b&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 35.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 35.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_a22247af-f3f2-488a-b6b8-f257a63006dd&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 36.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 36.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_e8f14861-0dcc-4438-87b7-3882ddaea0d2&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 37.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 37.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_9215a6af-ff66-4397-aaa8-4661773f710b&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 38.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 38.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_d5de3a63-e965-4cca-9ddf-005ab8fae1a3&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 39.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 39.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_8cee9d12-817f-48d4-92d8-9886019e1bac&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 40.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 40.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_9b32c700-fe00-4889-98f0-ac547bd9f0c6&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 41.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 41.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_eec4c2d2-c51d-4102-a2f8-e96116ab64a5&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 42.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 42.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_a3a7207a-b521-4fe5-a261-a958db4bd805&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 43.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 43.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_5c352679-6509-4224-9cbe-c0d9cb0f22be&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 44.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 44.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_40cf14bb-37b7-429b-a7c3-0d5dcf8e3386&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 45.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 45.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_e790bbbd-64f8-4699-a8df-a9ef7d4f9134&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 46.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 46.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_97940b81-ab5f-43a2-9564-1dc22bf2fcdf&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 47.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 47.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_c603b789-a018-4bca-967b-f051cb26a5c3&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 48.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 48.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_49b8cc17-4518-46d7-8e0c-f9f2cab16a07&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 49.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 49.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_afb60c8b-4334-4c99-a429-23ea65360c44&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 50.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 50.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_06463ea0-b139-4111-af7c-be8ad9613ce9&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 51.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 51.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_410a48fe-cee9-4686-9ec8-d16974b704c3&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Güzel Köylü 1.Sezon 52.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Güzel Köylü",TR: Güzel Köylü 1.Sezon 52.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_2d318ff8-ceb8-4970-81c5-dbf32096b26f&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 1.Sezon 1.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 1.Sezon 1.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_2cf29645-9fc8-4bf5-ab2c-90fd916ab000&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 1.Sezon 2.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 1.Sezon 2.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_01b730b6-ef73-41fe-9b28-5ed851994842&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 1.Sezon 3.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 1.Sezon 3.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_bd4d9b5e-2aa3-4d56-af4e-19741c094bea&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 1.Sezon 4.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 1.Sezon 4.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_a3bcb393-70ea-4e47-87e9-c52bb6e3ab1b&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 1.Sezon 5.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 1.Sezon 5.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_cb1ae6f1-2581-4a5a-9fad-d7a9c97a54b0&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 1.Sezon 6.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 1.Sezon 6.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_9ed419b4-1d54-4888-9b7c-af867060cbf2&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 1.Sezon 7.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 1.Sezon 7.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_a2f05db6-8239-4386-812c-96043dbbff16&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 1.Sezon 8.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 1.Sezon 8.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_6d649cc3-9991-4a98-ab6c-6bfef322dfff&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 1.Sezon 9.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 1.Sezon 9.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_aff77009-33fe-43f3-9011-6824c959b093&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 1.Sezon 10.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 1.Sezon 10.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_5e2eb714-c7b6-4b8e-9548-28d22572f30a&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 1.Sezon 11.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 1.Sezon 11.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_2b7abdbe-cc19-4a23-9fdf-b5a167822bf7&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 1.Sezon 12.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 1.Sezon 12.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_22d34565-b556-4cc5-b8bf-6a56ef445a72&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 1.Sezon 13.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 1.Sezon 13.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_4efd3f98-6e84-4ce7-acca-4b6fc5e2aa6c&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 1.Sezon 14.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 1.Sezon 14.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_d4a8e0dd-5500-4d88-9804-97e1d810c7e2&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 1.Sezon 15.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 1.Sezon 15.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_7b3063a1-05be-46cb-8b9a-d12b059441a7&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 1.Sezon 16.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 1.Sezon 16.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_d5f85ae1-e407-499c-a4da-9acdd96ff3ea&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 1.Sezon 17.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 1.Sezon 17.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_aa3037a0-2ade-42f5-9d39-ae852cbd7cc0&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 1.Sezon 18.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 1.Sezon 18.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_5129238f-8c59-4ac5-ad7f-8026619c5e80&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 1.Sezon 19.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 1.Sezon 19.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_ad205036-0712-490d-80fd-18210d2e7ad7&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 1.Sezon 20.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 1.Sezon 20.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_0e0072ee-ceb7-4882-8f91-c350468199d2&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 1.Sezon 21.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 1.Sezon 21.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_20ae3e1f-41e3-454c-968c-f68e6839b63d&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 1.Sezon 22.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 1.Sezon 22.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_79dcbb75-10b5-4d1e-a3b0-c4e852eb259a&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 1.Sezon 23.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 1.Sezon 23.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_60e8c560-36b4-4c2e-81ff-527a81741eaa&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 1.Sezon 24.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 1.Sezon 24.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_fc36bd09-6677-43ed-9e24-6ec73efa74a1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 1.Sezon 25.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 1.Sezon 25.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_988fe3d7-faa7-48af-9864-cccd31c03b59&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 1.Sezon 26.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 1.Sezon 26.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_1bc31b06-625f-4d95-9477-5b133985596e&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 1.Sezon 27.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 1.Sezon 27.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_f2dd0b9e-0843-4221-be69-2b1ad7d481f6&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 1.Sezon 28.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 1.Sezon 28.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_f431b50e-48ab-44cf-b851-0efd3783d03e&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 1.Sezon 29.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 1.Sezon 29.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_cb53e44d-24f7-4605-a6b9-f0f6593ff40a&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 1.Sezon 30.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 1.Sezon 30.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_5416b03d-941c-40a6-b9b8-452e2d380607&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 1.Sezon 31.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 1.Sezon 31.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_2963d48d-482a-49ec-8c45-bd0d20608293&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 1.Sezon 32.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 1.Sezon 32.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_512c10a1-cd28-4781-8b25-f9ed0ce8f43f&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 1.Sezon 33.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 1.Sezon 33.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_61eee205-dcb5-4c83-a10f-cd5cc2762193&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 2.Sezon 34.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 2.Sezon 34.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_6fa84e07-af10-4f90-b110-6e3695702aa1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 2.Sezon 35.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 2.Sezon 35.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_982d03a5-2f15-4d8a-a91a-9ea777f9dde4&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 2.Sezon 36.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 2.Sezon 36.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_f4e28f86-70df-4f6a-a7b2-acb7d2691baa&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 2.Sezon 37.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 2.Sezon 37.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_07238fc2-3126-4616-a03a-e4d5d5727063&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 2.Sezon 38.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 2.Sezon 38.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_6b501f09-a646-4d5a-a6ea-9d07c8b935af&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 2.Sezon 39.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 2.Sezon 39.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_63fa925c-a961-4a57-8bb7-79966e6e68e0&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 2.Sezon 40.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 2.Sezon 40.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_1d025612-fabd-45ff-93be-a99968d6c424&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 2.Sezon 41.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 2.Sezon 41.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_fd1a507e-8aca-4bb3-89fb-269260799e9a&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 2.Sezon 42.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 2.Sezon 42.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_0621320e-d2ad-4491-a2eb-0c20c2c5aa41&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 2.Sezon 43.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 2.Sezon 43.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_0962a88b-198a-4a60-b4c4-93f823f3470c&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 2.Sezon 44.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 2.Sezon 44.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_b6127fe0-e3b7-44de-8b09-0eb8a296e7dc&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 2.Sezon 45.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 2.Sezon 45.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_aef6b517-7f6d-4aaf-b03f-d664e2926b61&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 2.Sezon 46.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 2.Sezon 46.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_3e87716a-d159-4af9-8ec0-cb0558535231&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 2.Sezon 47.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 2.Sezon 47.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_e21e11aa-31b3-4215-9ebf-0b2929dc1255&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 2.Sezon 48.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 2.Sezon 48.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_c8ded6d7-8b6e-44b1-a392-5a2dcadd1a4e&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 2.Sezon 49.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 2.Sezon 49.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_6c73fea0-e032-4d9e-bc60-322b12e2d15f&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 2.Sezon 50.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 2.Sezon 50.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_d931e648-cd6a-4f04-9cec-4b65e18cd401&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 2.Sezon 51.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 2.Sezon 51.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_c11adc99-ef71-45fc-8659-774ac7815a01&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 2.Sezon 52.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 2.Sezon 52.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_6e3da6a2-0e88-41b8-9955-2e84b27ec23c&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 2.Sezon 53.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 2.Sezon 53.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_f754727f-cff2-480e-a635-a5ffbd58985e&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 2.Sezon 54.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 2.Sezon 54.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_40532ef7-202e-49c1-979e-0820dbcac6f2&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 2.Sezon 55.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 2.Sezon 55.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_19aa6690-271f-4baa-bb2a-f36088e872ce&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 2.Sezon 56.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 2.Sezon 56.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_88808ce0-ee38-4ae4-bc3f-6285aae9e989&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 2.Sezon 57.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 2.Sezon 57.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_bbed51d1-002b-4a03-a646-3d1416f473fe&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 2.Sezon 58.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 2.Sezon 58.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_57e66f48-d0ea-4f19-9b43-8c359b106e60&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 2.Sezon 59.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 2.Sezon 59.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_f2c2d691-e01c-48d5-bb0b-607e04f7dc5b&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 2.Sezon 60.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 2.Sezon 60.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_d0a1a59a-9b6b-4424-ae14-e4293ba884da&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 2.Sezon 61.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 2.Sezon 61.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_b7bfb63b-108c-4dff-ba12-e6a733acae0a&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 2.Sezon 62.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 2.Sezon 62.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_50a5b10f-461f-4e8c-9ff4-3febd8a6b3de&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 2.Sezon 63.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 2.Sezon 63.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_bec4c780-9880-4baf-b082-af693a32b818&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 2.Sezon 64.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 2.Sezon 64.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_b298281f-ec55-469d-9e9f-6c2207f88267&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 2.Sezon 65.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 2.Sezon 65.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_54308676-f16d-4242-8522-b4d767fccc13&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 2.Sezon 66.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 2.Sezon 66.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_007960c8-3055-436f-878e-891e8be29bdc&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 2.Sezon 67.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 2.Sezon 67.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_b117f97a-d625-40aa-8ed5-9693945684f2&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 3.Sezon Özel Bölüm #ÇukurEvde" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 3.Sezon Özel Bölüm #ÇukurEvde
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_815048_7EF6CC7A&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 3.Sezon Özel Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 3.Sezon Özel Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_812861&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 3.Sezon 68.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 3.Sezon 68.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_812946&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 3.Sezon 69.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 3.Sezon 69.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_813000&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 3.Sezon 70.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 3.Sezon 70.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_813084&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 3.Sezon 71.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 3.Sezon 71.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_813153&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 3.Sezon 72.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 3.Sezon 72.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_813234_EEC5916A&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 3.Sezon 73.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 3.Sezon 73.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_813267_4169A42F&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 3.Sezon 74.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 3.Sezon 74.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_813345_A5EC7799&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 3.Sezon 75.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 3.Sezon 75.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_813399_7B68D52A&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 3.Sezon 76.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 3.Sezon 76.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_813520_6F7CC59A&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 3.Sezon 77.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 3.Sezon 77.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_813669_695C16BC&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 3.Sezon 78.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 3.Sezon 78.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_813794_C18354D1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 3.Sezon 79.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 3.Sezon 79.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_813896_C5A75561&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 3.Sezon 80.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 3.Sezon 80.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_813957_16B43CE0&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 3.Sezon 81.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 3.Sezon 81.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_814003_201044A7&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 3.Sezon 82.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 3.Sezon 82.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_814039_24A42F44&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 3.Sezon 83.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 3.Sezon 83.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_814069_7A357C81&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 3.Sezon 84.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 3.Sezon 84.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_814127_0A57F0D8&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 3.Sezon 85.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 3.Sezon 85.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_814158_827A49A8&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 3.Sezon 86.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 3.Sezon 86.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_814203_177CF726&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 3.Sezon 87.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 3.Sezon 87.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_814235_6E0E4F7D&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 3.Sezon 88.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 3.Sezon 88.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_814269_4ABDC133&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 3.Sezon 89.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 3.Sezon 89.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_814307_2A7845B4&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 3.Sezon 90.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 3.Sezon 90.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_814362_5EC4564C&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 3.Sezon 91.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 3.Sezon 91.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_814438_1940F919&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 3.Sezon 92.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 3.Sezon 92.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_814832_A6EA11F7&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 93.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 93.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816387_D2419C0B&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 94.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 94.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816425_24C81261&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 95.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 95.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816450_175397C8&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 96.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 96.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816501_0CBD94A9&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 97.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 97.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816560_472ED3BD&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 98.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 98.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816679_61BBEE73&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 99.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 99.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816715_EFF3A014&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 100.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 100.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816749_0A2B08B9&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 101.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 101.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816778_266C2C7F&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 102.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 102.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_817670_C39F1396&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 103.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 103.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_817697_4DE69967&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 104.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 104.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_817887_E659758F&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 105.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 105.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_818045_D352A56F&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 106.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 106.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_818158_F1ADB538&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 107.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 107.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_818199_B0B623D8&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 108.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 108.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_818321_D02C1903&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 109.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 109.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_818490_2B79813D&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 110.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 110.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_818641_AC6BF8DF&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 111.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 111.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_818682_43BFEFB7&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 112.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 112.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_818741_9E436C5D&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 113.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 113.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_818780_0CB25214&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 114.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 114.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_818858_1985822A&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 115.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 115.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_818927_8F70B546&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 116.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 116.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_818985_107ED9CC&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 117.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 117.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_819033_5CFA302D&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 118.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 118.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_819101_0D7825DB&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 119.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 119.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_819237_2269ADC2&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 120.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 120.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_819488_69207278&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 121.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 121.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_819942_85C2F1D1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 122.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 122.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_819995_94D1C1ED&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 123.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 123.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_820186_7C7784CD&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 124.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 124.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_820288_8391A697&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 125.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 125.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_820315_D1B81C3D&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 126.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 126.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_820466_3009D549&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 127.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 127.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_820808_34738DC3&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 128.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 128.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_822079_49E51303&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 129.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 129.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_823282_99765454&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 130.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 130.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_823353_A7AAA877&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Çukur 4.Sezon 131.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Çukur ",TR: Çukur 4.Sezon 131.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_823377_591470BD&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 1.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 1.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_c43eb0ad-4edd-487e-b95b-754c58e3ef47&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 2.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 2.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_26a38734-f1fd-49a9-b3da-808245cd3adf&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 3.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 3.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_f70ced45-c0ea-4898-993d-d99f235a161a&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 4.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 4.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_1242100b-6c17-465c-8691-75bc07595bff&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 5.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 5.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_8d20fc40-3964-40e8-922d-34d63c28cafa&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 6.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 6.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_1580f66c-341d-413b-821d-2ad0e9b9bc5a&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 7.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 7.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_ec44197d-d138-4e25-8e3c-1de908287179&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 8.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 8.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_6b670d69-212a-4695-98c5-3073c307b26d&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 9.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 9.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_79fd3c67-0adf-40de-8c61-48622ff829b0&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 10.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 10.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_09225283-3bdd-4371-9fc3-2cf825bb53d3&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 11.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 11.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_524eb58a-8232-4533-ab93-72f4a77690d5&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 12.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 12.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_50af4099-c651-4146-990c-5a0697e5a6e5&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 13.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 13.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_a5251d55-6592-44a4-9b27-b110f4817596&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 14.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 14.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_091fd05e-4481-4098-a168-662a87f4be88&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 15.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 15.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_a534494c-9129-40b8-a8ed-f3af8edd25eb&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 16.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 16.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_ad1e44a2-7d2f-4096-b2f6-867f3a2b9cf4&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 17.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 17.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_035fa143-b302-40b1-b60f-563aef80c659&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 18.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 18.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_9d8e4a1d-f816-4504-98ae-279f32be259a&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 19.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 19.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_d10b52c7-d3f5-4af0-80dc-8cce3bbfca36&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 20.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 20.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_db28811c-6b59-4dae-a6dc-67de46927220&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 21.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 21.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_51356820-806d-464e-ae54-bf60ade1ccc5&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 22.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 22.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_b3d578e0-0ce8-4fb1-89ad-898d9fb01f00&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 23.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 23.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_897ef5b8-15b0-4dea-8265-3ac7c25b0f90&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 24.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 24.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_3543eaf3-2ba7-4dbb-90d1-249ac92b38d3&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 25.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 25.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_407819da-e917-42ea-807a-b2481931ca75&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 26.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 26.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_f2a8ad7e-239c-4f99-88e1-3a5212b64809&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 27.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 27.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_78344435-283a-4590-916a-4399b043341a&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 28.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 28.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_1f17e3b9-d970-4308-bc7b-49c8b8b8b750&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 29.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 29.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_46172e3a-6378-4be1-9ea8-753533f4ca54&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 30.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 30.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_4f737529-b67d-4735-81b8-b440144e4de5&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 31.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 31.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_afa1dd4e-da6e-42e2-a178-e88a0bfa474e&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 32.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 32.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_447a5454-e3f0-47ec-aabd-bb0ab2972658&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 33.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 33.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_ce7f3887-26b5-4a1e-b688-04c1154b2de7&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 34.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 34.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_a3623ef5-25bd-4f3f-b8fd-4580e4b011b9&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 35.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 35.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_96909eb5-ff7a-47a4-9e39-6f30f1f3a2d8&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 36.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 36.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_44247f69-d364-4f4f-aaaa-24130c578963&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 37.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 37.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_46a39e2f-6a39-416b-9f2f-a0c60d5ce00e&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 38.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 38.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_bfa47b78-ad73-4e27-96eb-cdb9f1bd85d8&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 39.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 39.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_9cc8f2aa-6507-4a9e-a024-c817de4a3d05&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 40.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 40.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_f185170d-d590-4a8e-bc1f-5743f4df2333&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 41.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 41.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_404e8407-f887-402e-a2e8-8be5be96fce7&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 42.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 42.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_01b2e45d-f9fd-4978-a5dd-015558cf9eff&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 43.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 43.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_e1abf968-61fe-42d1-b907-886993d6d6b2&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 44.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 44.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_ce58764c-97b0-403d-bdb2-a805319720c9&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 45.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 45.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_583ea9e2-2ef9-45c0-83f0-4312791aaae3&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 46.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 46.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_c774a3d7-e07b-4a29-9833-af8c26178687&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 47.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 47.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_acb05ed0-459d-4dc3-abec-f4a35555daa2&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 48.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 48.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_dac731fb-51bb-4ae6-9916-e978c1b5b2e3&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: Yalancı Yarim 1.Sezon 49.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yalancı Yarim",TR: Yalancı Yarim 1.Sezon 49.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_28580569-d26b-4c74-a033-57ed49351deb&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 1.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 1.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_c25e33e3-3fd0-4934-85b0-99469fc24f50&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 2.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 2.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_c355f24a-2ffb-4749-a124-32bc6d856113&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 3.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 3.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_f22c8d2c-ec26-4d48-bba0-418b799a1aa3&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 4.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 4.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_9e484214-165d-4fd0-af0c-5b4c92891daa&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 5.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 5.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_ebea46d7-6063-405e-968a-22e673bbaefd&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 6.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 6.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_2f513e17-e1dc-4974-92fe-aca13b7cd543&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 7.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 7.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_a7b8da7e-3c1f-4244-85a7-370353aa7887&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 8.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 8.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_5814dbe2-7c57-479d-85cb-aacc66c100dc&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 9.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 9.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_12d02953-7a13-4a6c-99ed-1760b8b269b8&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 10.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 10.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_1d2cc67b-363a-4afb-885e-4459dad19555&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 11.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 11.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_546a5470-16de-4336-94af-074a27a4caa8&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 12.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 12.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_c4e1f738-cb03-4d04-bc1d-e2676f3cc8f6&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 13.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 13.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_06d5a4de-d5d6-49cd-8f77-2bd70c9d58ac&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 14.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 14.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_c6798cac-e4c7-4e14-9cd7-7e850d9afe0f&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 15.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 15.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_ead4eccd-34cf-4fb0-9d25-f2ee2abb41da&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 16.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 16.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_0e0ba8b9-9c9c-462e-9733-0530be81e13d&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 17.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 17.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_20ba54fa-b1d5-491d-b3cd-0bed697cd2ad&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 18.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 18.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_2d10c0ac-5cad-4208-a051-d7a36622dccd&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 19.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 19.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_8a955435-f711-476f-a0c4-3e577efff87c&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 20.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 20.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_22ca0a09-8644-4d36-896a-2f8e5001241a&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 21.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 21.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_eaffa057-8d76-48d7-baa6-c4b5ec666f47&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 22.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 22.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_cf364304-1875-48c3-955a-58ae9bcab8e6&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 23.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 23.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_fa4d86af-e4b9-4bb0-a792-2b5db528a34c&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 24.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 24.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_060c1c30-6836-44c2-ad4f-488caaf6a414&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 25.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 25.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_266834dc-115a-4bf7-ad4f-3c6eba569ce7&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 26.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 26.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_f18f1ea9-c9b7-4b71-ae17-8a6d522ff27b&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 27.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 27.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_3f3a478e-dd4d-491e-9fb1-63f46bc5a05c&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 28.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 28.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_34831f75-2da1-4106-983a-86779ed05a1c&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 29.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 29.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_38f0be2e-23c0-4838-8b7c-db5a9b1e20c1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 30.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 30.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_ae970417-7623-4357-8e08-8ad9c27ed27a&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 31.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 31.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_cd9f56c5-b3b9-464e-a428-64531f7ef0ac&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 32.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 32.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_b50296d3-c570-48d5-b2d5-0d8c1848d87a&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 33.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 33.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_d8f8d76b-5a19-476a-bc16-fcbc0f682456&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 34.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 34.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_8780afa9-f328-4f09-9d0d-ed48b440a3c0&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 35.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 35.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_25414e7b-603e-40c2-8d7b-78898b2a0ce4&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 36.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 36.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_f2eb8db5-7462-4525-9392-3e35a883507a&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 37.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 37.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_89c5aa2b-b0eb-4547-9a8e-6419fa1855f2&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 38.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 38.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_a21d8e1a-a7e2-44eb-b83d-a04a470b3350&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-id="vod.tr" tvg-name="TR: İçerde 1.Sezon 39.Bölüm" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡İçerde",TR: İçerde 1.Sezon 39.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_2feda98d-91a7-4886-aa2a-684c14ef4036&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="⚡Spor",beIN Spor Haber
+http://104.238.23.182/yt1/bsh.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Spor",TRT Spor
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Spor",TRT Spor Yıldız
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="⚡Spor",ASPOR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Spor",EKOL SPOR
+https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Spor",Tabii Spor
+https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Spor",Tabii Spor1
+https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Spor",Tabii Spor2
+https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Spor",Tabii Spor3
+https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Spor",Tabii Spor4
+https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Spor",Tabii Spor5
+https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Spor",Tabii Spor6
+https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Spor",Tabii Spor7
+https://rxnE77JupTdEYKE3TytvGQWYh.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Spor",Sports TV
+https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Spor",TRSPOR TV
+http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Spor",HT Spor
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Spor",TJK TV
+http://tjktv.ercdn.net/tjktv.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Spor",TAY TV
+https://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Spor",Horse Tv
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7734
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Spor",MonsterJam
+https://4b9627c7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vbnN0ZXJKYW1fSExT/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Spor",GF Tv
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6881
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Spor",TNA Wrestling
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883039
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Spor",DAZN Combat Boks TV
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="⚡Spor",PFL MMA
+https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" tvg-language="Türkçe" tvg-country="TR" group-title="⚡Spor",World Billiards
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Spor",Hard Knocks Fighting
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/2ee2b8d4-acc4-4296-9dc8-66f1ffd0fff8/5.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Spor",RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Spor",FİFA
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yerli Muzik",EZGI  Müzik
+https://live.euromediacenter.com/ezgitv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yerli Muzik",4Turkpop
+https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/chunklist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yerli Muzik",TRT Muzik
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yerli Muzik",NR 1
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yerli Muzik",NR 1 Damar
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yerli Muzik",Power Turk
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yerli Muzik",Power Turk Slow
+https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yerli Muzik",Power Turk Taptaze
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yerli Muzik",Powertürk Akustik
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yerli Muzik",Slow Karadeniz
+https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yerli Muzik",Dream Turk
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yerli Muzik",Damar Web
+https://tvsms.club/tv.php?kanal=damar&file=.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yerli Muzik",Arabesk Web
+https://tvsms.club/tv.php?kanal=arabeskyeni&file=.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yerli Muzik",Sıla Tv
+https://tvsms.club/tv.php?kanal=silatv&file=.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yerli Muzik",Güclü  Tv
+https://tvsms.club/tv.php?kanal=zeynotv&file=.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yerli Muzik",Dost Web
+https://tvsms.club/tvz.php?kanal=dost&file=.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yerli Muzik",Toppop
+https://tvsms.club/tvz.php?kanal=toppop&file=.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yerli Muzik",Genc Sms
+https://tvsms.club/tv.php?kanal=genctv&file=.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yerli Muzik",Aviva Tv
+https://tvsms.club/tv.php?kanal=vivatv&file=.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yerli Muzik",Finest Tv
+http://media.finest.tv/hls/live.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yerli Muzik",Kanal 6
+https://cdn4.yayin.com.tr/channel6tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yabancı Muzik",Now Tv 80Ler
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yabancı Muzik",STRANA TV
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yabancı Muzik",VIII  BEAT
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yabancı Muzik",BANOVİNA TV
+https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yabancı Muzik",STRANA FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yabancı Muzik",OCKO EXPRES
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/live_hq.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yabancı Muzik",SPIRIT TV MUSIC
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yabancı Muzik",pulse-rock
+https://dotfvxkfj90ca.cloudfront.net/programming/pulserocknew/chunklist.m3u8?token=f22db40c-a819-49f2-8b25-d636afcabaf6&streamSessionId=943c34d1-62ec-4bd0-ab1b-d89ce5422d7f&code=TELEATLANTIC&expires=1740700800000&playUrl=true&ctrl=6542319cd9e87957f8f5bed793812cbea2e07593dd0f0a5ae6a23e880e520c8a6fc74ebe9b987d0108c08ed82400d708307686a74bb97d363b1690fa53a157e7
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yabancı Muzik",Hype Radio
+https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yabancı Muzik",Stingray DJAZZ
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yabancı Muzik",Stingray Hit List
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Yabancı Muzik",SKYFOLK
+https://us.live.skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Radyo"Radyo",KARADENİZ FM
+https://moondigitalmaster.radyotvonline.net/karadenizfm/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Radyo"Radyo",SLOW HOME
+http://moondigitalmaster.radyotvonline.net/slowhome/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Radyo"Radyo",90 Lar FM
+https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Radyo"Radyo",TÜRKÜLERLE TÜRKİYE
+http://moondigitalmaster.radyotvonline.net/turkulerleturkiye/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Radyo"Radyo",TRT MEMLEKETİM FM
+https://radio-trtmemleketimfm.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Radyo"Radyo",TRT TÜRKİYE'NİN SESİ RADYOSU
+https://radio-trttsr.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Radyo"Radyo",ARABESKLAND
+https://moondigitalmaster.radyotvonline.net/arabeskland/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Radyo"Radyo",MÜZEYYEN SENAR
+http://moondigitaledge.radyotvonline.net/muzeyyen/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Radyo"Radyo",Baba Radyo
+https://babaradyo.turkhosted.com/best/babaradyo.stream/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Radyo"Radyo",Kafa Radyo
+https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Radyo"Radyo",Kral Pop
+https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/chunklist_w1813872028_b128000.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Radyo"Radyo",Power Turk
+https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Radyo"Radyo",Pal Nostalji
+https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Radyo"Radyo",Radyo D
+https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Radyo"Radyo",Fenomen Türk
+https://live.radyofenomen.com/fenomenturk/abr/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Radyo"Radyo",Power - Pop
+https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Radyo"Radyo",Radyo Fenomen
+https://live.radyofenomen.com/fenomen/abr/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Radyo"Radyo",Best Fm
+https://wowza1.radyotvonline.com/best/bestfm.stream/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Radyo"Radyo",Radyo Turkuvaz
+https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Radyo"Radyo",Pal Station
+https://moondigitaledge.radyotvonline.net/palstation/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Radyo"Radyo",Power Plus
+https://listen.powerapp.com.tr/powerplus/abr/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Radyo"Radyo",Pal FM
+https://moondigitaledge.radyotvonline.net/palfm/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Radyo"Radyo",Power - Love
+https://listen.powerapp.com.tr/powerlove/abr/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Radyo"Radyo",Full FM Türkiye
+https://listen.powerapp.com.tr/powerdance/abr/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Radyo"Radyo",Karadeniz FM
+https://moondigitaledge.radyotvonline.net/karadenizfm/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Radyo"Radyo",Fenerbahçe FM
+https://ssl4.radyotvonline.com/radyohome/radyofenerbahcehome.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Radyo"Radyo",Radyo Voyage
+https://ssldyg.radyotvonline.com/pozitif/smil:voyage.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Radyo"Radyo",Baba Radyo
+https://babaradyo.turkhosted.com/best/babaradyo.stream/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Radyo"Radyo",Arabeskland Radyo
+https://moondigitaledge.radyotvonline.net/arabeskland/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Radyo"Radyo",Efsane
+https://moondigitaledge.radyotvonline.net/efsane4lu/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Radyo"Radyo",AKUSTiK
+https://moondigitaledge.radyotvonline.net/akustikland/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Radyo"Radyo",ANKARA OYUN HAVALARI
+https://moondigitalmaster.radyotvonline.net/ankarahavalari/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Radyo"Radyo",POP HOME
+https://ssl4.radyotvonline.com/radyohome/pophome.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-language="Türkçe" tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" group-title="⚡Radyo"Radyo",TRT TÜRKİYE'NİN SESİ RADYOSU
+https://radio-trttsr.medya.trt.com.tr/master.m3u8
