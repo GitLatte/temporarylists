@@ -1,0 +1,45 @@
+name: Etkinlikler Türkçe'ye Dönsün
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'dl/daddyliveevents.m3u'
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Install translate-shell
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y translate-shell
+
+      - name: Grupları Türkçeleştirmeye Başla!
+        run: |
+          FILE_PATH="dl/daddyliveevents.m3u"
+          TEMP_FILE_PATH="dl/temp.m3u"
+
+          cat $FILE_PATH | while IFS= read -r line; do
+            if [[ $line =~ group-title=\"([^\"]+)\" ]]; then
+              ORIGINAL_TITLE=${BASH_REMATCH[1]}
+              TRANSLATED_TITLE=$(trans -b :tr "$ORIGINAL_TITLE")
+              CAPITALIZED_TITLE=$(echo "$TRANSLATED_TITLE" | awk '{for(i=1;i<=NF;i++){$i=toupper(substr($i,1,1)) substr($i,2)}}1')
+              line=${line//group-title=\"$ORIGINAL_TITLE\"/group-title=\"$CAPITALIZED_TITLE\"}
+            fi
+            echo "$line" >> $TEMP_FILE_PATH
+          done
+
+          mv $TEMP_FILE_PATH $FILE_PATH
+
+      - name: Yolla gitsin!
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add dl/daddyliveevents.m3u
+          git commit -m "🎉 Etkinliklere Türkçe başlıklar eklendi" || echo "değiştirecek bir şey yok"
+          git pull --rebase origin main
+          git push origin main
