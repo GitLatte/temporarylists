@@ -1,0 +1,232 @@
+#EXTM3U
+
+#EXTINF:-1,360tv
+http://51.20.137.71/stream/360tv.m3u8
+
+#EXTINF:-1,a2
+http://51.20.137.71/stream/a2.m3u8
+
+#EXTINF:-1,atv
+http://51.20.137.71/stream/atv.m3u8
+
+#EXTINF:-1,beyaztv
+http://51.20.137.71/stream/beyaztv.m3u8
+
+#EXTINF:-1,bloomberght
+http://51.20.137.71/stream/bloomberght.m3u8
+
+#EXTINF:-1,haberturk
+http://51.20.137.71/stream/haberturk.m3u8
+
+#EXTINF:-1,halktv
+http://51.20.137.71/stream/halktv.m3u8
+
+#EXTINF:-1,kanal7
+http://51.20.137.71/stream/kanal7.m3u8
+
+#EXTINF:-1,kanal7avrupa
+http://51.20.137.71/stream/kanal7avrupa.m3u8
+
+#EXTINF:-1,kanald
+http://51.20.137.71/stream/kanald.m3u8
+
+#EXTINF:-1,kralpop
+http://51.20.137.71/stream/kralpop.m3u8
+
+#EXTINF:-1,nowtv
+http://51.20.137.71/stream/nowtv.m3u8
+
+#EXTINF:-1,ntv
+http://51.20.137.71/stream/ntv.m3u8
+
+#EXTINF:-1,showmax
+http://51.20.137.71/stream/showmax.m3u8
+
+#EXTINF:-1,showturk
+http://51.20.137.71/stream/showturk.m3u8
+
+#EXTINF:-1,showtv
+http://51.20.137.71/stream/showtv.m3u8
+
+#EXTINF:-1,star
+http://51.20.137.71/stream/star.m3u8
+
+#EXTINF:-1,teve2
+http://51.20.137.71/stream/teve2.m3u8
+
+#EXTINF:-1,tgrthaber
+http://51.20.137.71/stream/tgrthaber.m3u8
+
+#EXTINF:-1,trt1
+http://51.20.137.71/stream/trt1.m3u8
+
+#EXTINF:-1,trt2
+http://51.20.137.71/stream/trt2.m3u8
+
+#EXTINF:-1,trtbelgesel
+http://51.20.137.71/stream/trtbelgesel.m3u8
+
+#EXTINF:-1,trtcocuk
+http://51.20.137.71/stream/trtcocuk.m3u8
+
+#EXTINF:-1,trthaber
+http://51.20.137.71/stream/trthaber.m3u8
+
+#EXTINF:-1,trtspor
+http://51.20.137.71/stream/trtspor.m3u8
+
+#EXTINF:-1,trtsporyildiz
+http://51.20.137.71/stream/trtsporyildiz.m3u8
+
+#EXTINF:-1,tv100
+http://51.20.137.71/stream/tv100.m3u8
+
+#EXTINF:-1,tv24
+http://51.20.137.71/stream/tv24.m3u8
+
+#EXTINF:-1,tv8
+http://51.20.137.71/stream/tv8.m3u8
+
+#EXTINF:-1,tv8bucuk
+http://51.20.137.71/stream/tv8bucuk.m3u8
+
+#EXTINF:-1,A Haber
+http://51.20.137.71/yt/yt.m3u8?kanal=@Ahaber
+
+#EXTINF:-1,beINSportsTürkiye
+http://51.20.137.71/yt/yt.m3u8?kanal=beINSPORTST%C3%BCrkiye
+
+#EXTINF:-1,Bloomberg HT
+http://51.20.137.71/yt/yt.m3u8?kanal=@bloomberght
+
+#EXTINF:-1,CNBC-e
+http://51.20.137.71/yt/yt.m3u8?kanal=@cnbce
+
+#EXTINF:-1,EkoTürk TV
+http://51.20.137.71/yt/yt.m3u8?kanal=@EKOTURKTV
+
+#EXTINF:-1,Flash Haber TV
+http://51.20.137.71/yt/yt.m3u8?kanal=@FlashHaberTV
+
+#EXTINF:-1,Gülşah Film Kemal Sunal
+http://51.20.137.71/yt/yt.m3u8?kanal=@GulsahFilmOfficial
+
+#EXTINF:-1,Halk TV
+http://51.20.137.71/yt/yt.m3u8?kanal=@Halktvkanali
+
+#EXTINF:-1,Haber Global
+http://51.20.137.71/yt/yt.m3u8?kanal=@haberglobal
+
+#EXTINF:-1,Habertürk TV
+http://51.20.137.71/yt/yt.m3u8?kanal=@haberturktv
+
+#EXTINF:-1,HT Spor
+http://51.20.137.71/yt/yt.m3u8?kanal=@htspor
+
+#EXTINF:-1,KRT
+http://51.20.137.71/yt/yt.m3u8?kanal=@krtcanli
+
+#EXTINF:-1,Koza Tv
+http://51.20.137.71/yt/yt.m3u8?kanal=@KozaTv
+
+#EXTINF:-1,Lider Haber TV
+http://51.20.137.71/yt/yt.m3u8?kanal=@liderhabertv
+
+#EXTINF:-1,NTV
+http://51.20.137.71/yt/yt.m3u8?kanal=@NTV
+
+#EXTINF:-1,Sözcü TV
+http://51.20.137.71/yt/yt.m3u8?kanal=@Sozcutelevizyonu
+
+#EXTINF:-1,Tele1
+http://51.20.137.71/yt/yt.m3u8?kanal=@Tele1comtr
+
+#EXTINF:-1,TV 100
+http://51.20.137.71/yt/yt.m3u8?kanal=@tv100
+
+#EXTINF:-1,TVNET
+http://51.20.137.71/yt/yt.m3u8?kanal=@TVNET
+
+#EXTINF:-1,Ulusal Kanal TV
+http://51.20.137.71/yt/yt.m3u8?kanal=@ulusalkanalTV
+
+#EXTINF:-1,24 Tv
+http://51.20.137.71/yt/yt.m3u8?kanal=@YirmidortTV
+
+#EXTINF:-1,Türkiye Gazetesi TV
+http://51.20.137.71/yt/yt.m3u8?kanal=@TurkiyeGazetesi
+
+#EXTINF:-1,Ülke TV
+http://51.20.137.71/yt/yt.m3u8?kanal=@ulketv
+
+#EXTINF:-1,Kurtlar Vadisi
+http://51.20.137.71/yt/yt.m3u8?kanal=@KurtlarVadisiOfficial
+
+#EXTINF:-1,SIHIRLIANNEM
+http://51.20.137.71/yt/yt.m3u8?kanal=@SIHIRLIANNEMKANALDOFFICIAL
+
+#EXTINF:-1,Cennet Mahallesi
+http://51.20.137.71/yt/yt.m3u8?kanal=@cennetmahallesishowtv
+
+#EXTINF:-1,Yedi Numara
+http://51.20.137.71/yt/yt.m3u8?kanal=@YedinumaradizisiTRT
+
+#EXTINF:-1,Yeşilçam
+http://51.20.137.71/yt/yt.m3u8?kanal=@arzufilm1964
+
+#EXTINF:-1,Emret Komutanım
+http://51.20.137.71/yt/yt.m3u8?kanal=@EmretKomutanimOfficial
+
+#EXTINF:-1,Selena
+http://51.20.137.71/yt/yt.m3u8?kanal=@SelenaDizi
+
+#EXTINF:-1,Adanalı
+http://51.20.137.71/yt/yt.m3u8?kanal=@Adanali
+
+#EXTINF:-1,Muhteşem Yüzyıl
+http://51.20.137.71/yt/yt.m3u8?kanal=@muhtesemyuzyilofficial
+
+#EXTINF:-1,Kuzey Güney
+http://51.20.137.71/yt/yt.m3u8?kanal=@KUZEYGUNEYKANALDOFFICIAL
+
+#EXTINF:-1,Kızılcık Şerbeti
+http://51.20.137.71/yt/yt.m3u8?kanal=@kizilcikserbetidizi
+
+#EXTINF:-1,Fatmagül'ün Suçu Ne?
+http://51.20.137.71/yt/yt.m3u8?kanal=@FatmagulunSucuNeKanalD
+
+#EXTINF:-1,Son Yaz
+http://51.20.137.71/yt/yt.m3u8?kanal=@SonYazDizi
+
+#EXTINF:-1,Behzat Ç.
+http://51.20.137.71/yt/yt.m3u8?kanal=@Behzatc.
+
+#EXTINF:-1,Çocuklar Duymasın
+http://51.20.137.71/yt/yt.m3u8?kanal=@CocuklarDuymasindizi
+
+#EXTINF:-1,Yeni Gelin
+http://51.20.137.71/yt/yt.m3u8?kanal=@yenigelindizi
+
+#EXTINF:-1,Avrupa Yakası
+http://51.20.137.71/yt/yt.m3u8?kanal=@AvrupaYakasi
+
+#EXTINF:-1,Yalan Dünya
+http://51.20.137.71/yt/yt.m3u8?kanal=@YalanDunyaKanalD
+
+#EXTINF:-1,Kardeşlerim
+http://51.20.137.71/yt/yt.m3u8?kanal=@Kardeslerim
+
+#EXTINF:-1,Cartoon Network Türkiye
+http://51.20.137.71/yt/yt.m3u8?kanal=@cartoonnetworkturkiye
+
+#EXTINF:-1,Ramo
+http://51.20.137.71/yt/yt.m3u8?kanal=@ramo
+
+#EXTINF:-1,Esaret
+http://51.20.137.71/yt/yt.m3u8?kanal=@esaretdizisi
+
+#EXTINF:-1,Çok Güzel Hareketler
+http://51.20.137.71/yt/yt.m3u8?kanal=@%C3%A7okg%C3%BCzelhareketler
+
+#EXTINF:-1,Kral Müzik
+http://51.20.137.71/yt/yt.m3u8?kanal=@kralm%C3%BCzik
