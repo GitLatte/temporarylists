@@ -1,0 +1,285 @@
+name: 📺🔄 DaddyLive VPN
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-m3u:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.ACTIONHELPER }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      - name: Fetch and Process Channels
+        run: |
+          python - <<EOF
+          import requests
+          from bs4 import BeautifulSoup
+          import re
+          from urllib.parse import urlparse
+          import os
+
+          BASE_URL = "https://daddylive.dad"
+          CHANNELS_PAGE = BASE_URL + "/24-7-channels.php"
+          OUTPUT_FILE = "dl/lattenin-otomasyonu/daddylive-vpn.m3u"
+
+          DOMAINS = [
+              "https://new.newkso.ru/wind",
+              "https://zekonew.newkso.ru/zeko",
+              "https://ddy6new.newkso.ru/ddy6",
+              "https://dokko1new.newkso.ru/dokko1",
+              "https://ddh2new.newkso.ru/ddh2",
+              "https://top2new.newkso.ru/top2",
+              "https://wikinew.newkso.ru/wiki",
+          ]
+
+          country_translations = {
+              'UNITED STATES': 'Amerika Birleşik Devletleri',
+              'UNITED KINGDOM': 'Birleşik Krallık',
+              'GERMANY': 'Almanya',
+              'FRANCE': 'Fransa',
+              'ITALY': 'İtalya',
+              'SPAIN': 'İspança',
+              'NETHERLANDS': 'Hollanda',
+              'PORTUGAL': 'Portekiz',
+              'BELGIUM': 'Belçika',
+              'DENMARK': 'Danimarka',
+              'NORWAY': 'Norveç',
+              'SWEDEN': 'İsveç',
+              'FINLAND': 'Finlandiya',
+              'AUSTRIA': 'Avusturya',
+              'SWITZERLAND': 'İsviçre',
+              'GREECE': 'Yunanistan',
+              'POLAND': 'Polonya',
+              'CZECH REPUBLIC': 'Çek Cumhuriyeti',
+              'HUNGARY': 'Macaristan',
+              'ROMANIA': 'Romanya',
+              'BULGARIA': 'Bulgarca',
+              'CROATIA': 'Hırvatistan',
+              'SERBIA': 'Sırbistan',
+              'SLOVENIA': 'Slovence',
+              'SLOVAKIA': 'Slovakça',
+              'BOSNIA AND HERZEGOVINA': 'Bosna Hersek',
+              'ALBANIA': 'Arnavutça',
+              'MACEDONIA': 'Makedonya',
+              'MONTENEGRO': 'Karadağ',
+              'RUSSIA': 'Rusya',
+              'UKRAINE': 'Ukrayna',
+              'BELARUS': 'Belarus',
+              'ESTONIA': 'Estonca',
+              'LATVIA': 'Letonca',
+              'LITHUANIA': 'Litvanca',
+              'TURKEY': 'Türkiye',
+              'QATAR': 'Katar',
+              'UNITED ARAB EMIRATES': 'Birleşik Arap Emirlikleri',
+              'SAUDI ARABIA': 'Suudi Arabistan',
+              'IRAN': 'İran',
+              'ISRAEL': 'İsrail',
+              'EGYPT': 'Mısır',
+              'MOROCCO': 'Fas',
+              'TUNISIA': 'Tunus',
+              'ALGERIA': 'Cezayir',
+              'AFRICA': 'Afrika',
+              'SOUTH AFRICA': 'Güney Afrika',
+              'NIGERIA': 'Nijerya',
+              'KENYA': 'Kenya',
+              'INDIA': 'Hindistan',
+              'PAKISTAN': 'Pakistan',
+              'BANGLADESH': 'Bengalce',
+              'SRI LANKA': 'Seylanca',
+              'NEPAL': 'Nepalce',
+              'CHINA': 'Çin',
+              'JAPAN': 'Japonca',
+              'SOUTH KOREA': 'Güney Kore',
+              'THAILAND': 'Tayland',
+              'VIETNAM': 'Vietnamca',
+              'INDONESIA': 'Endonezce',
+              'MALAYSIA': 'Malayca',
+              'PHILIPPINES': 'Filipinler',
+              'SINGAPORE': 'Singapur',
+              'AUSTRALIA': 'Avustralya',
+              'NEW ZEALAND': 'Yeni Zelanda',
+              'BRAZIL': 'Brezilya',
+              'ARGENTINA': 'Arjantin',
+              'CHILE': 'Şili',
+              'COLUMBIA': 'Kolombiya',
+              'PERU': 'Peru',
+              'VENEZUELA': 'Venezuela',
+              'MEXICO': 'Meksika',
+              'OTHERS': 'Diğer Spor',
+              'CANADA': 'Kanada',
+              'CYPRUS': 'Kıbrıs',
+              'ICELAND': 'İzlandaca',
+              'IRELAND': 'İrlanda'
+          }
+
+          country_keywords = list(country_translations.keys())
+
+          def fetch_channels():
+              try:
+                  response = requests.get(CHANNELS_PAGE)
+                  response.raise_for_status()
+                  soup = BeautifulSoup(response.text, "html.parser")
+                  channels = []
+
+                  for item in soup.find_all('div', class_='grid-item'):
+                      link = item.find('a', href=True)
+                      if not link or "stream-" not in link['href']:
+                          continue
+
+                      name = link.text.strip()
+                      href = link['href']
+                      id_match = re.search(r'stream-(\d+)\.php', href)
+
+                      if id_match:
+                          channel_id = id_match.group(1)
+
+                          channel_name_lower = name.lower()
+                          if 'player' in channel_name_lower:
+                              continue
+
+                          assigned_group = "Kategorize Edilemedi"
+
+                          found_country_key = None
+                          for country_key in country_keywords:
+                              if re.search(r'\b' + re.escape(country_key.lower()) + r'\b', channel_name_lower):
+                                  found_country_key = country_key
+                                  break
+
+                          if found_country_key:
+                              assigned_group = country_translations[found_country_key]
+                          elif 'bein' in channel_name_lower and 'spor' in channel_name_lower:
+                               assigned_group = "Bein Spor Kanalları"
+                          elif 'sport' in channel_name_lower:
+                               assigned_group = "Genel Spor Kanalları"
+                          elif 'mena' in channel_name_lower:
+                               assigned_group = "beIN Sports MENA Kanalları"
+
+                          for domain in DOMAINS:
+                              stream_url = f"{domain}/premium{channel_id}/mono.m3u8"
+
+                              try:
+                                  parsed_url = urlparse(stream_url)
+                                  path_parts = parsed_url.path.split('/')
+                                  etiket = ""
+
+                                  if len(path_parts) > 1 and path_parts[1] and path_parts[1] != f"premium{channel_id}":
+                                      etiket = path_parts[1]
+                                  elif len(parsed_url.netloc.split('.')) > 1:
+                                      potential_etiket = parsed_url.netloc.split('.')[0]
+                                      if potential_etiket and potential_etiket not in ['new', 'zekonew', 'ddy6new', 'dokko1new', 'ddh2new', 'top2new', 'wikinew']:
+                                           etiket = potential_etiket
+                                      else:
+                                           etiket = parsed_url.netloc
+
+                                  etiket_str = f"({etiket})" if etiket else ""
+
+                              except Exception as e:
+                                  print(f"Error parsing URL {stream_url}: {e}")
+                                  etiket_str = "(bilinmeyen_etiket)"
+
+                              name_tagged = f"{name} {etiket_str}".strip()
+
+                              extinf = (
+                                  f'#EXTINF:-1 tvg-id="{channel_id}" tvg-name="{name_tagged}" '
+                                  f'group-title="{assigned_group}", {name_tagged}'
+                              )
+                              channels.append((extinf, stream_url))
+
+                      else:
+                          pass
+
+                  return channels
+              except requests.exceptions.RequestException as e:
+                  print(f"Error fetching channels: {e}")
+                  return []
+              except Exception as e:
+                  print(f"An unexpected error occurred during fetch_channels: {e}")
+                  return []
+
+
+          def save_m3u(channels, filename):
+              try:
+                  os.makedirs(os.path.dirname(filename), exist_ok=True)
+
+                  with open(filename, "w", encoding="utf-8") as f:
+                      f.write("#EXTM3U\n")
+
+                      grouped_channels = {}
+                      for extinf, url in channels:
+                          group_match = re.search(r'group-title="([^"]+)"', extinf)
+                          group = group_match.group(1) if group_match else "Kategorize Edilemedi"
+                          if group not in grouped_channels:
+                              grouped_channels[group] = []
+                          grouped_channels[group].append((extinf, url))
+
+                      sorted_groups = sorted(grouped_channels.keys())
+
+                      custom_order = ["Türkiye", "Bein Spor Kanalları", "beIN Sports MENA Kanalları", "Genel Spor Kanalları", "Diğer Spor", "Kategorize Edilemedi"]
+
+                      ordered_groups = [group for group in custom_order if group in sorted_groups]
+                      remaining_groups = sorted([group for group in sorted_groups if group not in custom_order])
+                      final_group_order = ordered_groups + remaining_groups
+
+
+                      for group_name in final_group_order:
+                          if group_name in grouped_channels and grouped_channels[group_name]:
+                              for extinf, url in grouped_channels[group_name]:
+                                  f.write(f"{extinf}\n{url}\n\n")
+
+                  print(f"M3U file saved successfully to {filename}")
+              except Exception as e:
+                  print(f"Error saving M3U file {filename}: {e}")
+
+
+          if __name__ == "__main__":
+              all_channels = fetch_channels()
+
+              if all_channels:
+                  print(f"Toplam {len(all_channels)} kanal bulundu.")
+                  save_m3u(all_channels, OUTPUT_FILE)
+              else:
+                  print("Kanal bilgileri çekilemedi veya hiç kanal bulunamadı. M3U dosyası oluşturulmadı.")
+
+          EOF
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "actionhelper@users.noreply.github.com"
+          git config --local user.name "ActionHelper"
+
+          git add "dl/lattenin-otomasyonu/daddylive-vpn.m3u"
+
+          if git diff --staged --quiet; then
+            echo "Hiçbir değişiklik yok, commit yapılmayacak."
+          else
+            git commit -m "♻️ Daddylive Kanalları güncellendi"
+            git push
+          fi
+
+      - name: Temizle Gitsin
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          git checkout --orphan new_main
+          git add -A
+          git commit -m "♻ Listeler güncellendi 🧹 Geçmişe paydos!"
+
+          git branch -D main || echo "Main branch silinemedi (belki tek branch veya başka bir hata)."
+          git branch -m main
+
+          git push --force --set-upstream origin main
